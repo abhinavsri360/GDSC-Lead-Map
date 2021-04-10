@@ -1,0 +1,112 @@
+[
+    {
+        "city": "New York", 
+        "url": "https://dsc.community.dev/2021-solution-challenge/", 
+        "country": "United States of America", 
+        "longitude": -74.0059728, 
+        "latitude": 40.7127753, 
+        "avatar": "", 
+        "city_name": "New York", 
+        "banner": {
+            "path": "/platform-data-dsc/chapter_banners/Solution%20Challenge%20Banner.png"
+        }
+    }, 
+    {
+        "city": "6th of October", 
+        "url": "https://dsc.community.dev/6-october-culture-and-sciences-city/", 
+        "country": "Egypt", 
+        "longitude": 30.9187827, 
+        "latitude": 29.9285429, 
+        "avatar": "", 
+        "city_name": "6th of October", 
+        "banner": ""
+    }, 
+    {
+        "city": "Anand", 
+        "url": "https://dsc.community.dev/adpatel-institute-of-technology-cvm-university/", 
+        "country": "India", 
+        "longitude": 72.928871, 
+        "latitude": 22.5645175, 
+        "avatar": "", 
+        "city_name": "Anand", 
+        "banner": {
+            "path": "/platform-data-dsc/chapter_banners/DSC%20A%20D%20PATEL%20INSTITUTE%20OF%20TECHNOLOGY%20Light%20Vertical-Logo.png"
+        }
+    }, 
+    {
+        "city": "Espoo", 
+        "url": "https://dsc.community.dev/aalto-university-espoo/", 
+        "country": "Finland", 
+        "longitude": 24.6559, 
+        "latitude": 60.2054911, 
+        "avatar": "", 
+        "city_name": "Espoo", 
+        "banner": ""
+    }, 
+    {
+        "city": "Ghaziabad", 
+        "url": "https://dsc.community.dev/abes-engineering-college/", 
+        "country": "India", 
+        "longitude": 77.45375779999999, 
+        "latitude": 28.6691565, 
+        "avatar": "", 
+        "city_name": "Ghaziabad", 
+        "banner": ""
+    }, 
+    {
+        "city": "Ghaziabad", 
+        "url": "https://dsc.community.dev/abes-institute-of-technology/", 
+        "country": "India", 
+        "longitude": 77.45375779999999, 
+        "latitude": 28.6691565, 
+        "avatar": "", 
+        "city_name": "Ghaziabad", 
+        "banner": {
+            "path": "/platform-data-dsc/chapter_banners/Screenshot%20from%202020-08-31%2017-33-09.png"
+        }
+    }, 
+    {
+        "city": "Tlmcen", 
+        "url": "https://dsc.community.dev/abou-bakr-belkaid-tlemcen-university/", 
+        "country": "Algeria", 
+        "longitude": -1.3166815, 
+        "latitude": 34.8828864, 
+        "avatar": "", 
+        "city_name": "Tlmcen", 
+        "banner": ""
+    }, 
+    {
+        "city": "Al Ain", 
+        "url": "https://dsc.community.dev/abu-dhabi-university/", 
+        "country": "United Arab Emirates", 
+        "longitude": 55.8023118, 
+        "latitude": 24.1301619, 
+        "avatar": "", 
+        "city_name": "Al Ain", 
+        "banner": ""
+    }, 
+    {
+        "city": "Bauchi", 
+        "url": "https://dsc.community.dev/abubakar-tafawa-balewa-universitybauchi/", 
+        "country": "Nigeria", 
+        "longitude": 9.8236533, 
+        "latitude": 10.3009641, 
+        "avatar": "", 
+        "city_name": "Bauchi", 
+        "banner": {
+            "path": "/platform-data-dsc/chapter_banners/1_MqjIHb8.jpg"
+        }
+    }, 
+    {
+        "city": "Adisaptagram", 
+        "url": "https://dsc.community.dev/academy-of-technology/", 
+        "country": "India", 
+        "longitude": 88.37989859999999, 
+        "latitude": 22.9606362, 
+        "avatar": "", 
+        "city_name": "Adisaptagram", 
+        "banner": {
+            "path": "/platform-data-dsc/chapter_banners/communitydscaot.png"
+        }
+    }
+]
