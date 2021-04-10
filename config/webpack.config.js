@@ -361,6 +361,15 @@ module.exports = function (webpackEnv) {
       strictExportPresence: true,
       rules: [
         // Disable require.ensure as it's not a standard language feature.
+        {
+          test: /\.(eot|md|svg|ttf|woff|woff2)$/,
+          use: {
+            loader: 'file-loader',
+            options: {
+              name: '[name].[ext]',
+            },
+          },
+        },
         { parser: { requireEnsure: false } },
         {
           // "oneOf" will traverse all following loaders until one will
