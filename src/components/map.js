@@ -22,7 +22,7 @@ class map extends Component {
                 <Marker position={[28.5355161, 77.3910265]}>
                     <Popup>
                     <Card>
-                        <CardImg top width="100%" src={require('../photos/one.png')} alt="Card image cap" />
+                        <CardImg top width="100%" src={one} alt="Card image cap" />
                         <CardBody>
                             <CardTitle tag="h5">Card title</CardTitle>
                             <CardSubtitle tag="h6" className="mb-2 text-muted">Card subtitle</CardSubtitle>

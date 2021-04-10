@@ -358,9 +358,6 @@ module.exports = function (webpackEnv) {
       ],
     },
     module: {
-      loaders: [
-        { test: /\.(png|jpg)$/, loader: 'url-loader?limit=8192' }
-      ],
       strictExportPresence: true,
       rules: [
         // Disable require.ensure as it's not a standard language feature.
