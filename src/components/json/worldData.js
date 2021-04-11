@@ -17,6 +17,21 @@ const data = [
         "linkedin": "https://www.linkedin.com/in/abhinavsri360/",
         "twitter": "https://twitter.com/abhinavsri360",
         "portfolio": "http://abhinavsri360.netlify.app/"
+    },
+    {
+        "longitude": 83.2184815,
+        "latitude": 17.6868159,
+        "batch": 2020,
+        "photo": sri-laasya,
+        "region": "Asia",
+        "skills": ["AI/ML", "Web Dev", "UI/UX"],
+        "name": "Sri Laasya Nutheti",
+        "bio": "Research intern at MIT",
+        "url": "https://dsc.community.dev/andhra-university-college-of-engineering/",
+        "chapterName": "Andhra University College of Engineering",
+        "github": "http://github.com/srilaasya",
+        "linkedin": "https://www.linkedin.com/in/sri-laasya/",
+        "twitter": "https://twitter.com/n_sri_laasya"
     }
 ]
 
