@@ -73,6 +73,5 @@ Thanks to everyone who has helped in accumulating a legacy GDSC Lead Map!
 <a href="https://github.com/abhinavsri360/GDSC-Lead-Map/graphs/contributors"><img src="https://contributors-img.firebaseapp.com/image?repo=abhinavsri360/GDSC-Lead-Map" alt="Image of contributors"></a>
 
 <br></br>
-<br></br>
  
-<img width="17%" src="https://forthebadge.com/images/badges/it-works-why.svg">    <img width="14%" src="https://forthebadge.com/images/badges/uses-brains.svg">    <img width="25%" src="https://forthebadge.com/images/badges/contains-17-coffee-cups.svg">
+<img width="17%" src="https://forthebadge.com/images/badges/it-works-why.svg">    <img width="14%" src="https://forthebadge.com/images/badges/uses-brains.svg">    <img width="24%" src="https://forthebadge.com/images/badges/contains-17-coffee-cups.svg">
