@@ -29,7 +29,7 @@ const data = [
 		region: "Asia",
 		skills: ["AI/ML", "Web Dev", "UI/UX"],
 		name: "Sri Laasya Nutheti",
-		bio: "Research intern at MIT",
+		bio: "Respect Existance or Expect Resistance",
 		url:
 			"https://dsc.community.dev/andhra-university-college-of-engineering/",
 		chapterName: "Andhra University College of Engineering",
@@ -55,5 +55,4 @@ const data = [
 		twitter: "https://twitter.com/AravindVNair99",
 	},
 ];
-
 export default data
