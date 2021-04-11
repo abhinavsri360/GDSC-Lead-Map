@@ -14,7 +14,7 @@
 ![Repo stars](https://img.shields.io/github/stars/abhinavsri360/GDSC-Lead-Map?style=social)
 
 
-GDSC-Lead-Map displays the leads of all batches on a map, filters are present such as skills, and region to find and connect with leads in case of any need, or speaker sessions or if you want to connect with any of the leads at any time for any sort of help. [IDK what to write]
+GDSC-Lead-Map displays the leads of all batches on a map, filters are present such as skills, and region to find and connect with leads in case of any need, or speaker sessions or if you want to connect with any of the leads at any time for any sort of help.
 
 Version 1.0 of the project can be found deployed here: https://gdscleadmap.netlify.app/
 
