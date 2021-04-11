@@ -20,10 +20,10 @@ Version 1.0 of the project can be found deployed here: https://gdscleadmap.netli
 
 Moreover, the site is deployed here as well: [I'll place the domain once I'll buy it ;-;]
 
-## :star: Place yourself on Map  
+## :star: Place yourself on Map
 We have not placed all the leads on map, it's a DIY. Follow the steps to have yourself on the amazing map!
 1) Fork the repo.
-2) Upload your picture in `src/photos/`, use you GitHub username to name your file. [P.S. - upload only png images]
+2) Upload your picture in `src/photos/`, use you GitHub username to name your file. [P.S. - upload only `jpg` images]
 3) Create a pull-request to this repository.
 4) For url use the https://dsc.community.dev chapter URL.
 5) Provide links to your social media handles.
@@ -34,7 +34,7 @@ We have not placed all the leads on map, it's a DIY. Follow the steps to have yo
 
 7) Replace the below object with your details and create a PR:
 ```py
-"longitude": 77.3653, 
+"longitude": 77.3653,
 "latitude": 28.5192,
 "batch": 2020,
 "photo": abhinavsri360,
@@ -70,5 +70,5 @@ Thanks to everyone who has helped in accumulating a legacy GDSC Lead Map!
 <a href="https://github.com/abhinavsri360/GDSC-Lead-Map/graphs/contributors"><img src="https://contributors-img.firebaseapp.com/image?repo=abhinavsri360/GDSC-Lead-Map" alt="Image of contributors"></a>
 
 <br></br>
- 
+
 <img width="17%" src="https://forthebadge.com/images/badges/it-works-why.svg">    <img width="14%" src="https://forthebadge.com/images/badges/uses-brains.svg">    <img width="24%" src="https://forthebadge.com/images/badges/contains-17-coffee-cups.svg">
