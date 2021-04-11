@@ -24,8 +24,12 @@ const jumbotron = (props) => {
 						color="primary"
 						onClick={(e) => {
 							e.preventDefault();
-							window.location.href =
-								"https://developers.google.com/community/dsc/leads";
+							window
+								.open(
+									"https://developers.google.com/community/dsc/leads",
+									"_blank"
+								)
+								.focus();
 						}}
 					>
 						Learn More!
