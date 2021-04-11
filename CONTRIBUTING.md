@@ -4,7 +4,7 @@ In order to get yourself on map, fill in with your details.
 
 ```py
 {
-        "longitude": 77.3653, 
+        "longitude": 77.3653,
         "latitude": 28.5192,
         "batch": 2020,
         "photo": abhinavsri360,
@@ -14,9 +14,9 @@ In order to get yourself on map, fill in with your details.
         "bio": "I write something colorful on something very dark.",
         "url": "https://dsc.community.dev/jaypee-institute-of-information-technology-sec-128/",
         "chapterName": "Jaypee Institute of Information Technology, Sec - 128",
-        "github": "http://github.com/abhinavsri360",
+        "github": "https://github.com/abhinavsri360",
         "linkedin": "https://www.linkedin.com/in/abhinavsri360/",
         "twitter": "https://twitter.com/abhinavsri360",
-        "portfolio": "http://abhinavsri360.netlify.app/"
+        "portfolio": "https://abhinavsri360.netlify.app/"
 }
 ```

@@ -17,10 +17,10 @@ const data = [
 		url:
 			"https://dsc.community.dev/jaypee-institute-of-information-technology-sec-128/",
 		chapterName: "Jaypee Institute of Information Technology, Sec - 128",
-		github: "http://github.com/abhinavsri360",
+		github: "https://github.com/abhinavsri360",
 		linkedin: "https://www.linkedin.com/in/abhinavsri360/",
 		twitter: "https://twitter.com/abhinavsri360",
-		portfolio: "http://abhinavsri360.netlify.app/",
+		portfolio: "https://abhinavsri360.netlify.app/",
 	},
 	{
 		longitude: 83.2184815,
@@ -34,7 +34,7 @@ const data = [
 		url:
 			"https://dsc.community.dev/andhra-university-college-of-engineering/",
 		chapterName: "Andhra University College of Engineering",
-		github: "http://github.com/srilaasya",
+		github: "https://github.com/srilaasya",
 		linkedin: "https://www.linkedin.com/in/sri-laasya/",
 		twitter: "https://twitter.com/n_sri_laasya",
 	},
@@ -66,7 +66,7 @@ const data = [
 		bio: "Progate Community Intern",
 		url: "https://dsc.community.dev/bhagalpur-college-of-engineering/",
 		chapterName: "Indian Institute of Information Technology, Bhagalpur",
-		github: "http://github.com/helios027",
+		github: "https://github.com/helios027",
 		linkedin: "https://www.linkedin.com/in/harshjain2710/",
 		twitter: "https://twitter.com/HarshJain027",
 	},

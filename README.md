@@ -6,7 +6,7 @@
 <h1 align="center">Lead Map</h1>
 
 
-[![HitCount](http://hits.dwyl.com/abhinavsri360/GDSC-Lead-Map.svg)](http://hits.dwyl.com/abhinavsri360/GDSC-Lead-Map)
+[![HitCount](https://hits.dwyl.com/abhinavsri360/GDSC-Lead-Map.svg)](https://hits.dwyl.com/abhinavsri360/GDSC-Lead-Map)
 ![GitHub license](https://img.shields.io/github/license/abhinavsri360/GDSC-Lead-Map)
 ![GitHub contributors](https://img.shields.io/github/contributors/abhinavsri360/GDSC-Lead-Map)
 ![Repo issues](https://img.shields.io/github/issues/abhinavsri360/GDSC-Lead-Map)
@@ -44,10 +44,10 @@ We have not placed all the leads on map, it's a DIY. Follow the steps to have yo
 "bio": "I write something colorful on something very dark.",
 "url": "https://dsc.community.dev/jaypee-institute-of-information-technology-sec-128/",
 "chapterName": "Jaypee Institute of Information Technology, Sec - 128",
-"github": "http://github.com/abhinavsri360",
+"github": "https://github.com/abhinavsri360",
 "linkedin": "https://www.linkedin.com/in/abhinavsri360/",
 "twitter": "https://twitter.com/abhinavsri360",
-"portfolio": "http://abhinavsri360.netlify.app/"
+"portfolio": "https://abhinavsri360.netlify.app/"
 ```
 Voila! You will be on the map in no-time!
 

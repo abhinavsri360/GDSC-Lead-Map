@@ -726,7 +726,7 @@ function focusSvgForeignObjectHack(element) {
 }
 
 function generate(element) {
-  return '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">' + element + '</svg>';
+  return '<svg xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink">' + element + '</svg>';
 }
 
 function focus(element) {
@@ -789,7 +789,7 @@ var focusSvgForeignobjectTabindex = {
 }; // Firefox seems to be handling the SVG-document-in-iframe creation asynchronously
 // and thereby produces a false negative test result. Thus the test is pointless
 // and we resort to UA sniffing once again.
-// see http://jsbin.com/vunadohoko/1/edit?js,console,output
+// see https://jsbin.com/vunadohoko/1/edit?js,console,output
 
 var result$2 = Boolean(platform.is.GECKO && typeof SVGElement !== 'undefined' && SVGElement.prototype.focus);
 
@@ -1926,7 +1926,7 @@ function createFilter(condition) {
 
     return NodeFilter.FILTER_SKIP;
   }; // IE requires a function, Browsers require {acceptNode: function}
-  // see http://www.bennadel.com/blog/2607-finding-html-comment-nodes-in-the-dom-using-treewalker.htm
+  // see https://www.bennadel.com/blog/2607-finding-html-comment-nodes-in-the-dom-using-treewalker.htm
 
 
   filter.acceptNode = filter;
@@ -2790,7 +2790,7 @@ function sortTabindex(elements) {
   // on a stable sorting algorithm, sortTabindex() could be as simple as
   // elements.sort(function(a, b) { return a.tabIndex - b.tabIndex; });
   // at this time Chrome does not use a stable sorting algorithm
-  // see http://blog.rodneyrehm.de/archives/14-Sorting-Were-Doing-It-Wrong.html#stability
+  // see https://blog.rodneyrehm.de/archives/14-Sorting-Were-Doing-It-Wrong.html#stability
   // NOTE: compareDocumentPosition seemed like more overhead than just sorting this with buckets
   // https://developer.mozilla.org/en-US/docs/Web/API/Node.compareDocumentPosition
   var map = {};

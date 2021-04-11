@@ -98,7 +98,7 @@ class searchedLeads extends Component {
             <>
                 <MapContainer style={{ height: '75vh' }} center={[28.5355161, 77.3910265]} zoom={5} scrollWheelZoom={false}>
                     <TileLayer
-                        attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+                        attribution='&copy; <a href="https://osm.org/copyright">OpenStreetMap</a> contributors'
                         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
                     />
                     {pugs}
