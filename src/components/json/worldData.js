@@ -17,12 +17,12 @@ const data = [
 		name: "Abhinav Srivastava",
 		bio: "I write something colorful on something very dark.",
 		url:
-			"https://dsc.community.dev/jaypee-institute-of-information-technology-sec-128/",
+			"https://dsc.community.dev/jaypee-institute-of-information-technology-sec-128",
 		chapterName: "Jaypee Institute of Information Technology, Sec - 128",
 		github: "https://github.com/abhinavsri360",
-		linkedin: "https://www.linkedin.com/in/abhinavsri360/",
+		linkedin: "https://linkedin.com/in/abhinavsri360",
 		twitter: "https://twitter.com/abhinavsri360",
-		portfolio: "https://abhinavsri360.netlify.app/",
+		portfolio: "https://abhinavsri360.netlify.app",
 	},
 	{
 		longitude: 83.2184815,
@@ -34,10 +34,10 @@ const data = [
 		name: "Sri Laasya Nutheti",
 		bio: "Respect Existance or Expect Resistance",
 		url:
-			"https://dsc.community.dev/andhra-university-college-of-engineering/",
+			"https://dsc.community.dev/andhra-university-college-of-engineering",
 		chapterName: "Andhra University College of Engineering",
 		github: "https://github.com/srilaasya",
-		linkedin: "https://www.linkedin.com/in/sri-laasya/",
+		linkedin: "https://linkedin.com/in/sri-laasya",
 		twitter: "https://twitter.com/n_sri_laasya",
 	},
 	{
@@ -50,8 +50,7 @@ const data = [
 		name: "Aravind V. Nair",
 		bio:
 			"Full-stack Web Developer, Cloud Computing and Cybersecurity Enthusiast",
-		url:
-			"https://dsc.community.dev/amrita-school-of-engineering-bengaluru/",
+		url: "https://dsc.community.dev/amrita-school-of-engineering-bengaluru",
 		chapterName: "Amrita School of Engineering, Bengaluru",
 		github: "https://github.com/AravindVNair99",
 		linkedin: "https://linkedin.com/in/AravindVNair99",
@@ -66,10 +65,10 @@ const data = [
 		skills: ["Web Dev"],
 		name: "Harsh Jain",
 		bio: "Progate Community Intern",
-		url: "https://dsc.community.dev/bhagalpur-college-of-engineering/",
+		url: "https://dsc.community.dev/bhagalpur-college-of-engineering",
 		chapterName: "Indian Institute of Information Technology, Bhagalpur",
-		github: "http://github.com/helios027",
-		linkedin: "https://www.linkedin.com/in/harshjain2710/",
+		github: "https://github.com/helios027",
+		linkedin: "https://linkedin.com/in/harshjain2710",
 		twitter: "https://twitter.com/HarshJain027",
 	},
 	{
@@ -82,12 +81,12 @@ const data = [
 		name: "Avisek Shaw",
 		bio: "Commit the changes in your life otherwise you will loose them.",
 		url:
-			"https://dsc.community.dev/calcutta-institute-of-engineering-and-management/",
+			"https://dsc.community.dev/calcutta-institute-of-engineering-and-management",
 		chapterName: "Calcutta Institute of Engineering and Management",
-		github: "http://github.com/shawavisek35",
-		linkedin: "https://www.linkedin.com/in/avisek-shaw-78136b196/",
+		github: "https://github.com/shawavisek35",
+		linkedin: "https://linkedin.com/in/avisek-shaw-78136b196",
 		twitter: "https://twitter.com/AvisekShaw6",
-		portfolio: "http://avisekcode.netlify.app/",
+		portfolio: "https://avisekcode.netlify.app",
 	},
 	{
 		longitude: 12.8625611,
@@ -100,10 +99,10 @@ const data = [
 		bio: "ಠ益ಠ.",
 		url: "https://dsc.community.dev/pes-university-ec-campus",
 		chapterName: "PES University Electronic City Campus",
-		github: "http://github.com/call-me-bk",
-		linkedin: "https://www.linkedin.com/in/iamKarthikBK/",
+		github: "https://github.com/call-me-bk",
+		linkedin: "https://linkedin.com/in/iamKarthikBK",
 		twitter: "https://twitter.com/iamKarthikBK",
-		portfolio: "https://www.nohello.com/",
+		portfolio: "https://www.nohello.com",
 	},
 ];
 export default data;
