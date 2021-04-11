@@ -3,6 +3,7 @@ import abhinavsri360 from "../../photos/abhinavsri360.jpg";
 import AravindVNair99 from "../../photos/AravindVNair99.jpg";
 import srilaasya from "../../photos/srilaasya.jpg";
 import HarshJain from '../../photos/HarshJain.jpeg'
+import Aswin from "../../photos/Aswin.JPG";
 
 const data = [
 	{
@@ -69,6 +70,21 @@ const data = [
 		"github": "http://github.com/helios027",
 		"linkedin": "https://www.linkedin.com/in/harshjain2710/",
 		"twitter": "https://twitter.com/HarshJain027"
+	},
+	{
+		"longitude":11.5034,
+		"latitude": 77.2444,
+		"batch": 2020,
+		"photo": Aswin,
+		"region": "Asia",
+		"skills": [ "Cloud"],
+		"name": "Aswin Kumar M",
+		"bio": "Never fear the Air.",
+		"url": "https://dsc.community.dev/bannari-amman-institute-of-technology/",
+		"chapterName": "Bannari Amman Institute of Technology, Sathyamangalam",
+		"github": "https://github.com/todcru",
+		"linkedin": "https://www.linkedin.com/in/aswin-kumar-m-83081b171/",
+		"twitter": "https://twitter.com/thisaswin"
 	}
 ];
 export default data;
