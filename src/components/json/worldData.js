@@ -3,7 +3,7 @@ import abhinavsri360 from "../../photos/abhinavsri360.jpg";
 import AravindVNair99 from "../../photos/AravindVNair99.jpg";
 import srilaasya from "../../photos/srilaasya.jpg";
 import HarshJain from "../../photos/HarshJain.jpeg";
-import shreyasmalewar from "../../photos/shreyasmalewar.jpeg";
+import shreyasmalewar from "../../photos/shreyasmalewar.jpg";
 
 const data = [
   {
