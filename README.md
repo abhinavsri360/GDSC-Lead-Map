@@ -61,7 +61,7 @@ This is an open-source project, feel free to enhance the same by your valuable c
 In order to setup the project, follow the steps:
 1) Fork the repository.
 2) Clone the forked repository.
-3) Run `npm run install` or `yarn install` to install the dependencies involved in the project.
+3) Run `npm install` or `yarn install` to install the dependencies involved in the project.
 4) One the above step is configured, run `npm start` or `yarn start` to run the project in development mode.
 5) The setup is done! Happy coding!
 
