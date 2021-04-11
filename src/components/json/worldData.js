@@ -69,6 +69,21 @@ const data = [
 		"github": "http://github.com/helios027",
 		"linkedin": "https://www.linkedin.com/in/harshjain2710/",
 		"twitter": "https://twitter.com/HarshJain027"
+	},
+	{
+		"longitude":21.105388500457135,
+		"latitude": 79.00346884403419,
+		"batch": 2020,
+		"photo": shreyasmalewar,
+		"region": "Asia",
+		"skills": ["AI/ML", "Web Dev"],
+		"name": "Shreyas Malewar",
+		"bio": "I like to Code and Connect. I'm an Artist, Author and an Engineer.",
+		"url": "https://dsc.community.dev/gh-raisoni-college-of-engineering/",
+		"chapterName": "G H Raisoni College of Engineering",
+		"github": "http://github.com/shreyasmalewar",
+		"linkedin": "https://www.linkedin.com/in/shreyasmalewar/",
+		"twitter": "https://twitter.com/ShreyasMalewar"
 	}
 ];
 export default data;
