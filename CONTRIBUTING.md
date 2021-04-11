@@ -2,6 +2,7 @@
 
 ## Adding yourself to the map
 
+Find your latitude, longitude using this: https://maps.google.com/pluscodes/
 In order to get yourself on the map, add your details in `src/components/json/worldData.js` by duplicating one of the existing entries such as:
 
 ```JavaScript
