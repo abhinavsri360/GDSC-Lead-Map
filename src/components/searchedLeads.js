@@ -23,26 +23,26 @@ class searchedLeads extends Component {
                             <Grid style={{ padding: '5%' }} container direction="row">
                                 <Grid item xs={3}>
                                     {item.github ? (
-                                        <GitHubIcon style={{ cursor: "pointer" }} onClick={(e) => { e.preventDefault(); window.location.href=item.github }} />
+                                        <GitHubIcon style={{ cursor: "pointer" }} onClick={(e) => { e.preventDefault(); window.open(item.github, "_blank").focus();}} />
                                     ) : <></>}
                                 </Grid>
                                 <Grid item xs={3}>
                                     {item.linkedin ? (
-                                        <LinkedInIcon style={{ cursor: "pointer" }} onClick={(e) => { e.preventDefault(); window.location.href=item.linkedin }} />
+                                        <LinkedInIcon style={{ cursor: "pointer" }} onClick={(e) => { e.preventDefault(); window.open(item.linkedin, "_blank").focus(); }} />
                                     ) : <></>}
                                 </Grid>
                                 <Grid item xs={3}>
                                     {item.twitter ? (
-                                        <TwitterIcon style={{ cursor: "pointer" }} onClick={(e) => { e.preventDefault(); window.location.href=item.twitter }} />
+                                        <TwitterIcon style={{ cursor: "pointer" }} onClick={(e) => { e.preventDefault(); window.open(item.twitter, "_blank").focus();}} />
                                     ) : <></>}
                                 </Grid>
                                 <Grid item xs={3}>
                                     {item.portfolio ? (
-                                        <LinkIcon style={{ cursor: "pointer" }} onClick={(e) => { e.preventDefault(); window.location.href=item.portfolio }} />
+                                        <LinkIcon style={{ cursor: "pointer" }} onClick={(e) => { e.preventDefault(); window.open(item.portfolio, "_blank").focus();}} />
                                     ) : <></>}
                                 </Grid>
                             </Grid>
-                            <Button onClick={(e) => { e.preventDefault(); window.location.href=item.url }}>Chapter Link</Button>
+                            <Button onClick={(e) => { e.preventDefault(); window.open(item.url, "_blank").focus();}}>Chapter Link</Button>
                         </CardBody>
                     </Card>
                 </Grid>
@@ -67,26 +67,26 @@ class searchedLeads extends Component {
                             <Grid style={{ padding: '5%' }} container direction="row">
                                 <Grid item xs={3}>
                                     {item.github ? (
-                                        <GitHubIcon style={{ cursor: "pointer" }} onClick={(e) => { e.preventDefault(); window.location.href=item.github }} />
+                                        <GitHubIcon style={{ cursor: "pointer" }} onClick={(e) => { e.preventDefault(); window.open(item.github, "_blank").focus();}} />
                                     ) : <></>}
                                 </Grid>
                                 <Grid item xs={3}>
                                     {item.linkedin ? (
-                                        <LinkedInIcon style={{ cursor: "pointer" }} onClick={(e) => { e.preventDefault(); window.location.href=item.linkedin }} />
+                                        <LinkedInIcon style={{ cursor: "pointer" }} onClick={(e) => { e.preventDefault(); window.open(item.linkedin, "_blank").focus(); }} />
                                     ) : <></>}
                                 </Grid>
                                 <Grid item xs={3}>
                                     {item.twitter ? (
-                                        <TwitterIcon style={{ cursor: "pointer" }} onClick={(e) => { e.preventDefault(); window.location.href=item.twitter }} />
+                                        <TwitterIcon style={{ cursor: "pointer" }} onClick={(e) => { e.preventDefault(); window.open(item.twitter, "_blank").focus(); }} />
                                     ) : <></>}
                                 </Grid>
                                 <Grid item xs={3}>
                                     {item.portfolio ? (
-                                        <LinkIcon style={{ cursor: "pointer" }} onClick={(e) => { e.preventDefault(); window.location.href=item.portfolio }} />
+                                        <LinkIcon style={{ cursor: "pointer" }} onClick={(e) => { e.preventDefault(); window.open(item.portfolio, "_blank").focus(); }} />
                                     ) : <></>}
                                 </Grid>
                             </Grid>
-                            <Button onClick={(e) => { e.preventDefault(); window.location.href=item.url }}>Chapter Link</Button>
+                            <Button onClick={(e) => { e.preventDefault(); window.open(item.url, "_blank").focus(); }}>Chapter Link</Button>
                         </CardBody>
                     </Card>
                 </Popup>
@@ -98,7 +98,7 @@ class searchedLeads extends Component {
             <>
                 <MapContainer style={{ height: '75vh' }} center={[28.5355161, 77.3910265]} zoom={5} scrollWheelZoom={false}>
                     <TileLayer
-                        attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+                        attribution='&copy; <a href="https://osm.org/copyright">OpenStreetMap</a> contributors'
                         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
                     />
                     {pugs}
