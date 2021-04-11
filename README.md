@@ -75,4 +75,4 @@ Thanks to everyone who has helped in accumulating a legacy GDSC Lead Map!
 <br></br>
 <br></br>
  
-<img width="30%" src="https://forthebadge.com/images/badges/it-works-why.svg"><img width="30%" src="https://forthebadge.com/images/badges/uses-brains.svg"><img width="30%" src="https://forthebadge.com/images/badges/contains-17-coffee-cups.svg">
+<img width="17%" src="https://forthebadge.com/images/badges/it-works-why.svg">    <img width="14%" src="https://forthebadge.com/images/badges/uses-brains.svg">    <img width="25%" src="https://forthebadge.com/images/badges/contains-17-coffee-cups.svg">
