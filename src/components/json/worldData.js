@@ -2,6 +2,7 @@
 import abhinavsri360 from '../../photos/abhinavsri360.jpg'
 import AravindVNair99 from "../../photos/AravindVNair99.jpg";
 import srilaasya from '../../photos/srilaasya.png'
+import HarshJain from '../../photos/HarshJain.jpeg'
 
 const data = [
 	{
@@ -54,5 +55,20 @@ const data = [
 		linkedin: "https://linkedin.com/in/AravindVNair99",
 		twitter: "https://twitter.com/AravindVNair99",
 	},
+	{
+		"longitude":86.9842256,
+		"latitude": 25.242453,
+		"batch": 2020,
+		"photo": HarshJain,
+		"region": "Asia",
+		"skills": [ "Web Dev"],
+		"name": "Harsh Jain",
+		"bio": "Progate Community Intern",
+		"url": "https://dsc.community.dev/bhagalpur-college-of-engineering/",
+		"chapterName": "Indian Institute of Information Technology, Bhagalpur",
+		"github": "http://github.com/helios027",
+		"linkedin": "https://www.linkedin.com/in/harshjain2710/",
+		"twitter": "https://twitter.com/HarshJain027"
+	}
 ];
 export default data
