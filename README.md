@@ -19,15 +19,8 @@ Website is deployed here: https://gdscleadmap.netlify.app/
 We have not placed all the leads on map, it's a DIY. Follow the steps to have yourself on the amazing map!
 
 1. [Fork on GitHub](https://github.com/abhinavsri360/GDSC-Lead-Map/fork)
-2. Upload your picture in `src/photos/`
-3. Add your details in `src/components/json/worldData.js` by duplicating one of the existing entries
-4. Create a pull-request to this repository.
-5. For url use the https://dsc.community.dev chapter URL.
-6. Provide links to your social media handles.
-7. Use only the below mentioned skills in the skills array.
-
-| AI/ML | App Dev | Cloud | UI/UX | Web Dev |
-| ----- | ------- | ----- | ----- | ------- |
+2. Follow the steps mentioned in the [contributing guidelines](CONTRIBUTING.md).
+3. Create a pull-request to this repository.
 
 Voila! You will be on the map in no-time!
 

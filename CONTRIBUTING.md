@@ -23,7 +23,20 @@ In order to get yourself on the map, add your details in `src/components/json/wo
 }
 ```
 
-Don't forget to add your `jpg` photo in `src/photos/` with the file name as your GitHub username.
+Import the image at the top of the file using:
+
+```JavaScript
+import abhinavsri360 from "../../photos/abhinavsri360.jpg";
+```
+
+### Notes for adding yourself to the map
+
+- Don't forget to add your `jpg` photo in `src/photos/` with the file name as your GitHub username and import it.
+- For url use the `https://dsc.community.dev` chapter URL.
+- Use only the below mentioned skills in the skills array.
+
+| AI/ML | App Dev | Cloud | UI/UX | Web Dev |
+| ----- | ------- | ----- | ----- | ------- |
 
 ## Other PRs
 
