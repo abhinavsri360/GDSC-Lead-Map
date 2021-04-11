@@ -6,6 +6,7 @@ import Aswin from "../../photos/Aswin.jpg";
 import helios027 from "../../photos/helios027.jpg";
 import shawavisek35 from "../../photos/shawavisek35.png";
 import karthik from "../../photos/karthik.jpg";
+import hassan from "../../photos/hasan.jpeg";
 
 const data = [
 	{
@@ -119,6 +120,21 @@ const data = [
 		linkedin: "https://linkedin.com/in/iamKarthikBK",
 		twitter: "https://twitter.com/iamKarthikBK",
 		portfolio: "https://www.nohello.com",
+	},
+	{
+		longitude: 47.54352832810872,
+		latitude: 21.640339625980996,
+		batch: 2020,
+		photo: karthik,
+		region: "Europe",
+		skills: ["App Dev","AI/ML"],
+		name: "Muhammad Hassan Raza",
+		bio: "A hardworking and resourceful individual seeking to work as a computer scientist with the ability to persuade and convince people about computer-related works.",
+		url: "dsc.community.dev/university-of-debrecen-debreceni-egyetem-de/",
+		chapterName: "University of Debrecen / Debreceni Egyetem DE",
+		github: "https://github.com/MuhammadHassanRazaa",
+		linkedin: "https://linkedin.com/in/sshthassanraza",
+		twitter: "https://twitter.com/sshthassanraza"
 	}
 ];
 export default data;
