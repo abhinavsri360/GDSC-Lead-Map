@@ -1,7 +1,7 @@
 //import pictures
-import abhinavsri360 from '../../photos/abhinavsri360.jpg'
+import abhinavsri360 from "../../photos/abhinavsri360.jpg";
 import AravindVNair99 from "../../photos/AravindVNair99.jpg";
-import srilaasya from '../../photos/srilaasya.png'
+import srilaasya from "../../photos/srilaasya.jpg";
 import HarshJain from '../../photos/HarshJain.jpeg'
 
 const data = [
@@ -71,4 +71,4 @@ const data = [
 		"twitter": "https://twitter.com/HarshJain027"
 	}
 ];
-export default data
+export default data;
