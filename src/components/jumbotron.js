@@ -18,6 +18,8 @@ const jumbotron = (props) => {
         <iframe src="https://ghbtns.com/github-btn.html?user=abhinavsri360&repo=GDSC-Lead-Map&type=fork&count=true&size=large" frameBorder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
         <br />
         <GitHubButton href="https://github.com/abhinavsri360" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @abhinavsri360 on GitHub">Follow @abhinavsri360</GitHubButton>
+        <GitHubButton href="https://github.com/srilaasya" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @srilaasya on GitHub">Follow @srilaasya</GitHubButton>
+        <GitHubButton href="https://github.com/helios027" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @helios027 on GitHub">Follow @helios027</GitHubButton>
       </Jumbotron>
     </div>
   );

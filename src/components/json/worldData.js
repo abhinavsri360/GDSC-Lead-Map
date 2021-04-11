@@ -1,7 +1,7 @@
 //import pictures
 import abhinavsri360 from '../../photos/abhinavsri360.jpg'
-import srilaasya from '../../photos/sri-laasya.jpg'
 import AravindVNair99 from "../../photos/AravindVNair99.jpg";
+import srilaasya from '../../photos/srilaasya.png'
 
 const data = [
 	{

@@ -66,16 +66,24 @@ class searchedLeads extends Component {
                             <CardText>{item.bio}</CardText>
                             <Grid style={{ padding: '5%' }} container direction="row">
                                 <Grid item xs={3}>
-                                <GitHubIcon style={{ cursor: "pointer" }} onClick={(e) => { e.preventDefault(); window.location.href=item.github }} />
+                                    {item.github ? (
+                                        <GitHubIcon style={{ cursor: "pointer" }} onClick={(e) => { e.preventDefault(); window.location.href=item.github }} />
+                                    ) : <></>}
                                 </Grid>
                                 <Grid item xs={3}>
-                                <LinkedInIcon style={{ cursor: "pointer" }} onClick={(e) => { e.preventDefault(); window.location.href=item.linkedin }} />
+                                    {item.linkedin ? (
+                                        <LinkedInIcon style={{ cursor: "pointer" }} onClick={(e) => { e.preventDefault(); window.location.href=item.linkedin }} />
+                                    ) : <></>}
                                 </Grid>
                                 <Grid item xs={3}>
-                                <TwitterIcon style={{ cursor: "pointer" }} onClick={(e) => { e.preventDefault(); window.location.href=item.twitter }} />
+                                    {item.twitter ? (
+                                        <TwitterIcon style={{ cursor: "pointer" }} onClick={(e) => { e.preventDefault(); window.location.href=item.twitter }} />
+                                    ) : <></>}
                                 </Grid>
                                 <Grid item xs={3}>
-                                <LinkIcon style={{ cursor: "pointer" }} onClick={(e) => { e.preventDefault(); window.location.href=item.portfolio }} />
+                                    {item.portfolio ? (
+                                        <LinkIcon style={{ cursor: "pointer" }} onClick={(e) => { e.preventDefault(); window.location.href=item.portfolio }} />
+                                    ) : <></>}
                                 </Grid>
                             </Grid>
                             <Button onClick={(e) => { e.preventDefault(); window.location.href=item.url }}>Chapter Link</Button>
