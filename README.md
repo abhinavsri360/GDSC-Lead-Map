@@ -23,7 +23,7 @@ Moreover, the site is deployed here as well: [I'll place the domain once I'll bu
 ## :star: Place yourself on Map  
 We have not placed all the leads on map, it's a DIY. Follow the steps to have yourself on the amazing map!
 1) Fork the repo.
-2) Upload your picture in `src/photos/`, use you GitHub username to name your file. [P.S. - upload only png images]
+2) Upload your picture in `src/photos/`, use you GitHub username to name your file. [P.S. - upload only png images and THE PHOTO NAME SHOULDN'T CONSIST OF ANY SPEACIAL CHARACTERS. JUST PLAIN TEXT]
 3) Create a pull-request to this repository.
 4) For url use the https://dsc.community.dev chapter URL.
 5) Provide links to your social media handles.
