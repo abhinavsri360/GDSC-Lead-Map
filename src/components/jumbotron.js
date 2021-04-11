@@ -17,7 +17,6 @@ const jumbotron = (props) => {
         <iframe src="https://ghbtns.com/github-btn.html?user=abhinavsri360&repo=GDSC-Lead-Map&type=watch&count=true&size=large&v=2" frameBorder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
         <iframe src="https://ghbtns.com/github-btn.html?user=abhinavsri360&repo=GDSC-Lead-Map&type=fork&count=true&size=large" frameBorder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
         <br />
-        <h3 className="display-3">Follow the Devs</h3>
         <GitHubButton href="https://github.com/abhinavsri360" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @abhinavsri360 on GitHub">Follow @abhinavsri360</GitHubButton>
       </Jumbotron>
     </div>
