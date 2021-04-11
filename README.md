@@ -1,6 +1,12 @@
-# GDSC-Lead-Map
+<p align="center"><img width="20%" src = "https://user-images.githubusercontent.com/54776537/114298385-c9d6b300-9ad3-11eb-94c0-b4c4aa023187.gif" styles></p>
+<p align="center"><img width ="45%" src="https://user-images.githubusercontent.com/54776537/114298853-fb507e00-9ad5-11eb-9429-cc284cec6cb8.png"></p>
 
-[![HitCount](http://hits.dwyl.com/abhinavsri360/GDSC-Lead-Map.svg)](http://hits.dwyl.com/abhinavsri360/GDSC-Lead-Map)
+
+
+<h1 align="center">Lead Map</h1>
+
+
+[![HitCount](http://hits.dwyl.com/abhinavsri360/GDSC-Lead-Map.svg)](http://hits.dwyl.com/abhinavsri360/GDSC-Lead-Map) 
 ![GitHub license](https://img.shields.io/github/license/abhinavsri360/GDSC-Lead-Map) [![GitHub contributors](https://img.shields.io/github/contributors/abhinavsri360/GDSC-Lead-Map)](https://GitHub.com/abhinavsri360/GDSC-Lead-Map/graphs/contributors/)
 
 GDSC-Lead-Map displays the leads of all batches on a map, filters are present such as skills, and region to find and connect with leads in case of any need, or speaker sessions or if you want to connect with any of the leads at any time for any sort of help. [IDK what to write]
@@ -9,7 +15,7 @@ Version 1.0 of the project can be found deployed here: https://gdscleadmap.netli
 
 Moreover, the site is deployed here as well: [I'll place the domain once I'll buy it ;-;]
 
-## Place yourself on Map
+## :star: Place yourself on Map  
 We have not placed all the leads on map, it's a DIY. Follow the steps to have yourself on the amazing map!
 1) Create a fork.
 2) Upload your picture in `src/photos/`, use you GitHub username to name your file. [P.S. - upload only png images]
@@ -46,10 +52,10 @@ We have not placed all the leads on map, it's a DIY. Follow the steps to have yo
 Thank you so much for visiting this repository :heart: Liked this? :star: Want to Contribute? :fork_and_knife:
 Contribution to this can be a huge step to Open-Source and a great help to many developers out here :smile:
 
-## Contributions
+## :star: Contributions
 This is an open-source project, feel free to enhance the same by your valuable contributions.
 
-## Setup
+## :star: Setup
 In order to setup the project, follow the steps:
 1) Fork the repository.
 2) Clone the forked repository.
@@ -57,6 +63,11 @@ In order to setup the project, follow the steps:
 4) One the above step is configured, run `npm start` or `yarn start` to run the project in development mode.
 5) The setup is done! Happy coding!
 
-## Contributors
+## :star: Contributors
 Thanks to everyone who has helped in accumulating a legacy GDSC Lead Map!
 <a href="https://github.com/abhinavsri360/GDSC-Lead-Map/graphs/contributors"><img src="https://contributors-img.firebaseapp.com/image?repo=abhinavsri360/GDSC-Lead-Map" alt="Image of contributors"></a>
+
+<br></br>
+<br></br>
+
+[![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)](https://forthebadge.com)
