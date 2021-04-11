@@ -1,8 +1,10 @@
-## Add the following details
+# Contributing guidelines
 
-In order to get yourself on map, fill in with your details.
+## Adding yourself to the map
 
-```py
+In order to get yourself on the map, add your details in `src/components/json/worldData.js` by duplicating one of the existing entries such as:
+
+```JavaScript
 {
         "longitude": 77.3653,
         "latitude": 28.5192,
@@ -12,11 +14,17 @@ In order to get yourself on map, fill in with your details.
         "skills": ["App Dev", "Web Dev", "UI/UX", "Cloud"],
         "name": "Abhinav Srivastava",
         "bio": "I write something colorful on something very dark.",
-        "url": "https://dsc.community.dev/jaypee-institute-of-information-technology-sec-128/",
+        "url": "https://dsc.community.dev/jaypee-institute-of-information-technology-sec-128",
         "chapterName": "Jaypee Institute of Information Technology, Sec - 128",
         "github": "https://github.com/abhinavsri360",
-        "linkedin": "https://www.linkedin.com/in/abhinavsri360/",
+        "linkedin": "https://linkedin.com/in/abhinavsri360",
         "twitter": "https://twitter.com/abhinavsri360",
-        "portfolio": "https://abhinavsri360.netlify.app/"
+        "portfolio": "https://abhinavsri360.netlify.app"
 }
 ```
+
+Don't forget to add your `jpg` photo in `src/photos/` with the file name as your GitHub username.
+
+## Other PRs
+
+Feel free to send PRs for bug fixes or new features.
