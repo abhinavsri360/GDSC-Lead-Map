@@ -37,7 +37,7 @@ In order to setup the project, follow the steps:
 
 1. [Fork on GitHub](https://github.com/abhinavsri360/GDSC-Lead-Map/fork)
 2. Clone the forked repository.
-3. `npm run install` or `yarn install` to install the dependencies involved in the project.
+3. `npm install` or `yarn install` to install the dependencies involved in the project.
 4. `npm start` or `yarn start` to run the project in development mode.
 5. The setup is done! Happy coding!
 
