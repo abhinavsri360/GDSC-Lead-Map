@@ -6,8 +6,12 @@
 <h1 align="center">Lead Map</h1>
 
 
-[![HitCount](http://hits.dwyl.com/abhinavsri360/GDSC-Lead-Map.svg)](http://hits.dwyl.com/abhinavsri360/GDSC-Lead-Map) 
-![GitHub license](https://img.shields.io/github/license/abhinavsri360/GDSC-Lead-Map) [![GitHub contributors](https://img.shields.io/github/contributors/abhinavsri360/GDSC-Lead-Map)](https://GitHub.com/abhinavsri360/GDSC-Lead-Map/graphs/contributors/)
+[![HitCount](http://hits.dwyl.com/abhinavsri360/GDSC-Lead-Map.svg)](http://hits.dwyl.com/abhinavsri360/GDSC-Lead-Map)
+![GitHub license](https://img.shields.io/github/license/abhinavsri360/GDSC-Lead-Map)
+![GitHub contributors](https://img.shields.io/github/contributors/abhinavsri360/GDSC-Lead-Map)
+![Repo forks](https://img.shields.io/github/forks/abhinavsri360/GDSC-Lead-Map?style=social)
+![Repo stars](https://img.shields.io/github/stars/abhinavsri360/GDSC-Lead-Map?style=social)
+![Repo issues](https://img.shields.io/github/issues/abhinavsri360/GDSC-Lead-Map)
 
 GDSC-Lead-Map displays the leads of all batches on a map, filters are present such as skills, and region to find and connect with leads in case of any need, or speaker sessions or if you want to connect with any of the leads at any time for any sort of help. [IDK what to write]
 
