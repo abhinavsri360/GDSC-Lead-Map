@@ -8,7 +8,7 @@ function ChevronIcon() {
     <svg
       focusable="false"
       preserveAspectRatio="xMidYMid meet"
-      xmlns="http://www.w3.org/2000/svg"
+      xmlns="https://www.w3.org/2000/svg"
       fill="currentColor"
       width="16"
       height="16"
