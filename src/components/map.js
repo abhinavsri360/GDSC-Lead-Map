@@ -1,80 +1,74 @@
 import React, { Component } from 'react'
-import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet'
-import { Card, CardImg, CardText, CardBody, CardTitle, CardSubtitle, Button } from 'reactstrap'
-import GitHubIcon from '@material-ui/icons/GitHub'
-import LinkedInIcon from '@material-ui/icons/LinkedIn'
-import TwitterIcon from '@material-ui/icons/Twitter'
-import LinkIcon from '@material-ui/icons/Link'
 import data from './json/worldData'
 import Grid from '@material-ui/core/Grid'
+import SearchedLeads from './searchedLeads'
 //import data from './json/worldData'
 //import L from 'leaflet'
 
 //import source from '../profiles/one.md'
-import one from '../photos/one.png'
+//import one from '../photos/one.png'
 
 class map extends Component {
-    // constructor(props) {
-    //     super(props)
+    constructor(props) {
+        super(props)
     
-    //     this.state = {
-    //         world: []
-    //     }
-    // }
+        this.state = {
+            search: '',
+            region: '',
+            skills: '',
+            world: []
+        }
+    }
 
-    // componentDidMount() {
-    //     this.setState({ world: data })
-    // }
+    handlechange (e) {
+        this.setState({
+            [e.target.name]: e.target.value,
+            world: data.filter(lead => JSON.stringify(lead).toLowerCase().includes(e.target.value.toLowerCase()))
+        })
+    }
+
+    componentDidMount() {
+        this.setState({
+            world: data
+        })
+    }
     
     render() {
-        if(data.length === 0)
+        if(data.length === 0 || this.state.world.length === 0)
             return <div />
 
-        const pugs = data.length === 0 ? [] : (
-            data.map((item) => {
-            var temp = []
-            temp.push(item.latitude)
-            temp.push(item.longitude)
-            return (
-            <Marker key={item.url} position={temp}>
-                <Popup>
-                    <Card style={{ alignItems: 'center' }}>
-                        <CardImg style={{ height: '125px', width: '125px', borderRadius: '50%' }} top src={item.photo} alt="Card image cap" />
-                        <CardBody>
-                            <CardTitle tag="h5">{item.name}</CardTitle>
-                            <CardSubtitle tag="h6" className="mb-2 text-muted">{item.chapterName}</CardSubtitle>
-                            <CardText>{item.bio}</CardText>
-                            <Grid container direction="row">
-                                <Grid item xs={3}>
-                                <GitHubIcon style={{ cursor: "pointer" }} onClick={(e) => { e.preventDefault(); window.location.href=item.github }} />
-                                </Grid>
-                                <Grid item xs={3}>
-                                <LinkedInIcon style={{ cursor: "pointer" }} onClick={(e) => { e.preventDefault(); window.location.href=item.linkedin }} />
-                                </Grid>
-                                <Grid item xs={3}>
-                                <TwitterIcon style={{ cursor: "pointer" }} onClick={(e) => { e.preventDefault(); window.location.href=item.twitter }} />
-                                </Grid>
-                                <Grid item xs={3}>
-                                <LinkIcon style={{ cursor: "pointer" }} onClick={(e) => { e.preventDefault(); window.location.href=item.portfolio }} />
-                                </Grid>
-                            </Grid>
-                            <Button onClick={(e) => { e.preventDefault(); window.location.href=item.url }}>Chapter Link</Button>
-                        </CardBody>
-                    </Card>
-                </Popup>
-            </Marker>
-            )
-        })
-        )
-        //console.log(data)
         return (
-            <MapContainer style={{ height: '75vh' }} center={[28.5355161, 77.3910265]} zoom={7} scrollWheelZoom={false}>
-                <TileLayer
-                    attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
-                    url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-                />
-                {pugs}
-            </MapContainer>
+            <>
+                <Grid container direction='row' style={{ padding: '1%', backgroundColor: '#1769aa' }}>
+                    <Grid item xs={2}>
+                        <input placeholder='Search for a Lead' style={{ padding: '5px' }} name='search' onChange={(e) => this.handlechange(e)} />
+                    </Grid>
+                    <Grid item xs={6} />
+                    <Grid item xs={2}>
+                        <select style={{ color: '#1769aa', backgroundColor: 'white', padding: '5px' }} name='skills' onChange={(e) => this.handlechange(e)} value={this.state.skills}>
+                            <option value=''>Area of Expertise</option>
+                            <option value='AI/ML'>AI/ML</option>
+                            <option value='App Dev'>App Dev</option>
+                            <option value='Cloud'>Cloud</option>
+                            <option value='UI/UX'>UI/UX</option>
+                            <option value='Web Dev'>Web Dev</option>
+                        </select>
+                    </Grid>
+                    <Grid item xs={1}>
+                        <select style={{ color: '#1769aa', backgroundColor: 'white', padding: '5px' }} name='region' onChange={(e) => this.handlechange(e)} value={this.state.region}>
+                            <option value=''>Region</option>
+                            <option value='Africa(Sub-Saharan)'>Africa(Sub-Saharan)</option>
+                            <option value='Asia'>Asia</option>
+                            <option value='Europe'>Europe</option>
+                            <option value='Middle East'>Middle East</option>
+                            <option value='North Africa'>North Africa</option>
+                            <option value='North America'>North America</option>
+                            <option value='South America'>South America</option>
+                        </select>
+                    </Grid>
+                </Grid>
+                <SearchedLeads data={this.state.world} />
+            </>
         )
     }
 }
