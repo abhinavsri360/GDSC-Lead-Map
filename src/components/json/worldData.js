@@ -125,7 +125,7 @@ const data = [
 		longitude: 47.54352832810872,
 		latitude: 21.640339625980996,
 		batch: 2020,
-		photo: karthik,
+		photo: MuhammadHassanRazaa,
 		region: "Europe",
 		skills: ["App Dev","AI/ML"],
 		name: "Muhammad Hassan Raza",
