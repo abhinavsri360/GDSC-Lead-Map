@@ -2,7 +2,7 @@
 import abhinavsri360 from "../../photos/abhinavsri360.jpg";
 import AravindVNair99 from "../../photos/AravindVNair99.jpg";
 import srilaasya from "../../photos/srilaasya.jpg";
-import HarshJain from '../../photos/HarshJain.jpeg'
+import helios027 from "../../photos/helios027.jpg";
 
 const data = [
 	{
@@ -56,19 +56,19 @@ const data = [
 		twitter: "https://twitter.com/AravindVNair99",
 	},
 	{
-		"longitude":86.9842256,
-		"latitude": 25.242453,
-		"batch": 2020,
-		"photo": HarshJain,
-		"region": "Asia",
-		"skills": [ "Web Dev"],
-		"name": "Harsh Jain",
-		"bio": "Progate Community Intern",
-		"url": "https://dsc.community.dev/bhagalpur-college-of-engineering/",
-		"chapterName": "Indian Institute of Information Technology, Bhagalpur",
-		"github": "http://github.com/helios027",
-		"linkedin": "https://www.linkedin.com/in/harshjain2710/",
-		"twitter": "https://twitter.com/HarshJain027"
-	}
+		longitude: 86.9842256,
+		latitude: 25.242453,
+		batch: 2020,
+		photo: helios027,
+		region: "Asia",
+		skills: ["Web Dev"],
+		name: "Harsh Jain",
+		bio: "Progate Community Intern",
+		url: "https://dsc.community.dev/bhagalpur-college-of-engineering/",
+		chapterName: "Indian Institute of Information Technology, Bhagalpur",
+		github: "http://github.com/helios027",
+		linkedin: "https://www.linkedin.com/in/harshjain2710/",
+		twitter: "https://twitter.com/HarshJain027",
+	},
 ];
 export default data;
