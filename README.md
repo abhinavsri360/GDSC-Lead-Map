@@ -22,19 +22,17 @@ Moreover, the site is deployed here as well: [I'll place the domain once I'll bu
 
 ## :star: Place yourself on Map  
 We have not placed all the leads on map, it's a DIY. Follow the steps to have yourself on the amazing map!
-1) Create a fork.
+1) Fork the repo.
 2) Upload your picture in `src/photos/`, use you GitHub username to name your file. [P.S. - upload only png images]
 3) Create a pull-request to this repository.
-4) Somethings to be kept in mind, use array for skills, integer and float values for batch and geolocations respectively.
-5) Use the github username for photo field.
-6) For url use the https://dsc.community.dev chapter URL.
-7) It's upto you to provide links to your social profiles.
-8) Use only the below mentioned skills in the skills array.
+4) For url use the https://dsc.community.dev chapter URL.
+5) Provide links to your social media handles.
+6) Use only the below mentioned skills in the skills array.
 
 |AI/ML|App Dev|Cloud|UI/UX|Web Dev|
 |-----|-------|-----|-----|-------|
 
-9) In the PR template, fill the details asked which might be looking like:
+7) Replace the below object with your details and create a PR:
 ```py
 "longitude": 77.3653, 
 "latitude": 28.5192,
@@ -51,8 +49,7 @@ We have not placed all the leads on map, it's a DIY. Follow the steps to have yo
 "twitter": "https://twitter.com/abhinavsri360",
 "portfolio": "http://abhinavsri360.netlify.app/"
 ```
-10) Replace the above object with your details and create a PR.
-11) You will be on the map in no-time!
+Voila! You will be on the map in no-time!
 
 Thank you so much for visiting this repository :heart: Liked this? :star: Want to Contribute? :fork_and_knife:
 Contribution to this can be a huge step to Open-Source and a great help to many developers out here :smile:
