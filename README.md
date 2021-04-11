@@ -1,10 +1,7 @@
-<p align="center"><img width="20%" src = "https://user-images.githubusercontent.com/54776537/114298385-c9d6b300-9ad3-11eb-94c0-b4c4aa023187.gif" styles></p>
-<p align="center"><img width ="45%" src="https://user-images.githubusercontent.com/54776537/114298853-fb507e00-9ad5-11eb-9429-cc284cec6cb8.png"></p>
-
-
+<p align="center"><img width="20%" src = "gdsc-logo.gif" styles></p>
+<p align="center"><img width ="45%" src="gdsc.png"></p>
 
 <h1 align="center">Lead Map</h1>
-
 
 [![HitCount](https://hits.dwyl.com/abhinavsri360/GDSC-Lead-Map.svg)](https://hits.dwyl.com/abhinavsri360/GDSC-Lead-Map)
 ![GitHub license](https://img.shields.io/github/license/abhinavsri360/GDSC-Lead-Map)
@@ -13,62 +10,48 @@
 ![Repo forks](https://img.shields.io/github/forks/abhinavsri360/GDSC-Lead-Map?style=social)
 ![Repo stars](https://img.shields.io/github/stars/abhinavsri360/GDSC-Lead-Map?style=social)
 
-
 GDSC-Lead-Map displays the leads of all batches on a map, filters are present such as skills, and region to find and connect with leads in case of any need, or speaker sessions or if you want to connect with any of the leads at any time for any sort of help.
 
-Version 1.0 of the project can be found deployed here: https://gdscleadmap.netlify.app/
-
-Moreover, the site is deployed here as well: [I'll place the domain once I'll buy it ;-;]
+Website is deployed here: https://gdscleadmap.netlify.app/
 
 ## :star: Place yourself on Map
+
 We have not placed all the leads on map, it's a DIY. Follow the steps to have yourself on the amazing map!
-1) Fork the repo.
-2) Upload your picture in `src/photos/`, use you GitHub username to name your file. [P.S. - upload only `jpg` images and THE PHOTO NAME SHOULDN'T CONSIST OF ANY SPEACIAL CHARACTERS. JUST PLAIN TEXT]
-3) Create a pull-request to this repository.
-4) For url use the https://dsc.community.dev chapter URL.
-5) Provide links to your social media handles.
-6) Use only the below mentioned skills in the skills array.
 
-|AI/ML|App Dev|Cloud|UI/UX|Web Dev|
-|-----|-------|-----|-----|-------|
+1. [Fork on GitHub](https://github.com/abhinavsri360/GDSC-Lead-Map/fork)
+2. Upload your picture in `src/photos/`
+3. Add your details in `src/components/json/worldData.js` by duplicating one of the existing entries
+4. Create a pull-request to this repository.
+5. For url use the https://dsc.community.dev chapter URL.
+6. Provide links to your social media handles.
+7. Use only the below mentioned skills in the skills array.
 
-7) Replace the below object with your details and create a PR:
-```py
-"longitude": 77.3653,
-"latitude": 28.5192,
-"batch": 2020,
-"photo": abhinavsri360,
-"region": "Asia",
-"skills": ["App Dev", "Web Dev", "UI/UX", "Cloud"],
-"name": "Abhinav Srivastava",
-"bio": "I write something colorful on something very dark.",
-"url": "https://dsc.community.dev/jaypee-institute-of-information-technology-sec-128/",
-"chapterName": "Jaypee Institute of Information Technology, Sec - 128",
-"github": "https://github.com/abhinavsri360",
-"linkedin": "https://www.linkedin.com/in/abhinavsri360/",
-"twitter": "https://twitter.com/abhinavsri360",
-"portfolio": "https://abhinavsri360.netlify.app/"
-```
+| AI/ML | App Dev | Cloud | UI/UX | Web Dev |
+| ----- | ------- | ----- | ----- | ------- |
+
 Voila! You will be on the map in no-time!
 
 Thank you so much for visiting this repository :heart: Liked this? :star: Want to Contribute? :fork_and_knife:
 Contribution to this can be a huge step to Open-Source and a great help to many developers out here :smile:
 
 ## :star: Contributions
-This is an open-source project, feel free to enhance the same by your valuable contributions.
+
+This is an open-source project, feel free to enhance the same by your valuable contributions. Make sure to follow the [guidelines](CONTRIBUTING.md).
 
 ## :star: Setup
+
 In order to setup the project, follow the steps:
-1) Fork the repository.
-2) Clone the forked repository.
-3) Run `npm run install` or `yarn install` to install the dependencies involved in the project.
-4) One the above step is configured, run `npm start` or `yarn start` to run the project in development mode.
-5) The setup is done! Happy coding!
+
+1. [Fork on GitHub](https://github.com/abhinavsri360/GDSC-Lead-Map/fork)
+2. Clone the forked repository.
+3. `npm run install` or `yarn install` to install the dependencies involved in the project.
+4. `npm start` or `yarn start` to run the project in development mode.
+5. The setup is done! Happy coding!
 
 ## :star: Contributors
+
 Thanks to everyone who has helped in accumulating a legacy GDSC Lead Map!
-<a href="https://github.com/abhinavsri360/GDSC-Lead-Map/graphs/contributors"><img src="https://contributors-img.firebaseapp.com/image?repo=abhinavsri360/GDSC-Lead-Map" alt="Image of contributors"></a>
 
-<br></br>
+<a href="https://github.com/abhinavsri360/GDSC-Lead-Map/graphs/contributors"><img src="https://contributors-img.firebaseapp.com/image?repo=AbhinavSri360/GDSC-Lead-Map" alt="Image of contributors"></a>
 
-<img width="17%" src="https://forthebadge.com/images/badges/it-works-why.svg">    <img width="14%" src="https://forthebadge.com/images/badges/uses-brains.svg">    <img width="24%" src="https://forthebadge.com/images/badges/contains-17-coffee-cups.svg">
+<img width="17%" src="https://forthebadge.com/images/badges/it-works-why.svg"> <img width="14%" src="https://forthebadge.com/images/badges/uses-brains.svg"> <img width="24%" src="https://forthebadge.com/images/badges/contains-17-coffee-cups.svg">
