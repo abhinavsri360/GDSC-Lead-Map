@@ -1,6 +1,6 @@
 //import pictures
 import abhinavsri360 from '../../photos/abhinavsri360.jpg'
-import sri-laasya from '../../photos/sri-laasya.jpg'
+import srilaasya from '../../photos/sri-laasya.jpg'
 
 const data = [
     {
@@ -23,7 +23,7 @@ const data = [
         "longitude": 83.2184815,
         "latitude": 17.6868159,
         "batch": 2020,
-        "photo": sri-laasya,
+        "photo": srilaasya,
         "region": "Asia",
         "skills": ["AI/ML", "Web Dev", "UI/UX"],
         "name": "Sri Laasya Nutheti",
