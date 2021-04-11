@@ -5,6 +5,7 @@ const data = [
     {
         "longitude": 77.3653, 
         "latitude": 28.5192,
+        "batch": 2020,
         "photo": abhinavsri360,
         "region": "Asia",
         "skills": ["App Dev", "Web Dev", "UI/UX", "Cloud"],
@@ -20,6 +21,7 @@ const data = [
     {
         "longitude": 70.3653,
         "latitude": 22.5192,
+        "batch": 2019,
         "photo": abhinavsri360,
         "country": "Europe",
         "skills": ["AI/ML"],
@@ -27,7 +29,6 @@ const data = [
         "bio": "I write something colorful on something very dark.",
         "url": "https://dsc.community.dev/jaypee-institute-of-information-technologec-128/",
         "chapterName": "Jaypee Institute of Information Technology, Sec - 128",
-        "github": "http://github.com/abhinavsri360",
         "linkedin": "https://www.linkedin.com/in/abhinavsri360/",
         "twitter": "https://twitter.com/abhinavsri360",
         "portfolio": "http://abhinavsri360.netlify.app/"
