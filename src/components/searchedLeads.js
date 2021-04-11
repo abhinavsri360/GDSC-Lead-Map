@@ -13,7 +13,7 @@ class searchedLeads extends Component {
         const cards = leadsearch.length === 0 ? [] : (
             leadsearch.map((item) => {
                 return (
-                <Grid item xs={3} style={{ padding: '1%' }} key={item.url}>
+                <Grid item xs={12} md={3} style={{ padding: '1%' }} key={item.url}>
                     <Card style={{ alignItems: 'center' }}>
                         <CardImg style={{ height: '125px', width: '125px', borderRadius: '50%' }} top src={item.photo} alt="Card image cap" />
                         <CardBody>

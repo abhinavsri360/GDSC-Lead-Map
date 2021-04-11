@@ -35,18 +35,18 @@ class map extends Component {
         return (
             <>
                 <Grid container direction='row' style={{ padding: '1%', backgroundColor: '#1769aa' }}>
-                    <Grid item xs={2}>
-                        <input placeholder='Search for a Lead' style={{ padding: '5px' }} name='search' onChange={(e) => this.handlechange(e)} />
+                    <Grid item xs={12} md={2} style={{ padding: '5px' }}>
+                        <input placeholder='Search for a Lead' style={{ width: '100%', padding: '3px' }} name='search' onChange={(e) => this.handlechange(e)} />
                     </Grid>
-                    <Grid item xs={5} />
-                    <Grid item xs={1} style={{ padding: '5px' }}>
+                    <Grid item xs={12} md={5} />
+                    <Grid item xs={12} md={1} style={{ padding: '5px' }}>
                         <select style={{ width: '100%', color: '#1769aa', backgroundColor: 'white', padding: '3px' }} name='batch' onChange={(e) => this.handlechange(e)} value={this.state.batch}>
                             <option value=''>Batch</option>
                             <option value={2019}>2019</option>
                             <option value={2020}>2020</option>
                         </select>
                     </Grid>
-                    <Grid item xs={2} style={{ padding: '5px' }}>
+                    <Grid item xs={12} md={2} style={{ padding: '5px' }}>
                         <select style={{ width: '100%', color: '#1769aa', backgroundColor: 'white', padding: '3px' }} name='skills' onChange={(e) => this.handlechange(e)} value={this.state.skills}>
                             <option value=''>Area of Expertise</option>
                             <option value='AI/ML'>AI/ML</option>
@@ -56,7 +56,7 @@ class map extends Component {
                             <option value='Web Dev'>Web Dev</option>
                         </select>
                     </Grid>
-                    <Grid item xs={2} style={{ padding: '5px' }}>
+                    <Grid item xs={12} md={2} style={{ padding: '5px' }}>
                         <select style={{ width: '100%', color: '#1769aa', backgroundColor: 'white', padding: '3px' }} name='region' onChange={(e) => this.handlechange(e)} value={this.state.region}>
                             <option value=''>Region</option>
                             <option value='Africa(Sub-Saharan)'>Africa(Sub-Saharan)</option>
