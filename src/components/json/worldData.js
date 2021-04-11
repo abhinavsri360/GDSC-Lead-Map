@@ -1,3 +1,4 @@
+//import pictures
 import abhinavsri360 from '../../photos/abhinavsri360.jpg'
 
 const data = [

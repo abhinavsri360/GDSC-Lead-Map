@@ -1,12 +1,9 @@
 import React, { Component } from 'react'
-import data from './json/worldData'
 import Grid from '@material-ui/core/Grid'
-import SearchedLeads from './searchedLeads'
-//import data from './json/worldData'
-//import L from 'leaflet'
 
-//import source from '../profiles/one.md'
-//import one from '../photos/one.png'
+//components
+import data from './json/worldData'
+import SearchedLeads from './searchedLeads'
 
 class map extends Component {
     constructor(props) {
@@ -34,9 +31,6 @@ class map extends Component {
     }
     
     render() {
-        if(data.length === 0 || this.state.world.length === 0)
-            return <div />
-
         return (
             <>
                 <Grid container direction='row' style={{ padding: '1%', backgroundColor: '#1769aa' }}>
