@@ -1,9 +1,9 @@
-import React from 'react';
-import { Jumbotron, Button } from 'reactstrap';
-import GitHubButton from 'react-github-btn'
+import React from "react";
+import {Jumbotron, Button} from "reactstrap";
+import GitHubButton from "react-github-btn";
 
 const jumbotron = (props) => {
-  return (
+	return (
 		<div>
 			<Jumbotron>
 				<h1 className="display-3">GDSC Lead Map &lt;&gt;</h1>
@@ -98,7 +98,7 @@ const jumbotron = (props) => {
 				</GitHubButton>
 			</Jumbotron>
 		</div>
-  );
+	);
 };
 
 export default jumbotron;
