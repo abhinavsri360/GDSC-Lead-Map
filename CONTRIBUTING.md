@@ -2,7 +2,7 @@
 
 ## Adding yourself to the map
 
-Find your latitude, longitude using this: https://maps.google.com/pluscodes/
+Find your latitude, longitude using this: https://www.latlong.net/convert-address-to-lat-long.html
 
 Verify the latitude and longitude using this: https://www.latlong.net/Show-Latitude-Longitude.html
 
