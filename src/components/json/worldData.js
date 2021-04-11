@@ -6,7 +6,7 @@ import Aswin from "../../photos/Aswin.jpg";
 import helios027 from "../../photos/helios027.jpg";
 import shawavisek35 from "../../photos/shawavisek35.png";
 import karthik from "../../photos/karthik.jpg";
-import hassan from "../../photos/hasan.jpeg";
+import MuhammadHassanRazaa from "../../photos/MuhammadHassanRazaa.jpg";
 
 const data = [
 	{
