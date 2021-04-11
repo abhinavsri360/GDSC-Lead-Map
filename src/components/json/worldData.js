@@ -2,6 +2,7 @@
 import abhinavsri360 from "../../photos/abhinavsri360.jpg";
 import AravindVNair99 from "../../photos/AravindVNair99.jpg";
 import srilaasya from "../../photos/srilaasya.jpg";
+import Aswin from "../../photos/Aswin.jpg";
 import helios027 from "../../photos/helios027.jpg";
 import shawavisek35 from "../../photos/shawavisek35.png";
 import karthik from "../../photos/karthik.jpg";
@@ -57,6 +58,21 @@ const data = [
 		twitter: "https://twitter.com/AravindVNair99",
 	},
 	{
+		"longitude":11.5034,
+		"latitude": 77.2444,
+		"batch": 2020,
+		"photo": Aswin,
+		"region": "Asia",
+		"skills": [ "Cloud"],
+		"name": "Aswin Kumar M",
+		"bio": "Never fear the Air.",
+		"url": "https://dsc.community.dev/bannari-amman-institute-of-technology/",
+		"chapterName": "Bannari Amman Institute of Technology, Sathyamangalam",
+		"github": "https://github.com/todcru",
+		"linkedin": "https://www.linkedin.com/in/aswin-kumar-m-83081b171/",
+		"twitter": "https://twitter.com/thisaswin"
+	},
+  {
 		longitude: 86.9842256,
 		latitude: 25.242453,
 		batch: 2020,
@@ -103,6 +119,6 @@ const data = [
 		linkedin: "https://linkedin.com/in/iamKarthikBK",
 		twitter: "https://twitter.com/iamKarthikBK",
 		portfolio: "https://www.nohello.com",
-	},
+	}
 ];
 export default data;
