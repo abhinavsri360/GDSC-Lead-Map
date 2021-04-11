@@ -1,10 +1,10 @@
 //import pictures
 import abhinavsri360 from '../../photos/abhinavsri360.jpg'
-import srilaasya from '../../photos/srilaasya.png'
+import srilaasya from '../../photos/srilaasya.jpg'
 
 const data = [
     {
-        "longitude": 77.3653, 
+        "longitude": 77.3653,
         "latitude": 28.5192,
         "batch": 2020,
         "photo": abhinavsri360,
