@@ -4,6 +4,8 @@
 
 Find your latitude, longitude using this: https://maps.google.com/pluscodes/
 
+Verify the latitude and longitude using this: https://www.latlong.net/Show-Latitude-Longitude.html
+
 In order to get yourself on the map, add your details in `src/components/json/worldData.js` by duplicating one of the existing entries such as:
 
 ```JavaScript
