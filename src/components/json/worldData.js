@@ -11,6 +11,7 @@ import advaithunnikrishnan from "../../photos/advaithunnikrishnan.jpg";
 import AsishRaju from "../../photos/AsishRaju.jpg";
 import Aineshphanithi from "../../photos/Aineshphanithi.jpg";
 import chrisft25 from "../../photos/chrisft25.jpg";
+import dewanshrawat15 from "../../photos/dewanshrawat15.jpg";
 
 const data = [
 	{
@@ -202,6 +203,22 @@ const data = [
         "linkedin": "https://linkedin.com/in/chrisft25",
         "twitter": "https://twitter.com/chrisft25",
         "portfolio": "https://chrisfuentes.me"
+	},
+	{
+		"longitude": 77.2070383,
+        "latitude": 28.6870221,
+        "batch": 2020,
+        "photo": dewanshrawat15,
+        "region": "Asia",
+        "skills": ["Web Dev", "App Dev", "UI/UX", "Machine Learning", "Cloud"],
+        "name": "Dewansh Rawat",
+        "bio": "Full stack developer. Open source enthusiast. Love to build smart platforms for common day issues.",
+        "url": "https://dsc.community.dev/bharati-vidyapeeth-deemed-university-college-of-engineering-pune/",
+        "chapterName": "Bharati Vidyapeeth (Deemed University) College of Engineering, Pune",
+        "github": "https://github.com/dewanshrawat15",
+        "linkedin": "https://linkedin.com/in/dewanshrawat15",
+        "twitter": "https://twitter.com/dewanshrawat15",
+        "portfolio": "https://dewanshrawat.in"
 	}
 ];
 export default data;
