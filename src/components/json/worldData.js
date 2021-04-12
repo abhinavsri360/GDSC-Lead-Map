@@ -430,7 +430,7 @@ const data = [
         "batch": 2020,
         "photo": Jacob,
         "region": "Asia",
-        "skills": ["App Dev", "Web Dev", "ML/AI"],
+        "skills": ["App Dev", "Web Dev", "AI/ML"],
         "name": "Jacob Abraham",
         "bio": "Enthusiastic and passionate about coding with a strong desire to the field of Data Science. Have had various experiences and knowledgable in Web development and App development. Skilled as a Competitive Coder and a Leader that takes charge.",
         "url": "https://dsc.community.dev/college-of-engineering-trivandrum/",
