@@ -9,6 +9,7 @@ import karthik from "../../photos/karthik.jpg";
 import MuhammadHassanRazaa from "../../photos/MuhammadHassanRazaa.jpg";
 import advaithunnikrishnan from "../../photos/advaithunnikrishnan.jpg";
 import AsishRaju from "../../photos/AsishRaju.jpg";
+import chrisft25 from "../../photos/chrisft25.jpg";
 
 const data = [
 	{
@@ -168,6 +169,22 @@ const data = [
 		github: "https://github.com/AsishRaju",
 		linkedin: "https://linkedin.com/in/asishraju",
 		twitter: "https://twitter.com/asish_io"
+	},
+	{
+        "longitude": -88.177773,
+        "latitude": 13.481270,
+        "batch": 2020,
+        "photo": chrisft25,
+        "region": "South America",
+        "skills": ["Web Dev", "UI/UX"],
+        "name": "Christopher Fuentes",
+        "bio": "Backend Developer. Geek. Marketing enthusiast. Passionate about learning new stuff. ",
+        "url": "https://dsc.community.dev/universidad-gerardo-barrios",
+        "chapterName": "Universidad Gerardo Barrios",
+        "github": "https://github.com/chrisft25",
+        "linkedin": "https://linkedin.com/in/chrisft25",
+        "twitter": "https://twitter.com/chrisft25",
+        "portfolio": "https://chrisfuentes.me"
 	}
 ];
 export default data;
