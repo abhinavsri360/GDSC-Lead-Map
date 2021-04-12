@@ -59,8 +59,8 @@ const data = [
 		twitter: "https://twitter.com/AravindVNair99",
 	},
 	{
-		"longitude": 11.5034,
-		"latitude": 77.2444,
+		"longitude": 77.035270,
+		"latitude": 28.609570,
 		"batch": 2020,
 		"photo": Aswin,
 		"region": "Asia",
@@ -106,8 +106,8 @@ const data = [
 		portfolio: "https://avisekcode.netlify.app",
 	},
 	{
-		longitude: 12.8625611,
-		latitude: 77.6656671,
+		longitude: 77.5945627,
+		latitude: 12.9715987,
 		batch: 2020,
 		photo: karthik,
 		region: "Asia",
