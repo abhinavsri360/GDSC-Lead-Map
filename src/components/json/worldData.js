@@ -9,7 +9,7 @@ import karthik from "../../photos/karthik.jpg";
 import MuhammadHassanRazaa from "../../photos/MuhammadHassanRazaa.jpg";
 import advaithunnikrishnan from "../../photos/advaithunnikrishnan.jpg";
 import AsishRaju from "../../photos/AsishRaju.jpg";
-import Aineshphanithi from "../../photos/Ainesh.jpg";
+import Aineshphanithi from "../../photos/Aineshphanithi.jpg";
 import chrisft25 from "../../photos/chrisft25.jpg";
 
 const data = [
