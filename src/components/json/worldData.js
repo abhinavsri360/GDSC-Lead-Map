@@ -25,6 +25,7 @@ import RyuuKenshi from "../../photos/RyuuKenshi.jpg"
 import sunanda from "../../photos/sunanda.jpg"
 import shreyasmalewar from "../../photos/shreyasmalewar.jpg";
 import Jacob from "../../photos/Jacob.jpg";
+import suyashsonawane from "../../photos/suyashsonawane.jpg"
 
 const data = [
 
@@ -453,6 +454,22 @@ const data = [
     github: "http://github.com/shreyasmalewar",
     linkedin: "https://www.linkedin.com/in/shreyasmalewar/",
     twitter: "https://twitter.com/ShreyasMalewar"
+  },
+  {
+	"longitude": 73.76168501642378,
+	"latitude": 18.651701772395466,
+	"batch": 2020,
+	"photo": suyashsonawane,
+	"region": "Asia",
+	"skills": ["App Dev", "Web Dev", "Machine Learning"],
+	"name": "Suyash Sonawane",
+	"bio": "AI Researcher. Deep Learning Enthusiast. Android & Web Developer. ",
+	"url": "https://dsc.community.dev/pimpri-chinchwad-college-of-engineering/",
+	"chapterName": "Pimpri Chinchwad College Of Engineering",
+	"github": "https://github.com/suyashsonawane",
+	"linkedin": "https://www.linkedin.com/in/suyash-sonawane-44661417b/",
+	"twitter": "https://twitter.com/SuyashYSonawane",
+	"portfolio": "https://suyashsonawane.me/"
   }
 ];
 
