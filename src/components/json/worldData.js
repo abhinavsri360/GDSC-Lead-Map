@@ -21,6 +21,7 @@ import dewanshrawat15 from "../../photos/dewanshrawat15.jpg";
 import AdithyaAnilkumar from "../../photos/AdithyaAnilkumar.jpg"
 import abhishek2x from "../../photos/abhishek2x.png"
 import RyuuKenshi from "../../photos/RyuuKenshi.jpg"
+import shreyasmalewar from "../../photos/shreyasmalewar.jpg";
 
 const data = [
 
@@ -388,6 +389,21 @@ const data = [
         "linkedin": "https://www.linkedin.com/in/abhishek-srivastava-49482a190/",
         "twitter": "https://twitter.com/Abhishe51428266",
         "portfolio": "https://portfolio.abhisheksrivastava.me/"
+  },
+  {
+    longitude: 21.105388500457135,
+    latitude: 79.00346884403419,
+    batch: 2020,
+    photo: shreyasmalewar,
+    region: "Asia",
+    skills: ["AI/ML", "Web Dev"],
+    name: "Shreyas Malewar",
+    bio: "I like to Code and Connect. I'm an Artist, Author and an Engineer.",
+    url: "https://dsc.community.dev/gh-raisoni-college-of-engineering/",
+    chapterName: "G H Raisoni College of Engineering",
+    github: "http://github.com/shreyasmalewar",
+    linkedin: "https://www.linkedin.com/in/shreyasmalewar/",
+    twitter: "https://twitter.com/ShreyasMalewar",
   }
 ];
 
