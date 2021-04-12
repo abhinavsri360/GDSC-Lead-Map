@@ -392,7 +392,7 @@ const data = [
   },
   {
         "longitude": 8.546500,
-        "latitude": 76.902603,
+        "latitude": 8.546500,
         "batch": 2020,
         "photo": Jacob,
         "region": "Asia",
