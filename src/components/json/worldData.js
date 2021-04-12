@@ -11,6 +11,8 @@ import advaithunnikrishnan from "../../photos/advaithunnikrishnan.jpg";
 import AsishRaju from "../../photos/AsishRaju.jpg";
 import Aineshphanithi from "../../photos/Aineshphanithi.jpg";
 import chrisft25 from "../../photos/chrisft25.jpg";
+import Aravindh020 from "../../photos/Aravindh020.jpeg"
+import NaveenK from "../../photos/NaveenK.jpeg"
 import KunalGehlot from "../../photos/kunalgehlot.jpg";
 import adi10hero from "../../photos/adi10hero.jpg";
 import ghpranav from "../../photos/ghpranav.jpg";
@@ -275,6 +277,37 @@ const data = [
         "portfolio": "https://chrisfuentes.me"
 	},
 	{
+        "longitude": 80.178452,
+        "latitude": 13.041520,
+        "batch": 2020,
+        "photo": Aravindh020,
+        "region": "Asia",
+        "skills": ["Web Dev", "Cloud", "UI/UX"],
+        "name": "Aravind Balaji K K",
+        "bio": "Developer",
+        "url": "https://dsc.community.dev/srm-institute-of-science-and-technology-ramapuram/",
+        "chapterName": "SRM Institute of Science & Technology, Ramapuram Campus",
+        "github": "https://github.com/Aravindh020/",
+        "linkedin": "https://linkedin.com/in/Aravindh020/",
+        "twitter": "https://twitter.com/Aravindh020/",
+        "portfolio": "http://aravindh020.github.io/"
+},
+{
+	"longitude": 76.958896,
+	"latitude": 11.000897,
+	"batch": 2020,
+	"photo": NaveenK,
+	"region": "Asia",
+	"skills": ["UI/UX","Front-End"],
+	"name": "Naveen K",
+	"bio": "UI Designer",
+	"url": "https://dsc.community.dev/sri-krishna-college-of-technology/",
+	"chapterName": "Sri Krishna College of Technology, Coimbatore",
+	"github": "https://github.com/NaveenKarunanidhi",
+	"linkedin": "https://www.linkedin.com/in/naveen-k-14b397170",
+	"twitter": "https://twitter.com/Naveenk4226",
+},
+  {
         longitude: 12.3165844,
         latitude: 76.6135129,
         batch: 2020,
