@@ -6,6 +6,7 @@ import Aswin from "../../photos/Aswin.jpg";
 import helios027 from "../../photos/helios027.jpg";
 import shawavisek35 from "../../photos/shawavisek35.png";
 import karthik from "../../photos/karthik.jpg";
+import MuhammadHassanRazaa from "../../photos/MuhammadHassanRazaa.jpg";
 import advaithunnikrishnan from "../../photos/advaithunnikrishnan.jpg";
 import AsishRaju from "../../photos/AsishRaju.jpg";
 
@@ -123,6 +124,21 @@ const data = [
 		portfolio: "https://www.nohello.com",
 	},
 	{
+		longitude: 21.640339625980996,
+		latitude: 47.54352832810872,
+		batch: 2020,
+		photo: MuhammadHassanRazaa,
+		region: "Europe",
+		skills: ["App Dev","AI/ML"],
+		name: "Muhammad Hassan Raza",
+		bio: "A hardworking and resourceful individual seeking to work as a computer scientist with the ability to persuade and convince people about computer-related works.",
+		url: "dsc.community.dev/university-of-debrecen-debreceni-egyetem-de/",
+		chapterName: "University of Debrecen / Debreceni Egyetem DE",
+		github: "https://github.com/MuhammadHassanRazaa",
+		linkedin: "https://linkedin.com/in/sshthassanraza",
+		twitter: "https://twitter.com/sshthassanraza"
+  },
+  {
 		"longitude": 76.990746,
 		"latitude": 8.549941,
 		"batch": 2020,
@@ -151,7 +167,7 @@ const data = [
 		chapterName: "GITAM University, Vizag Campus",
 		github: "https://github.com/AsishRaju",
 		linkedin: "https://linkedin.com/in/asishraju",
-		twitter: "https://twitter.com/asish_io",
+		twitter: "https://twitter.com/asish_io"
 	}
 ];
 export default data;
