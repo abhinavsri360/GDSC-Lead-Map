@@ -209,8 +209,8 @@ const data = [
         "portfolio": "https://chrisfuentes.me"
 	},
 	{
-		longitude: 12.3165844,
-		latitude: 76.6135129,
+		longitude: 76.6135129,
+		latitude: 12.3165844,
 		batch: 2020,
 		photo: ghpranav,
 		region: "Asia",
