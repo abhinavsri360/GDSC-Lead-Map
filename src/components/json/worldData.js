@@ -6,6 +6,7 @@ import Aswin from "../../photos/Aswin.jpg";
 import helios027 from "../../photos/helios027.jpg";
 import shawavisek35 from "../../photos/shawavisek35.png";
 import karthik from "../../photos/karthik.jpg";
+import AsishRaju from "../../photos/AsishRaju.jpg";
 
 const data = [
 	{
@@ -58,12 +59,12 @@ const data = [
 		twitter: "https://twitter.com/AravindVNair99",
 	},
 	{
-		"longitude":11.5034,
+		"longitude": 11.5034,
 		"latitude": 77.2444,
 		"batch": 2020,
 		"photo": Aswin,
 		"region": "Asia",
-		"skills": [ "Cloud"],
+		"skills": ["Cloud"],
 		"name": "Aswin Kumar M",
 		"bio": "Never fear the Air.",
 		"url": "https://dsc.community.dev/bannari-amman-institute-of-technology/",
@@ -72,7 +73,7 @@ const data = [
 		"linkedin": "https://www.linkedin.com/in/aswin-kumar-m-83081b171/",
 		"twitter": "https://twitter.com/thisaswin"
 	},
-  {
+	{
 		longitude: 86.9842256,
 		latitude: 25.242453,
 		batch: 2020,
@@ -119,6 +120,21 @@ const data = [
 		linkedin: "https://linkedin.com/in/iamKarthikBK",
 		twitter: "https://twitter.com/iamKarthikBK",
 		portfolio: "https://www.nohello.com",
+	},
+	{
+		longitude: 83.376702,
+		latitude: 17.781218,
+		batch: 2020,
+		photo: AsishRaju,
+		region: "Asia",
+		skills: ["Web Dev", "UI/UX",],
+		name: "V Asish Raju",
+		bio: "I would love to change the world, but they won’t give me the source code",
+		url: "https://dsc.community.dev/gandhi-institute-of-technology-and-management-visakhapatnam-campus/",
+		chapterName: "GITAM University, Vizag Campus",
+		github: "https://github.com/AsishRaju",
+		linkedin: "https://linkedin.com/in/asishraju",
+		twitter: "https://twitter.com/asish_io",
 	}
 ];
 export default data;
