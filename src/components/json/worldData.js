@@ -389,7 +389,7 @@ const data = [
         "linkedin": "https://www.linkedin.com/in/abhishek-srivastava-49482a190/",
         "twitter": "https://twitter.com/Abhishe51428266",
         "portfolio": "https://portfolio.abhisheksrivastava.me/"
-        },
+  },
   {     "longitude": 73.874352, 
         "latitude": 18.528900, 
         "batch": 2020, 
