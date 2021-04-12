@@ -11,6 +11,7 @@ import advaithunnikrishnan from "../../photos/advaithunnikrishnan.jpg";
 import AsishRaju from "../../photos/AsishRaju.jpg";
 import Aineshphanithi from "../../photos/Aineshphanithi.jpg";
 import chrisft25 from "../../photos/chrisft25.jpg";
+import suyashsonawane from "../../photos/suyashsonawane.jpg";
 
 const data = [
 	{
@@ -207,7 +208,7 @@ const data = [
 		"longitude": 73.76168501642378,
 		"latitude": 18.651701772395466,
 		"batch": 2020,
-		"photo": "https://github.com/suyashsonawane.png",
+		"photo": suyashsonawane,
 		"region": "Asia",
 		"skills": ["App Dev", "Web Dev", "Machine Learning"],
 		"name": "Suyash Sonawane",
