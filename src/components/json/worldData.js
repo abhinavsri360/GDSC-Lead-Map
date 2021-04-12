@@ -214,7 +214,7 @@ const data = [
                 "name": "Abhinav T B",
                 "bio": "Tech explorer | passionate developer | loves to automate things | problem solving | CSE undergrad @CUSAT ",
                 "url": "https://dsc.community.dev/cochin-university-of-science-and-technology/",
-                "chapterName": "cochin-university-of-science-and-technology",
+                "chapterName": "Cochin University of Science and Technology",
                 "github": "https://github.com/abhinav-TB",
                 "linkedin": "https://linkedin.com/in/abhinav-t-b-226172190/",
                 "twitter": "https://twitter.com/abhiGamez",
