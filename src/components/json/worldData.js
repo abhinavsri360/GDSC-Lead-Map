@@ -127,7 +127,7 @@ const data = [
 		batch: 2020,
 		photo: AsishRaju,
 		region: "Asia",
-		skills: ["Full Stack Web", "UI/UX",],
+		skills: ["Web Dev", "UI/UX",],
 		name: "V Asish Raju",
 		bio: "I would love to change the world, but they won’t give me the source code",
 		url: "https://dsc.community.dev/gandhi-institute-of-technology-and-management-visakhapatnam-campus/",
