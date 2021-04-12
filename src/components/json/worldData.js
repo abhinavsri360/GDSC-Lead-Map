@@ -21,6 +21,7 @@ import dewanshrawat15 from "../../photos/dewanshrawat15.jpg";
 import AdithyaAnilkumar from "../../photos/AdithyaAnilkumar.jpg"
 import abhishek2x from "../../photos/abhishek2x.png"
 import RyuuKenshi from "../../photos/RyuuKenshi.jpg"
+import Jacob from "../../photos/Jacob.jpg";
 
 const data = [
 
@@ -388,6 +389,22 @@ const data = [
         "linkedin": "https://www.linkedin.com/in/abhishek-srivastava-49482a190/",
         "twitter": "https://twitter.com/Abhishe51428266",
         "portfolio": "https://portfolio.abhisheksrivastava.me/"
+  },
+  {
+        "longitude": 8.546500,
+        "latitude": 76.902603,
+        "batch": 2020,
+        "photo": Jacob,
+        "region": "Asia",
+        "skills": ["App Dev", "Web Dev", "ML/AI"],
+        "name": "Jacob Abraham",
+        "bio": "Enthusiastic and passionate about coding with a strong desire to the field of Data Science. Have had various experiences and knowledgable in Web development and App development. Skilled as a Competitive Coder and a Leader that takes charge.",
+        "url": "https://dsc.community.dev/college-of-engineering-trivandrum/",
+        "chapterName": "College of Engineering Trivandrum",
+        "github": "https://github.com/jacob13400",
+        "linkedin": "https://www.linkedin.com/in/jacob-abraham-3b4b05190/",
+        "twitter": "https://twitter.com/Jake_is_live",
+        "portfolio": "http://www.jacobabraham.me/"
   }
 ];
 
