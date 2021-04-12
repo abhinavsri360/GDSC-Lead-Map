@@ -131,7 +131,7 @@ const data = [
 		batch: 2020,
 		photo: MuhammadHassanRazaa,
 		region: "Europe",
-		skills: ["App Dev","AI/ML"],
+		skills: ["App Dev", "AI/ML"],
 		name: "Muhammad Hassan Raza",
 		bio: "A hardworking and resourceful individual seeking to work as a computer scientist with the ability to persuade and convince people about computer-related works.",
 		url: "dsc.community.dev/university-of-debrecen-debreceni-egyetem-de/",
@@ -139,8 +139,8 @@ const data = [
 		github: "https://github.com/MuhammadHassanRazaa",
 		linkedin: "https://linkedin.com/in/sshthassanraza",
 		twitter: "https://twitter.com/sshthassanraza"
-  },
-  {
+	},
+	{
 		"longitude": 76.990746,
 		"latitude": 8.549941,
 		"batch": 2020,
@@ -186,22 +186,38 @@ const data = [
 		github: "https://github.com/Aineshphanithi",
 		linkedin: "https://www.linkedin.com/in/ainesh-phanithi/",
 		twitter: "https://twitter.com/"
-  },
-  {
-        "longitude": -88.177773,
-        "latitude": 13.481270,
-        "batch": 2020,
-        "photo": chrisft25,
-        "region": "South America",
-        "skills": ["Web Dev", "UI/UX"],
-        "name": "Christopher Fuentes",
-        "bio": "Backend Developer. Geek. Marketing enthusiast. Passionate about learning new stuff. ",
-        "url": "https://dsc.community.dev/universidad-gerardo-barrios",
-        "chapterName": "Universidad Gerardo Barrios",
-        "github": "https://github.com/chrisft25",
-        "linkedin": "https://linkedin.com/in/chrisft25",
-        "twitter": "https://twitter.com/chrisft25",
-        "portfolio": "https://chrisfuentes.me"
+	},
+	{
+		"longitude": -88.177773,
+		"latitude": 13.481270,
+		"batch": 2020,
+		"photo": chrisft25,
+		"region": "South America",
+		"skills": ["Web Dev", "UI/UX"],
+		"name": "Christopher Fuentes",
+		"bio": "Backend Developer. Geek. Marketing enthusiast. Passionate about learning new stuff. ",
+		"url": "https://dsc.community.dev/universidad-gerardo-barrios",
+		"chapterName": "Universidad Gerardo Barrios",
+		"github": "https://github.com/chrisft25",
+		"linkedin": "https://linkedin.com/in/chrisft25",
+		"twitter": "https://twitter.com/chrisft25",
+		"portfolio": "https://chrisfuentes.me"
+	},
+	{
+		"longitude": 73.76168501642378,
+		"latitude": 18.651701772395466,
+		"batch": 2020,
+		"photo": "https://github.com/suyashsonawane.png",
+		"region": "Asia",
+		"skills": ["App Dev", "Web Dev", "Machine Learning"],
+		"name": "Suyash Sonawane",
+		"bio": "AI Researcher.  Deep Learning Enthusiast. Android & Web Developer. ",
+		"url": "https://dsc.community.dev/pimpri-chinchwad-college-of-engineering/",
+		"chapterName": "Pimpri Chinchwad College Of Engineering",
+		"github": "https://github.com/suyashsonawane",
+		"linkedin": "https://www.linkedin.com/in/suyash-sonawane-44661417b/",
+		"twitter": "https://twitter.com/SuyashYSonawane",
+		"portfolio": "https://suyashsonawane.me/"
 	}
 ];
 export default data;
