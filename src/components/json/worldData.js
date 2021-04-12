@@ -11,7 +11,7 @@ import advaithunnikrishnan from "../../photos/advaithunnikrishnan.jpg";
 import AsishRaju from "../../photos/AsishRaju.jpg";
 import Aineshphanithi from "../../photos/Aineshphanithi.jpg";
 import chrisft25 from "../../photos/chrisft25.jpg";
-import kunalgehlot from "../../photos/kunalgehlot.jpg";
+import KunalGehlot from "../../photos/kunalgehlot.jpg";
 
 const data = [
 	{
