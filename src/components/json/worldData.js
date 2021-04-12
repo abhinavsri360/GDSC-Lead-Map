@@ -11,6 +11,7 @@ import advaithunnikrishnan from "../../photos/advaithunnikrishnan.jpg";
 import AsishRaju from "../../photos/AsishRaju.jpg";
 import Aineshphanithi from "../../photos/Aineshphanithi.jpg";
 import chrisft25 from "../../photos/chrisft25.jpg";
+import ghpranav from "../../photos/ghpranav.jpg";
 
 const data = [
 	{
@@ -202,6 +203,22 @@ const data = [
         "linkedin": "https://linkedin.com/in/chrisft25",
         "twitter": "https://twitter.com/chrisft25",
         "portfolio": "https://chrisfuentes.me"
+	},
+	{
+		longitude: 12.3165844,
+		latitude: 76.6135129,
+		batch: 2020,
+		photo: ghpranav,
+		region: "Asia",
+		skills: ["App Dev", "Web Dev", "Cloud"],
+		name: "Pranav Bedre G H",
+		bio: "Computers, my sin of choice.",
+		url:
+			"https://dsc.community.dev/jss-science-technology-university-mysuru",
+		chapterName: "JSS Science & Technology University, Mysuru",
+		github: "https://github.com/ghpranav",
+		linkedin: "https://linkedin.com/in/ghpranav",
+		twitter: "https://twitter.com/bedre_pranav"
 	}
 ];
 export default data;
