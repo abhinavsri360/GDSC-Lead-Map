@@ -210,7 +210,7 @@ const data = [
         "batch": 2020,
         "photo": dewanshrawat15,
         "region": "Asia",
-        "skills": ["Web Dev", "App Dev", "UI/UX", "Machine Learning", "Cloud"],
+        "skills": ["Web Dev", "App Dev", "UI/UX", "AI/ML", "Cloud"],
         "name": "Dewansh Rawat",
         "bio": "Full stack developer. Open source enthusiast. Love to build smart platforms for common day issues.",
         "url": "https://dsc.community.dev/bharati-vidyapeeth-deemed-university-college-of-engineering-pune/",
