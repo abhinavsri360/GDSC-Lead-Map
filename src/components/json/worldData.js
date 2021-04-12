@@ -235,7 +235,6 @@ const data = [
 	"github": "https://github.com/NaveenKarunanidhi",
 	"linkedin": "https://www.linkedin.com/in/naveen-k-14b397170",
 	"twitter": "https://twitter.com/Naveenk4226",
-	"portfolio": "#"
 }
 ];
 export default data;
