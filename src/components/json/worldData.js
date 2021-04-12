@@ -11,9 +11,11 @@ import advaithunnikrishnan from "../../photos/advaithunnikrishnan.jpg";
 import AsishRaju from "../../photos/AsishRaju.jpg";
 import Aineshphanithi from "../../photos/Aineshphanithi.jpg";
 import chrisft25 from "../../photos/chrisft25.jpg";
+import AdithyaAnilkumar from "../../photos/AdithyaAnilkumar.jpg"
 import abhishek2x from "../../photos/abhishek2x.png"
 
 const data = [
+	
 	{
 		longitude: 77.3653,
 		latitude: 28.5192,
@@ -204,6 +206,23 @@ const data = [
         "twitter": "https://twitter.com/chrisft25",
         "portfolio": "https://chrisfuentes.me"
 	},
+	{
+		longitude: 76.328470,
+		latitude: 10.028607,
+		batch: 2020,
+		photo: AdithyaAnilkumar,
+		region: "Asia",
+		skills: ["Web Dev", "App Dev", "UI/UX", "Cloud"],
+		name: "Adithya Anilkumar",
+		bio: "Loyalty.Trust.Respect",
+		url:
+			"https://dsc.community.dev/government-model-engineering-college-thrikkakara/",
+		chapterName: "Government Model Engineering College, Thrikkakara",
+		github: "https://github.com/adithyaanilkumar",
+		linkedin: "https://linkedin.com/in/adithyaanilkumar",
+		twitter: "https://twitter.com/adixthya",
+		portfolio: "https://adithyaanilkumar.github.io",
+	},
   {
 		"longitude": 81.012421,
 		"latitude": 26.851311,
@@ -218,7 +237,8 @@ const data = [
 		"github": "https://github.com/abhishek2x",
 		"linkedin": "https://www.linkedin.com/in/abhishek-srivastava-49482a190/",
 		"twitter": "https://twitter.com/Abhishe51428266",
-		"portfolio": "https://portfolio.abhisheksrivastava.me/"	}
+		"portfolio": "https://portfolio.abhisheksrivastava.me/"
+  }
 ];
 
 export default data;
