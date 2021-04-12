@@ -22,6 +22,7 @@ import dewanshrawat15 from "../../photos/dewanshrawat15.jpg";
 import AdithyaAnilkumar from "../../photos/AdithyaAnilkumar.jpg"
 import abhishek2x from "../../photos/abhishek2x.png"
 import RyuuKenshi from "../../photos/RyuuKenshi.jpg"
+import sunanda from "../../photos/sunanda.jpg"
 import shreyasmalewar from "../../photos/shreyasmalewar.jpg";
 import Jacob from "../../photos/Jacob.jpg";
 
@@ -407,6 +408,20 @@ const data = [
         "linkedin": "https://www.linkedin.com/in/abhishek-srivastava-49482a190/",
         "twitter": "https://twitter.com/Abhishe51428266",
         "portfolio": "https://portfolio.abhisheksrivastava.me/"
+  },
+  {     "longitude": 73.874352, 
+        "latitude": 18.528900, 
+        "batch": 2020, 
+        "photo": sunanda, 
+        "region": "Asia", 
+        "skills": ["AI/ML", "Web Dev"], 
+        "name": "Sunanda Somwase", 
+        "bio": "Always looking for opportunities!", 
+        "url": "https://dsc.community.dev/pune-vidyarthi-grihas-college-of-engineering-and-technology-pune/", 
+        "chapterName": "Pune Vidyarthi Griha's College of Engineering and Technology, Pune", 
+        "github": "https://github.com/SunandaS76", 
+        "linkedin": "https://www.linkedin.com/in/sunandasomwase/", 
+        "twitter": "https://twitter.com/SSomwase", 
   },
   {
         "longitude": 76.902603,
