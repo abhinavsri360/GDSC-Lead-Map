@@ -6,6 +6,7 @@ import Aswin from "../../photos/Aswin.jpg";
 import helios027 from "../../photos/helios027.jpg";
 import shawavisek35 from "../../photos/shawavisek35.png";
 import karthik from "../../photos/karthik.jpg";
+import advaithunnikrishnan from "../../photos/advaithunnikrishnan.jpg";
 
 const data = [
 	{
@@ -119,6 +120,22 @@ const data = [
 		linkedin: "https://linkedin.com/in/iamKarthikBK",
 		twitter: "https://twitter.com/iamKarthikBK",
 		portfolio: "https://www.nohello.com",
-	}
+	},
+	{
+        "longitude": 76.990746,
+        "latitude": 8.549941,
+        "batch": 2020,
+        "photo": advaithunnikrishnan,
+        "region": "Asia",
+        "skills": ["Web Dev"],
+        "name": "Advaith U",
+        "bio": "Web Developer",
+        "url": "https://dsc.community.dev/mar-baselios-college-of-engineering-technology/",
+        "chapterName": "Mar Baselios College of Engineering and Technology",
+        "github": "https://github.com/advaith-unnikrishnan",
+        "linkedin": "https://linkedin.com/in/advaithu",
+        "twitter": "https://twitter.com/advaith_unni",
+        "portfolio": "https://advaithunnikrishnan.me"
+}
 ];
 export default data;
