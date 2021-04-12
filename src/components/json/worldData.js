@@ -9,6 +9,7 @@ import karthik from "../../photos/karthik.jpg";
 import MuhammadHassanRazaa from "../../photos/MuhammadHassanRazaa.jpg";
 import advaithunnikrishnan from "../../photos/advaithunnikrishnan.jpg";
 import AsishRaju from "../../photos/AsishRaju.jpg";
+import Aineshphanithi from "../../photos/Aineshphanithi.jpg";
 import chrisft25 from "../../photos/chrisft25.jpg";
 
 const data = [
@@ -171,6 +172,22 @@ const data = [
 		twitter: "https://twitter.com/asish_io"
 	},
 	{
+		longitude: 78.337764,
+		latitude: 17.465592,
+		batch: 2020,
+		photo: Aineshphanithi,
+		region: "Asia",
+		skills: ["Cloud", "UI/UX"],
+		name: "Ainesh Phanithi",
+		bio:
+			"Engineering student and working towards software development. Can effortlessly articulate ideas, offer practical solutions and has a great sense of humour.",
+		url: "https://dsc.community.dev/cvr-college-of-engineering",
+		chapterName: "CVR College of Engineering",
+		github: "https://github.com/Aineshphanithi",
+		linkedin: "https://www.linkedin.com/in/ainesh-phanithi/",
+		twitter: "https://twitter.com/"
+  },
+  {
         "longitude": -88.177773,
         "latitude": 13.481270,
         "batch": 2020,
