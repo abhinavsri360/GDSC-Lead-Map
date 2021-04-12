@@ -71,7 +71,7 @@ const data = [
 		region: "Asia",
 		skills: ["App Dev", "Web Dev", "UI/UX"],
 		name: "Arjun Sinha",
-		bio: "I walk into a bar with two of my friends and hold up two fingers and say \"Three beers\".",
+		bio: "\"Shift\" the \"ctrl\" to me and I will \"alt\" the world.",
 		url: "https://dsc.community.dev/nmam-institute-of-technology/",
 		chapterName: "NMAM Institute of Technology, Nitte",
 		github: "https://github.com/ryuukenshi",
