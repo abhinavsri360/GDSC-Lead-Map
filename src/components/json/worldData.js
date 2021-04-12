@@ -15,7 +15,7 @@ import ghpranav from "../../photos/ghpranav.jpg";
 import dewanshrawat15 from "../../photos/dewanshrawat15.jpg";
 import AdithyaAnilkumar from "../../photos/AdithyaAnilkumar.jpg"
 import abhishek2x from "../../photos/abhishek2x.png"
-import RyuuKenshi from "../../photos/RyuuKenshi.png"
+import RyuuKenshi from "../../photos/RyuuKenshi.jpg"
 
 const data = [
 	
