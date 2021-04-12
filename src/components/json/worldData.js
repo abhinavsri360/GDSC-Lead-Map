@@ -12,6 +12,7 @@ import AsishRaju from "../../photos/AsishRaju.jpg";
 import Aineshphanithi from "../../photos/Aineshphanithi.jpg";
 import chrisft25 from "../../photos/chrisft25.jpg";
 import AdithyaAnilkumar from "../../photos/AdithyaAnilkumar.jpg"
+import abhishek2x from "../../photos/abhishek2x.png"
 
 const data = [
 	
@@ -221,6 +222,23 @@ const data = [
 		linkedin: "https://linkedin.com/in/adithyaanilkumar",
 		twitter: "https://twitter.com/adixthya",
 		portfolio: "https://adithyaanilkumar.github.io",
-	}
+	},
+  {
+		"longitude": 81.012421,
+		"latitude": 26.851311,
+		"batch": 2020,
+		"photo": abhishek2x,
+		"region": "Asia",
+		"skills": ["Web Dev"],
+		"name": "Abhishek Srivastava",
+		"bio": "An Entrepreneur by nature and a developer by passion.",
+		"url": "https://dsc.community.dev/vellore-institute-of-technology-bhopal/",
+		"chapterName": "Vellore Institute of Technology Bhopal",
+		"github": "https://github.com/abhishek2x",
+		"linkedin": "https://www.linkedin.com/in/abhishek-srivastava-49482a190/",
+		"twitter": "https://twitter.com/Abhishe51428266",
+		"portfolio": "https://portfolio.abhisheksrivastava.me/"
+  }
 ];
+
 export default data;
