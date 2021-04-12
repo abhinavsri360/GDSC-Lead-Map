@@ -10,6 +10,7 @@ import MuhammadHassanRazaa from "../../photos/MuhammadHassanRazaa.jpg";
 import advaithunnikrishnan from "../../photos/advaithunnikrishnan.jpg";
 import AsishRaju from "../../photos/AsishRaju.jpg";
 import chrisft25 from "../../photos/chrisft25.jpg";
+import Aineshphanithi from "../../photos/Aineshphanithi.jpg";
 
 const data = [
 	{
@@ -171,20 +172,36 @@ const data = [
 		twitter: "https://twitter.com/asish_io"
 	},
 	{
-        "longitude": -88.177773,
-        "latitude": 13.481270,
-        "batch": 2020,
-        "photo": chrisft25,
-        "region": "South America",
-        "skills": ["Web Dev", "UI/UX"],
-        "name": "Christopher Fuentes",
-        "bio": "Backend Developer. Geek. Marketing enthusiast. Passionate about learning new stuff. ",
-        "url": "https://dsc.community.dev/universidad-gerardo-barrios",
-        "chapterName": "Universidad Gerardo Barrios",
-        "github": "https://github.com/chrisft25",
-        "linkedin": "https://linkedin.com/in/chrisft25",
-        "twitter": "https://twitter.com/chrisft25",
-        "portfolio": "https://chrisfuentes.me"
-	}
+		"longitude": -88.177773,
+		"latitude": 13.481270,
+		"batch": 2020,
+		"photo": chrisft25,
+		"region": "South America",
+		"skills": ["Web Dev", "UI/UX"],
+		"name": "Christopher Fuentes",
+		"bio": "Backend Developer. Geek. Marketing enthusiast. Passionate about learning new stuff. ",
+		"url": "https://dsc.community.dev/universidad-gerardo-barrios",
+		"chapterName": "Universidad Gerardo Barrios",
+		"github": "https://github.com/chrisft25",
+		"linkedin": "https://linkedin.com/in/chrisft25",
+		"twitter": "https://twitter.com/chrisft25",
+		"portfolio": "https://chrisfuentes.me"
+	},
+	{
+		longitude: 78.337764,
+		latitude: 17.465592,
+		batch: 2020,
+		photo: Aineshphanithi,
+		region: "Asia",
+		skills: ["Cloud", "UI/UX"],
+		name: "Ainesh Phanithi",
+		bio:
+			"Engineering student and working towards software development. Can effortlessly articulate ideas, offer practical solutions and has a great sense of humour.",
+		url: "https://dsc.community.dev/cvr-college-of-engineering",
+		chapterName: "CVR College of Engineering",
+		github: "https://github.com/Aineshphanithi",
+		linkedin: "https://www.linkedin.com/in/ainesh-phanithi/",
+		twitter: "https://twitter.com/"
+  	}
 ];
 export default data;
