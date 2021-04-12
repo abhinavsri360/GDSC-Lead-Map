@@ -22,7 +22,7 @@ import abhishek2x from "../../photos/abhishek2x.png"
 import RyuuKenshi from "../../photos/RyuuKenshi.jpg"
 
 const data = [
-	
+
 	{
 		longitude: 77.3653,
 		latitude: 28.5192,
@@ -124,7 +124,7 @@ const data = [
         batch: 2020,
         photo: shawavisek35,
         region: "Asia",
-        skills: ["App Dev", "Web Dev", "UI/UX", "Cloud", "Machine Learning"],
+        skills: ["App Dev", "Web Dev", "UI/UX", "Cloud", "AI/ML"],
         name: "Avisek Shaw",
         bio: "Commit the changes in your life otherwise you will loose them.",
         url:
