@@ -11,6 +11,7 @@ import advaithunnikrishnan from "../../photos/advaithunnikrishnan.jpg";
 import AsishRaju from "../../photos/AsishRaju.jpg";
 import Aineshphanithi from "../../photos/Aineshphanithi.jpg";
 import chrisft25 from "../../photos/chrisft25.jpg";
+import kartikbhushan from "../../photos/kartikbhushan.jpg";
 
 const data = [
 	{
@@ -202,6 +203,22 @@ const data = [
         "linkedin": "https://linkedin.com/in/chrisft25",
         "twitter": "https://twitter.com/chrisft25",
         "portfolio": "https://chrisfuentes.me"
+	},
+	{
+        "longitude": 18.541542228107776,
+        "latitude": 73.72786442625926,
+        "batch": 2020,
+        "photo": kartikbhushan,
+        "region": "Asia",
+        "skills": ["Web Dev", "Cloud"],
+        "name": "Kartik Bhushan",
+        "bio": "Computer Science student who loves to code and also hack. Want to do something illegal count me in . ",
+        "url": "https://dsc.community.dev/symbiosis-institute-of-technology/",
+        "chapterName": "Symbiosis Institute of Technology",
+        "github": "https://github.com/kartikbhushan",
+        "linkedin": "https://www.linkedin.com/in/kartik-bhushan-977a0716b/",
+        "twitter": "https://twitter.com/Kartik_Bush",
+        "portfolio": "https://kartikbhushan.github.io/Portfolio-Gatsby/"
 	}
 ];
 export default data;
