@@ -11,6 +11,7 @@ import advaithunnikrishnan from "../../photos/advaithunnikrishnan.jpg";
 import AsishRaju from "../../photos/AsishRaju.jpg";
 import Aineshphanithi from "../../photos/Aineshphanithi.jpg";
 import chrisft25 from "../../photos/chrisft25.jpg";
+import RyuuKenshi from "../../photos/RyuuKenshi.jpg";
 
 const data = [
 	{
@@ -60,7 +61,23 @@ const data = [
 		chapterName: "Amrita School of Engineering, Bengaluru",
 		github: "https://github.com/AravindVNair99",
 		linkedin: "https://linkedin.com/in/AravindVNair99",
-		twitter: "https://twitter.com/AravindVNair99",
+		twitter: "https://twitter./AravindVNair99",
+	},
+	{
+		longitude: 13.1830,
+		latitude: 74.9339,
+		batch: 2020,
+		photo: RyuuKenshi,
+		region: "Asia",
+		skills: ["App Dev", "Web Dev", "UI/UX"],
+		name: "Arjun Sinha",
+		bio: "I walk into a bar with two of my friends and hold up two fingers and say \"Three beers\".",
+		url: "https://dsc.community.dev/nmam-institute-of-technology/",
+		chapterName: "NMAM Institute of Technology, Nitte",
+		github: "https://github.com/ryuukenshi",
+		linkedin: "https://linkedin.com/in/ryuukenshi",
+		twitter: "https://twitter.com/ryuukenshi",
+		portfolio: "http://ryuukenshi.github.io/",
 	},
 	{
 		"longitude": 77.035270,
