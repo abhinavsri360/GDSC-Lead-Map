@@ -1,6 +1,7 @@
 {
   "name": "gdsc-lead-map",
   "version": "1.0.1",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.3",
