@@ -61,7 +61,7 @@ const data = [
 		chapterName: "Amrita School of Engineering, Bengaluru",
 		github: "https://github.com/AravindVNair99",
 		linkedin: "https://linkedin.com/in/AravindVNair99",
-		twitter: "https://twitter./AravindVNair99",
+		twitter: "https://twitter.com/AravindVNair99",
 	},
 	{
 		longitude: 13.1830,
