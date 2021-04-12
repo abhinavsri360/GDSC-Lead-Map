@@ -6,6 +6,7 @@ import Aswin from "../../photos/Aswin.jpg";
 import helios027 from "../../photos/helios027.jpg";
 import shawavisek35 from "../../photos/shawavisek35.png";
 import karthik from "../../photos/karthik.jpg";
+import felirox from "../../photos/niran.jpeg";
 
 const data = [
 	{
@@ -72,7 +73,7 @@ const data = [
 		"linkedin": "https://www.linkedin.com/in/aswin-kumar-m-83081b171/",
 		"twitter": "https://twitter.com/thisaswin"
 	},
-  {
+	{
 		longitude: 86.9842256,
 		latitude: 25.242453,
 		batch: 2020,
@@ -86,6 +87,21 @@ const data = [
 		github: "https://github.com/helios027",
 		linkedin: "https://linkedin.com/in/harshjain2710",
 		twitter: "https://twitter.com/HarshJain027",
+	},
+  {
+		longitude: 77.63461076853751,
+		latitude: 13.117017226569963,
+		batch: 2020,
+		photo: felirox,
+		region: "Asia",
+		skills: ["IoT","Deep Learning","Cybersecurity"],
+		name: "Niran N",
+		bio: "Cybersecurity Teaching Assistant at RACE | IEEE SB Vice Chair | Core - Coders & Hackathon Club",
+		url: "https://dsc.community.dev/reva-university/",
+		chapterName: "REVA University",
+		github: "https://github.com/felirox",
+		linkedin: "https://www.linkedin.com/in/felirox/",
+		twitter: "https://twitter.com/feliroxx",
 	},
 	{
 		longitude: 88.35736,
