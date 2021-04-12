@@ -122,8 +122,8 @@ const data = [
 		portfolio: "https://www.nohello.com",
 	},
 	{
-		longitude: 47.54352832810872,
-		latitude: 21.640339625980996,
+		longitude: 21.640339625980996,
+		latitude: 47.54352832810872,
 		batch: 2020,
 		photo: MuhammadHassanRazaa,
 		region: "Europe",
