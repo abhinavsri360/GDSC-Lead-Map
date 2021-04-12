@@ -391,7 +391,7 @@ const data = [
         "portfolio": "https://portfolio.abhisheksrivastava.me/"
   },
   {
-        "longitude": 8.546500,
+        "longitude": 76.902603,
         "latitude": 8.546500,
         "batch": 2020,
         "photo": Jacob,
