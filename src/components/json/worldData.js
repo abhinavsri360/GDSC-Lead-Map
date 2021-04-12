@@ -11,6 +11,7 @@ import advaithunnikrishnan from "../../photos/advaithunnikrishnan.jpg";
 import AsishRaju from "../../photos/AsishRaju.jpg";
 import Aineshphanithi from "../../photos/Aineshphanithi.jpg";
 import chrisft25 from "../../photos/chrisft25.jpg";
+import KunalGehlot from "../../photos/kunalgehlot.jpg";
 import adi10hero from "../../photos/adi10hero.jpg";
 import ghpranav from "../../photos/ghpranav.jpg";
 import dewanshrawat15 from "../../photos/dewanshrawat15.jpg";
@@ -224,6 +225,21 @@ const data = [
         "linkedin": "https://linkedin.com/in/adi10hero",
         "twitter": "https://twitter.com/adi10hero",
         "portfolio": "https://adi10hero.github.io/"
+  },
+  {
+		longitude: 72.968139,
+		latitude: 26.229923,
+		batch: 2020,
+		photo: KunalGehlot,
+		region: "Asia",
+		skills: ["AI/ML", "Web Dev", "IoT"],
+		name: "Kunal Gehlot",
+		bio: "B.Tech. 2021, Data Science enthusiast with extensive experience in building ML models using Python and JavaScript.",
+		url: "https://dsc.community.dev/jiet-group-of-institutions/",
+		chapterName: "JIET Group of Institutions",
+		github: "https://github.com/KunalGehlot/",
+		linkedin: "https://www.linkedin.com/in/gehlotk/",
+		twitter: "https://twitter.com/zackcodesai"
   },
   {
         "longitude": -88.177773,
