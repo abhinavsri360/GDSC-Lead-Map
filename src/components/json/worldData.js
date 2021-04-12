@@ -11,6 +11,7 @@ import advaithunnikrishnan from "../../photos/advaithunnikrishnan.jpg";
 import AsishRaju from "../../photos/AsishRaju.jpg";
 import Aineshphanithi from "../../photos/Aineshphanithi.jpg";
 import chrisft25 from "../../photos/chrisft25.jpg";
+import jemikp from "../../photos/jemikp.jpg";
 import kartikbhushan from "../../photos/kartikbhushan.jpg";
 import Aravindh020 from "../../photos/Aravindh020.jpeg"
 import NaveenK from "../../photos/NaveenK.jpeg"
@@ -22,6 +23,7 @@ import AdithyaAnilkumar from "../../photos/AdithyaAnilkumar.jpg"
 import abhishek2x from "../../photos/abhishek2x.png"
 import RyuuKenshi from "../../photos/RyuuKenshi.jpg"
 import shreyasmalewar from "../../photos/shreyasmalewar.jpg";
+import Jacob from "../../photos/Jacob.jpg";
 
 const data = [
 
@@ -75,8 +77,8 @@ const data = [
 		twitter: "https://twitter.com/AravindVNair99",
 	},
 	{
-		longitude: 13.1830,
-		latitude: 74.9339,
+		longitude: 74.9339,
+		latitude: 13.1830,
 		batch: 2020,
 		photo: RyuuKenshi,
 		region: "Asia",
@@ -279,6 +281,22 @@ const data = [
         "portfolio": "https://chrisfuentes.me"
 	},
 	{
+        "longitude": 72.946000,
+        "latitude": 20.513500,
+        "batch": 2020,
+        "photo": jemikp,
+        "region": "Asia",
+        "skills": ["App Dev"],
+        "name": "Jemik Patel",
+        "bio": "Constantly Learning!!",
+        "url": "https://dsc.community.dev/government-engineering-college-rajkot/",
+        "chapterName": "Government Engineering College, Rajkot",
+        "github": "https://github.com/jemikp",
+        "linkedin": "https://linkedin.com/in/jemikp",
+        "twitter": "https://twitter.com/jemik_patel",
+        "portfolio": "https://jemikpatel.me"
+	},
+  {
         "longitude": 18.541542228107776,
         "latitude": 73.72786442625926,
         "batch": 2020,
@@ -326,8 +344,8 @@ const data = [
 	"twitter": "https://twitter.com/Naveenk4226",
 },
   {
-        longitude: 12.3165844,
-        latitude: 76.6135129,
+        longitude: 76.6135129,
+        latitude: 12.3165844,
         batch: 2020,
         photo: ghpranav,
         region: "Asia",
@@ -391,6 +409,22 @@ const data = [
         "portfolio": "https://portfolio.abhisheksrivastava.me/"
   },
   {
+        "longitude": 76.902603,
+        "latitude": 8.546500,
+        "batch": 2020,
+        "photo": Jacob,
+        "region": "Asia",
+        "skills": ["App Dev", "Web Dev", "ML/AI"],
+        "name": "Jacob Abraham",
+        "bio": "Enthusiastic and passionate about coding with a strong desire to the field of Data Science. Have had various experiences and knowledgable in Web development and App development. Skilled as a Competitive Coder and a Leader that takes charge.",
+        "url": "https://dsc.community.dev/college-of-engineering-trivandrum/",
+        "chapterName": "College of Engineering Trivandrum",
+        "github": "https://github.com/jacob13400",
+        "linkedin": "https://www.linkedin.com/in/jacob-abraham-3b4b05190/",
+        "twitter": "https://twitter.com/Jake_is_live",
+        "portfolio": "http://www.jacobabraham.me/"
+  },
+  {
     longitude: 21.105388500457135,
     latitude: 79.00346884403419,
     batch: 2020,
@@ -403,7 +437,7 @@ const data = [
     chapterName: "G H Raisoni College of Engineering",
     github: "http://github.com/shreyasmalewar",
     linkedin: "https://www.linkedin.com/in/shreyasmalewar/",
-    twitter: "https://twitter.com/ShreyasMalewar",
+    twitter: "https://twitter.com/ShreyasMalewar"
   }
 ];
 
