@@ -7,6 +7,7 @@ import helios027 from "../../photos/helios027.jpg";
 import shawavisek35 from "../../photos/shawavisek35.png";
 import karthik from "../../photos/karthik.jpg";
 import advaithunnikrishnan from "../../photos/advaithunnikrishnan.jpg";
+import AsishRaju from "../../photos/AsishRaju.jpg";
 
 const data = [
 	{
@@ -59,12 +60,12 @@ const data = [
 		twitter: "https://twitter.com/AravindVNair99",
 	},
 	{
-		"longitude":11.5034,
-		"latitude": 77.2444,
+		"longitude": 77.035270,
+		"latitude": 28.609570,
 		"batch": 2020,
 		"photo": Aswin,
 		"region": "Asia",
-		"skills": [ "Cloud"],
+		"skills": ["Cloud"],
 		"name": "Aswin Kumar M",
 		"bio": "Never fear the Air.",
 		"url": "https://dsc.community.dev/bannari-amman-institute-of-technology/",
@@ -73,7 +74,7 @@ const data = [
 		"linkedin": "https://www.linkedin.com/in/aswin-kumar-m-83081b171/",
 		"twitter": "https://twitter.com/thisaswin"
 	},
-  {
+	{
 		longitude: 86.9842256,
 		latitude: 25.242453,
 		batch: 2020,
@@ -106,8 +107,8 @@ const data = [
 		portfolio: "https://avisekcode.netlify.app",
 	},
 	{
-		longitude: 12.8625611,
-		latitude: 77.6656671,
+		longitude: 77.5945627,
+		latitude: 12.9715987,
 		batch: 2020,
 		photo: karthik,
 		region: "Asia",
@@ -137,5 +138,19 @@ const data = [
         "twitter": "https://twitter.com/advaith_unni",
         "portfolio": "https://advaithunnikrishnan.me"
 }
+		longitude: 83.376702,
+		latitude: 17.781218,
+		batch: 2020,
+		photo: AsishRaju,
+		region: "Asia",
+		skills: ["Web Dev", "UI/UX",],
+		name: "V Asish Raju",
+		bio: "I would love to change the world, but they won’t give me the source code",
+		url: "https://dsc.community.dev/gandhi-institute-of-technology-and-management-visakhapatnam-campus/",
+		chapterName: "GITAM University, Vizag Campus",
+		github: "https://github.com/AsishRaju",
+		linkedin: "https://linkedin.com/in/asishraju",
+		twitter: "https://twitter.com/asish_io",
+	}
 ];
 export default data;
