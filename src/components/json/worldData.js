@@ -11,6 +11,7 @@ import advaithunnikrishnan from "../../photos/advaithunnikrishnan.jpg";
 import AsishRaju from "../../photos/AsishRaju.jpg";
 import Aineshphanithi from "../../photos/Aineshphanithi.jpg";
 import chrisft25 from "../../photos/chrisft25.jpg";
+import jemikp from "../../photos/jemikp.jpg";
 import kartikbhushan from "../../photos/kartikbhushan.jpg";
 import Aravindh020 from "../../photos/Aravindh020.jpeg"
 import NaveenK from "../../photos/NaveenK.jpeg"
@@ -278,6 +279,22 @@ const data = [
         "portfolio": "https://chrisfuentes.me"
 	},
 	{
+        "longitude": 72.946000,
+        "latitude": 20.513500,
+        "batch": 2020,
+        "photo": jemikp,
+        "region": "Asia",
+        "skills": ["App Dev"],
+        "name": "Jemik Patel",
+        "bio": "Constantly Learning!!",
+        "url": "https://dsc.community.dev/government-engineering-college-rajkot/",
+        "chapterName": "Government Engineering College, Rajkot",
+        "github": "https://github.com/jemikp",
+        "linkedin": "https://linkedin.com/in/jemikp",
+        "twitter": "https://twitter.com/jemik_patel",
+        "portfolio": "https://jemikpatel.me"
+	},
+  {
         "longitude": 18.541542228107776,
         "latitude": 73.72786442625926,
         "batch": 2020,
