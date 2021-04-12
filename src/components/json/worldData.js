@@ -133,7 +133,7 @@ const data = [
 		url: "https://dsc.community.dev/gandhi-institute-of-technology-and-management-visakhapatnam-campus/",
 		chapterName: "GITAM University, Vizag Campus",
 		github: "https://github.com/AsishRaju",
-		linkedin: "https://www.linkedin.com/in/asishraju/",
+		linkedin: "https://linkedin.com/in/asishraju",
 		twitter: "https://twitter.com/asish_io",
 	}
 ];
