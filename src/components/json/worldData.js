@@ -210,7 +210,7 @@ const data = [
 		"batch": 2020,
 		"photo": adi10hero,
 		"region": "Asia",
-		"skills": ["App Dev", "Web Dev", "UI/UX", "Cloud", "Machine Learning"],
+		"skills": ["App Dev", "Web Dev", "UI/UX", "Cloud", "AI/ML"],
 		"name": "Aditya Srivastava",
 		"bio": "Life Long Learner and a passionate programmer.",
 		"url": "https://dsc.community.dev/vivekanand-education-societys-institute-of-technology/",
