@@ -11,6 +11,7 @@ import advaithunnikrishnan from "../../photos/advaithunnikrishnan.jpg";
 import AsishRaju from "../../photos/AsishRaju.jpg";
 import Aineshphanithi from "../../photos/Aineshphanithi.jpg";
 import chrisft25 from "../../photos/chrisft25.jpg";
+import adi10hero from "../../photos/adi10hero.jpg";
 
 const data = [
 	{
@@ -139,8 +140,8 @@ const data = [
 		github: "https://github.com/MuhammadHassanRazaa",
 		linkedin: "https://linkedin.com/in/sshthassanraza",
 		twitter: "https://twitter.com/sshthassanraza"
-  },
-  {
+  	},
+  	{
 		"longitude": 76.990746,
 		"latitude": 8.549941,
 		"batch": 2020,
@@ -186,22 +187,38 @@ const data = [
 		github: "https://github.com/Aineshphanithi",
 		linkedin: "https://www.linkedin.com/in/ainesh-phanithi/",
 		twitter: "https://twitter.com/"
-  },
-  {
-        "longitude": -88.177773,
-        "latitude": 13.481270,
-        "batch": 2020,
-        "photo": chrisft25,
-        "region": "South America",
-        "skills": ["Web Dev", "UI/UX"],
-        "name": "Christopher Fuentes",
-        "bio": "Backend Developer. Geek. Marketing enthusiast. Passionate about learning new stuff. ",
-        "url": "https://dsc.community.dev/universidad-gerardo-barrios",
-        "chapterName": "Universidad Gerardo Barrios",
-        "github": "https://github.com/chrisft25",
-        "linkedin": "https://linkedin.com/in/chrisft25",
-        "twitter": "https://twitter.com/chrisft25",
-        "portfolio": "https://chrisfuentes.me"
+  	},
+  	{
+		"longitude": -88.177773,
+		"latitude": 13.481270,
+		"batch": 2020,
+		"photo": chrisft25,
+		"region": "South America",
+		"skills": ["Web Dev", "UI/UX"],
+		"name": "Christopher Fuentes",
+		"bio": "Backend Developer. Geek. Marketing enthusiast. Passionate about learning new stuff. ",
+		"url": "https://dsc.community.dev/universidad-gerardo-barrios",
+		"chapterName": "Universidad Gerardo Barrios",
+		"github": "https://github.com/chrisft25",
+		"linkedin": "https://linkedin.com/in/chrisft25",
+		"twitter": "https://twitter.com/chrisft25",
+		"portfolio": "https://chrisfuentes.me"
+	},
+	{
+		"longitude": 72.877655,
+		"latitude": 19.075983,
+		"batch": 2020,
+		"photo": adi10hero,
+		"region": "Asia",
+		"skills": ["App Dev", "Web Dev", "UI/UX", "Cloud", "Machine Learning"],
+		"name": "Aditya Srivastava",
+		"bio": "Life Long Learner and a passionate programmer.",
+		"url": "https://dsc.community.dev/vivekanand-education-societys-institute-of-technology/",
+		"chapterName": "Vivekanand Education Society's Institute of Technology",
+		"github": "https://github.com/adi10hero",
+		"linkedin": "https://linkedin.com/in/adi10hero",
+		"twitter": "https://twitter.com/adi10hero",
+		"portfolio": "https://adi10hero.github.io/"
 	}
 ];
 export default data;
