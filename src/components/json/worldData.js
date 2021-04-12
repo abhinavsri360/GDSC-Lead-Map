@@ -10,6 +10,7 @@ import MuhammadHassanRazaa from "../../photos/MuhammadHassanRazaa.jpg";
 import advaithunnikrishnan from "../../photos/advaithunnikrishnan.jpg";
 import AsishRaju from "../../photos/AsishRaju.jpg";
 import chrisft25 from "../../photos/chrisft25.jpg";
+import ankitaugale23 from "../../photos/ankitaugale23.jpg";
 
 const data = [
 	{
@@ -185,6 +186,22 @@ const data = [
         "linkedin": "https://linkedin.com/in/chrisft25",
         "twitter": "https://twitter.com/chrisft25",
         "portfolio": "https://chrisfuentes.me"
+	},
+	{
+		longitude: 73.844131,
+		latitude: 18.526110,
+		batch: 2020,
+		photo: ankitaugale23,
+		region: "Asia",
+		skills: ["Web Dev", "UI/UX"],
+		name: "Ankita Ugale",
+		bio: "Introverted extrovert!",
+		url:
+			"https://dsc.community.dev/aissms-college-of-engineering-pune/",
+		chapterName: "AISSMS college of engineering, Pune",
+		github: "https://github.com/ankitaugale23",
+		linkedin: "https://www.linkedin.com/in/ankita-ugale-333b21199/",
+		twitter: "https://twitter.com/ugale_ankita",
 	}
 ];
 export default data;
