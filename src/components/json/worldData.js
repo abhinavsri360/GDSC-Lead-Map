@@ -212,7 +212,7 @@ const data = [
         "region": "Asia",
         "skills": ["App Dev"],
         "name": "Jemik Patel",
-        "bio": "Constantly Learning!! ",
+        "bio": "Constantly Learning!!",
         "url": "https://dsc.community.dev/government-engineering-college-rajkot/",
         "chapterName": "Government Engineering College, Rajkot",
         "github": "https://github.com/jemikp",
