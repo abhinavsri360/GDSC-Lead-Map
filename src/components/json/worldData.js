@@ -69,8 +69,8 @@ const data = [
 		twitter: "https://twitter.com/AravindVNair99",
 	},
 	{
-		longitude: 13.1830,
-		latitude: 74.9339,
+		longitude: 74.9339,
+		latitude: 13.1830,
 		batch: 2020,
 		photo: RyuuKenshi,
 		region: "Asia",
