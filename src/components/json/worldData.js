@@ -31,6 +31,7 @@ import suyashsonawane from "../../photos/suyashsonawane.jpg"
 import harshKumarKhatri from "../../photos/harshKumarKhatri.jpg"
 import praddy2009 from "../../photos/praddy2009.jpg"
 import AnmolKaur from "../../photos/AnmolKaur.png"
+import venkyJayasurya from "../../photos/venkyjayasurya.jpg"
 
 const data = [
 	{
@@ -454,8 +455,7 @@ const data = [
 		region: "Asia",
 		skills: ["App Dev", "Web Dev", "AI/ML"],
 		name: "Jacob Abraham",
-		bio:
-			"Enthusiastic and passionate about coding with a strong desire to the field of Data Science. Have had various experiences and knowledgable in Web development and App development. Skilled as a Competitive Coder and a Leader that takes charge.",
+		bio: "Enthusiastic and passionate about coding with a strong desire to the field of Data Science. Have had various experiences and knowledgable in Web development and App development. Skilled as a Competitive Coder and a Leader that takes charge.",
 		url: "https://dsc.community.dev/college-of-engineering-trivandrum/",
 		chapterName: "College of Engineering Trivandrum",
 		github: "https://github.com/jacob13400",
@@ -471,8 +471,7 @@ const data = [
 		region: "Asia",
 		skills: ["AI/ML", "Web Dev"],
 		name: "Shreyas Malewar",
-		bio:
-			"I like to Code and Connect. I'm an Artist, Author and an Engineer.",
+		bio: "I like to Code and Connect. I'm an Artist, Author and an Engineer.",
 		url: "https://dsc.community.dev/gh-raisoni-college-of-engineering/",
 		chapterName: "G H Raisoni College of Engineering",
 		github: "http://github.com/shreyasmalewar",
@@ -487,10 +486,8 @@ const data = [
 		region: "Asia",
 		skills: ["App Dev", "Web Dev", "Machine Learning"],
 		name: "Suyash Sonawane",
-		bio:
-			"AI Researcher. Deep Learning Enthusiast. Android & Web Developer. ",
-		url:
-			"https://dsc.community.dev/pimpri-chinchwad-college-of-engineering/",
+		bio: "AI Researcher. Deep Learning Enthusiast. Android & Web Developer. ",
+		url: "https://dsc.community.dev/pimpri-chinchwad-college-of-engineering/",
 		chapterName: "Pimpri Chinchwad College Of Engineering",
 		github: "https://github.com/suyashsonawane",
 		linkedin: "https://www.linkedin.com/in/suyash-sonawane-44661417b/",
@@ -506,8 +503,7 @@ const data = [
 		skills: ["AI/ML", "Cloud", "IoT", "Web Dev"],
 		name: "Ashwin Raj",
 		bio: "Do cool things, that matter!",
-		url:
-			"https://dsc.community.dev/university-college-of-engineering-kariavattom/",
+		url: "https://dsc.community.dev/university-college-of-engineering-kariavattom/",
 		chapterName: "University College of Engineering, Kariavattom",
 		github: "https://github.com/ashwinraj-in",
 		linkedin: "https://linkedin.com/in/rajashwin",
@@ -544,6 +540,21 @@ const data = [
 		github: "https://github.com/anmolkaur18",
 		linkedin: "https://in.linkedin.com/in/anmol-kaur-04ba1b190/",
 		twitter: "https://twitter.com/_AnmolKaur_",
+	},
+	{
+		longitude: 78.3236,
+		latitude: 17.3457,
+		batch: 2020,
+		photo: venkyJayasurya,
+		region: "Asia",
+		skills: ["Web Dev", "UI/UX", "Cloud"],
+		name: "Venkateshwara Rao Jayasurya",
+		bio: "Loves to Code and Design!",
+		url:"https://dsc.community.dev/vidya-jyothi-institute-of-technology/",
+		chapterName: "Vidya Jyothi Institute of Technology, Hyderabad",
+		github: "https://github.com/venkyjayasurya",
+		linkedin: "https://www.linkedin.com/in/venky-jayasurya/",
+		twitter: "https://twitter.com/venky_jayasurya/",
 	},
   {
     longitude:  81.85615759777016,
