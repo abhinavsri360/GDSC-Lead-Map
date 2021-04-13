@@ -28,6 +28,7 @@ import shreyasmalewar from "../../photos/shreyasmalewar.jpg";
 import Jacob from "../../photos/Jacob.jpg";
 import ashwinraj from "../../photos/ashwinraj.jpg";
 import suyashsonawane from "../../photos/suyashsonawane.jpg"
+import sakshigrover from "../../photos/sakshigrover.jpeg"
 
 const data = [
 
@@ -488,7 +489,23 @@ const data = [
 		"linkedin": "https://linkedin.com/in/rajashwin",
 		"twitter": "https://twitter.com/ThisIsAshwinRaj",
 		"portfolio": "http://ashwinraj-in.github.io/"
-	}	
+	},
+  /*Sakshi Grover, DSC UMIT, 2020*/
+  {
+	"longitude": 19.0865,
+	"latitude": 72.8305,
+	"batch": 2020,
+	"photo": sakshigrover,
+	"region": "Asia",
+	"skills": ["App Dev", "Web Dev", "Machine Learning", "Cloud", "UI/UX"],
+	"name": "Sakshi Grover",
+	"bio": "An artist stuck inside a coder's body! ",
+	"url": "https://dsc.community.dev/usha-mittal-institute-of-technology/",
+	"chapterName": "Usha Mittal Institute of Technology",
+	"github": "https://github.com/sakshigrover-1998",
+	"linkedin": "https://www.linkedin.com/in/sakshi-grover-sndtwu/",
+	"twitter": "https://twitter.com/groversakshi14",
+  },
 ];
 
 export default data;
