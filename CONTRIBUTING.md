@@ -41,8 +41,8 @@ import abhinavsri360 from "../../photos/abhinavsri360.jpg";
 - For url use the `https://dsc.community.dev` chapter URL.
 - Use only the below mentioned skills in the skills array.
 
-| AI/ML | App Dev | Cloud | UI/UX | Web Dev | IoT |
-| ----- | ------- | ----- | ----- | ------- | --- |
+| AI/ML | App Dev | Cloud | UI/UX | Web Dev | IoT | Cybersecurity | XR | 
+| ----- | ------- | ----- | ----- | ------- | --- | ------------- | -- |
 
 ## Other PRs
 
