@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "./static/js/main.a15096b7.chunk.js",
-    "main.js.map": "./static/js/main.a15096b7.chunk.js.map",
+    "main.js": "./static/js/main.3142357c.chunk.js",
+    "main.js.map": "./static/js/main.3142357c.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.48134616.js",
     "runtime-main.js.map": "./static/js/runtime-main.48134616.js.map",
     "static/css/2.4c97ca4f.chunk.css": "./static/css/2.4c97ca4f.chunk.css",
@@ -38,6 +38,7 @@
     "static/media/karthik.18a8a93a.jpg": "./static/media/karthik.18a8a93a.jpg",
     "static/media/kartikbhushan.e23c73e0.jpg": "./static/media/kartikbhushan.e23c73e0.jpg",
     "static/media/kunalgehlot.04cc73c0.jpg": "./static/media/kunalgehlot.04cc73c0.jpg",
+    "static/media/praddy2009.4395f4d0.jpg": "./static/media/praddy2009.4395f4d0.jpg",
     "static/media/shawavisek35.67f8f99a.png": "./static/media/shawavisek35.67f8f99a.png",
     "static/media/shreyasmalewar.abfc4300.jpg": "./static/media/shreyasmalewar.abfc4300.jpg",
     "static/media/sunanda.8e6c8371.jpg": "./static/media/sunanda.8e6c8371.jpg",
@@ -47,6 +48,6 @@
     "static/js/runtime-main.48134616.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.f02df6bf.chunk.js",
-    "static/js/main.a15096b7.chunk.js"
+    "static/js/main.3142357c.chunk.js"
   ]
 }
