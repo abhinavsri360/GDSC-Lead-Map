@@ -35,7 +35,7 @@ const data = [
 
 	{
 		longitude: 25.432424740605963,
-		latitude:  81.85632119291081,
+		latitude:  25.432424740605963,
 		batch: 2020,
 		photo: praddy2009,
 		region: "Asia",
