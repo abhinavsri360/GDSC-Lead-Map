@@ -29,9 +29,27 @@ import Jacob from "../../photos/Jacob.jpg";
 import ashwinraj from "../../photos/ashwinraj.jpg";
 import suyashsonawane from "../../photos/suyashsonawane.jpg"
 import harshKumarKhatri from "../../photos/harshKumarKhatri.jpg"
+import itspraddy from "../../photos/praddyum.png"
 
 const data = [
 
+	{
+		longitude: 25.432424740605963,
+		latitude:  81.85632119291081,
+		batch: 2020,
+		photo: itspraddy,
+		region: "Asia",
+		skills: ["Ethical Hacking", "Augmented Reality", "Salesforce", "FrontEnd"],
+		name: "Praddyum Verma",
+		bio: "Everything Ethical Hacking and Tech",
+		url:
+			"https://dsc.community.dev/jaypee-institute-of-information-technology-sec-128",
+		chapterName: "Kalinga Institute of Industrial Technology",
+		github: "https://github.com/praddy2009",
+		linkedin: "https://linkedin.com/in/praddyum",
+		twitter: "https://twitter.com/Praddyum1",
+		portfolio: "https://praddy2009.github.io/portfolio/",
+	},
 	{
 		longitude: 77.3653,
 		latitude: 28.5192,
