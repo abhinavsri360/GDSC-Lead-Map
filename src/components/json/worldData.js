@@ -572,7 +572,6 @@ const data = [
     twitter: "https://twitter.com/Praddyum1",
     portfolio: "https://praddy2009.github.io/portfolio/"
 	},
-
 	{
         "longitude": 72.8305,
         "latitude": 19.0865,
