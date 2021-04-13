@@ -29,6 +29,7 @@ import Jacob from "../../photos/Jacob.jpg";
 import ashwinraj from "../../photos/ashwinraj.jpg";
 import suyashsonawane from "../../photos/suyashsonawane.jpg"
 import harshKumarKhatri from "../../photos/harshKumarKhatri.jpg"
+import AnmolKaur from "../../photos/AnmolKaur.png"
 
 const data = [
 
@@ -505,7 +506,25 @@ const data = [
 		"linkedin": "https://www.linkedin.com/in/harshkumarkhatri/",
 		"twitter": "https://twitter.com/HarshKhatri24",
 		"portfolio": "http://bit.ly/iamharsh"
-	}
+	},
+  {
+
+      "longitude": 77.245660,
+      "latitude": 28.581360,
+      "batch": 2020,
+      "photo": AnmolKaur,
+      "region": "Asia",
+      "skills": ["Web Dev"],
+      "name": "Anmol Kaur",
+      "bio": "Nemophilist & Philosophile ",
+      "url": "https://dsc.community.dev/indraprastha-college-for-women/",
+      "chapterName": "Indraprastha College For Women",
+      "github": "https://github.com/anmolkaur18",
+      "linkedin": "https://in.linkedin.com/in/anmol-kaur-04ba1b190/",
+      "twitter": "https://twitter.com/_AnmolKaur_",
+      
+    }
+
 ];
 
 export default data;
