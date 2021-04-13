@@ -32,6 +32,7 @@ import harshKumarKhatri from "../../photos/harshKumarKhatri.jpg"
 import praddy2009 from "../../photos/praddy2009.jpg"
 import AnmolKaur from "../../photos/AnmolKaur.png"
 import venkyJayasurya from "../../photos/venkyjayasurya.jpg"
+import akashshrivastava from "../../photos/akashshrivastava.jpg"
 
 const data = [
 	{
@@ -556,22 +557,38 @@ const data = [
 		linkedin: "https://www.linkedin.com/in/venky-jayasurya/",
 		twitter: "https://twitter.com/venky_jayasurya/",
 	},
-  {
-    longitude:  81.85615759777016,
-    latitude:  25.4324480740094,
-    batch: 2020,
-    photo: praddy2009,
-    region: "Asia",
-    skills: ["Cybersecurity", "XR", "Web Dev"],
-    name: "Praddyum Verma",
-    bio: "Let's talk security and Tech",
-    url: "https://dsc.community.dev/kalinga-institute-of-industrial-technology-bhubaneswar/",
-    chapterName: "Kalinga Institute of Industrial Technology",
-    github: "https://github.com/praddy2009",
-    linkedin: "https://linkedin.com/in/praddyum",
-    twitter: "https://twitter.com/Praddyum1",
-    portfolio: "https://praddy2009.github.io/portfolio/"
-	}
+	{
+		longitude:  81.85615759777016,
+		latitude:  25.4324480740094,
+		batch: 2020,
+		photo: praddy2009,
+		region: "Asia",
+		skills: ["Cybersecurity", "XR", "Web Dev"],
+		name: "Praddyum Verma",
+		bio: "Let's talk security and Tech",
+		url: "https://dsc.community.dev/kalinga-institute-of-industrial-technology-bhubaneswar/",
+		chapterName: "Kalinga Institute of Industrial Technology",
+		github: "https://github.com/praddy2009",
+		linkedin: "https://linkedin.com/in/praddyum",
+		twitter: "https://twitter.com/Praddyum1",
+		portfolio: "https://praddy2009.github.io/portfolio/"
+	},
+	{
+		longitude: 73.75810066610087,
+		latitude: 18.645158425929512,
+		batch: 2020,
+		photo: akashshrivastava,
+		region: "Asia",
+		skills: ["Web Dev"],
+		name: "Akash Shrivastava",
+		bio: "Enthusiast Learner & Coder | Django Developer",
+		url: "https://dsc.community.dev/dy-patil-college-of-engineering/",
+		chapterName: "D.Y. Patil College of Engineering, Pune",
+		github: "https://github.com/Akash1362000",
+		linkedin: "https://www.linkedin.com/in/akash136/",
+		twitter: "https://twitter.com/shrivastava136",
+		portfolio: "https://akash1362000.github.io/"
+}
 ];
 
 export default data;
