@@ -30,26 +30,9 @@ import ashwinraj from "../../photos/ashwinraj.jpg";
 import suyashsonawane from "../../photos/suyashsonawane.jpg"
 import harshKumarKhatri from "../../photos/harshKumarKhatri.jpg"
 import praddy2009 from "../../photos/praddy2009.jpg"
+import AnmolKaur from "../../photos/AnmolKaur.png"
 
 const data = [
-
-	{
-		longitude:  81.85615759777016,
-		latitude:  25.4324480740094,
-		batch: 2020,
-		photo: praddy2009,
-		region: "Asia",
-		skills: ["Cybersecurity", "XR", "Web Dev"],
-		name: "Praddyum Verma",
-		bio: "Let's talk security and Tech",
-		url:
-			"https://dsc.community.dev/kalinga-institute-of-industrial-technology-bhubaneswar/",
-		chapterName: "Kalinga Institute of Industrial Technology",
-		github: "https://github.com/praddy2009",
-		linkedin: "https://linkedin.com/in/praddyum",
-		twitter: "https://twitter.com/Praddyum1",
-		portfolio: "https://praddy2009.github.io/portfolio/",
-	},
 	{
 		longitude: 77.3653,
 		latitude: 28.5192,
@@ -320,12 +303,12 @@ const data = [
         "portfolio": "https://jemikpatel.me"
 	},
   {
-        "longitude": 18.541542228107776,
-        "latitude": 73.72786442625926,
+        "longitude": 73.728036,
+        "latitude": 18.541527,
         "batch": 2020,
         "photo": kartikbhushan,
         "region": "Asia",
-        "skills": ["Web Dev", "Cloud"],
+        "skills": ["Web Dev", "Cloud", "AI/ML"],
         "name": "Kartik Bhushan",
         "bio": "Computer Science student who loves to code and also hack. Want to do something illegal count me in . ",
         "url": "https://dsc.community.dev/symbiosis-institute-of-technology/",
@@ -523,6 +506,40 @@ const data = [
 		"linkedin": "https://www.linkedin.com/in/harshkumarkhatri/",
 		"twitter": "https://twitter.com/HarshKhatri24",
 		"portfolio": "http://bit.ly/iamharsh"
+	},
+  {
+
+      "longitude": 77.245660,
+      "latitude": 28.581360,
+      "batch": 2020,
+      "photo": AnmolKaur,
+      "region": "Asia",
+      "skills": ["Web Dev"],
+      "name": "Anmol Kaur",
+      "bio": "Nemophilist & Philosophile ",
+      "url": "https://dsc.community.dev/indraprastha-college-for-women/",
+      "chapterName": "Indraprastha College For Women",
+      "github": "https://github.com/anmolkaur18",
+      "linkedin": "https://in.linkedin.com/in/anmol-kaur-04ba1b190/",
+      "twitter": "https://twitter.com/_AnmolKaur_",
+      
+    },
+    {
+      longitude:  81.85615759777016,
+      latitude:  25.4324480740094,
+      batch: 2020,
+      photo: praddy2009,
+      region: "Asia",
+      skills: ["Cybersecurity", "XR", "Web Dev"],
+      name: "Praddyum Verma",
+      bio: "Let's talk security and Tech",
+      url:
+        "https://dsc.community.dev/kalinga-institute-of-industrial-technology-bhubaneswar/",
+      chapterName: "Kalinga Institute of Industrial Technology",
+      github: "https://github.com/praddy2009",
+      linkedin: "https://linkedin.com/in/praddyum",
+      twitter: "https://twitter.com/Praddyum1",
+      portfolio: "https://praddy2009.github.io/portfolio/",
 	}
 ];
 
