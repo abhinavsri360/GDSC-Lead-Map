@@ -29,7 +29,7 @@ import Jacob from "../../photos/Jacob.jpg";
 import ashwinraj from "../../photos/ashwinraj.jpg";
 import suyashsonawane from "../../photos/suyashsonawane.jpg"
 import harshKumarKhatri from "../../photos/harshKumarKhatri.jpg"
-import itspraddy from "../../photos/praddyum.png"
+import praddy2009 from "../../photos/praddy2009.jpg"
 
 const data = [
 
@@ -43,7 +43,7 @@ const data = [
 		name: "Praddyum Verma",
 		bio: "Everything Ethical Hacking and Tech",
 		url:
-			"https://dsc.community.dev/jaypee-institute-of-information-technology-sec-128",
+			"https://dsc.community.dev/kalinga-institute-of-industrial-technology-bhubaneswar/",
 		chapterName: "Kalinga Institute of Industrial Technology",
 		github: "https://github.com/praddy2009",
 		linkedin: "https://linkedin.com/in/praddyum",
