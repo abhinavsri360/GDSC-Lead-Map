@@ -26,7 +26,7 @@ import RyuuKenshi from "../../photos/RyuuKenshi.jpg"
 import sunanda from "../../photos/sunanda.jpg"
 import shreyasmalewar from "../../photos/shreyasmalewar.jpg";
 import Jacob from "../../photos/Jacob.jpg";
-import ashwinraj from "../../photos/ashwinraj.jpg";
+import ashwinraj-in from "../../photos/ashwinraj.jpg";
 import suyashsonawane from "../../photos/suyashsonawane.jpg"
 
 const data = [
@@ -477,7 +477,7 @@ const data = [
         "longitude": 9.202300,
         "latitude": 76.632430,
         "batch": 2020,
-        "photo": ashwinraj,
+        "photo": ashwinraj-in,
         "region": "Asia",
         "skills": ["AI/ML", "Cloud", "IoT", "Web Dev"],
         "name": "Ashwin Raj",
