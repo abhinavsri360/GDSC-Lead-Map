@@ -2,6 +2,8 @@
 
 ## Adding yourself to the map
 
+**IMPORTANT: Please do not include any package files such as `package.json` or `package-lock.json` or `yarn-lock.json` in the Pull Request.**
+
 Find your latitude, longitude using this: https://www.latlong.net/convert-address-to-lat-long.html
 
 Verify the latitude and longitude using this: https://www.latlong.net/Show-Latitude-Longitude.html
