@@ -302,12 +302,12 @@ const data = [
         "portfolio": "https://jemikpatel.me"
 	},
   {
-        "longitude": 18.541542228107776,
-        "latitude": 73.72786442625926,
+        "longitude": 18.541527,
+        "latitude": 73.728036,
         "batch": 2020,
         "photo": kartikbhushan,
         "region": "Asia",
-        "skills": ["Web Dev", "Cloud"],
+        "skills": ["Web Dev", "Cloud", "AI/ML"],
         "name": "Kartik Bhushan",
         "bio": "Computer Science student who loves to code and also hack. Want to do something illegal count me in . ",
         "url": "https://dsc.community.dev/symbiosis-institute-of-technology/",
