@@ -29,6 +29,7 @@ import Jacob from "../../photos/Jacob.jpg";
 import ashwinraj from "../../photos/ashwinraj.jpg";
 import suyashsonawane from "../../photos/suyashsonawane.jpg"
 import harshKumarKhatri from "../../photos/harshKumarKhatri.jpg"
+import praddy2009 from "../../photos/praddy2009.jpg"
 import AnmolKaur from "../../photos/AnmolKaur.png"
 
 const data = [
@@ -544,6 +545,22 @@ const data = [
 		linkedin: "https://in.linkedin.com/in/anmol-kaur-04ba1b190/",
 		twitter: "https://twitter.com/_AnmolKaur_",
 	},
+  {
+    longitude:  81.85615759777016,
+    latitude:  25.4324480740094,
+    batch: 2020,
+    photo: praddy2009,
+    region: "Asia",
+    skills: ["Cybersecurity", "XR", "Web Dev"],
+    name: "Praddyum Verma",
+    bio: "Let's talk security and Tech",
+    url: "https://dsc.community.dev/kalinga-institute-of-industrial-technology-bhubaneswar/",
+    chapterName: "Kalinga Institute of Industrial Technology",
+    github: "https://github.com/praddy2009",
+    linkedin: "https://linkedin.com/in/praddyum",
+    twitter: "https://twitter.com/Praddyum1",
+    portfolio: "https://praddy2009.github.io/portfolio/"
+	}
 ];
 
 export default data;
