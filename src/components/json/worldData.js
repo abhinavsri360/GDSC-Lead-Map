@@ -11,6 +11,7 @@ import advaithunnikrishnan from "../../photos/advaithunnikrishnan.jpg";
 import AsishRaju from "../../photos/AsishRaju.jpg";
 import Aineshphanithi from "../../photos/Aineshphanithi.jpg";
 import chrisft25 from "../../photos/chrisft25.jpg";
+import Abhinavtb from "../../photos/Abhinavtb.jpeg";
 import jemikp from "../../photos/jemikp.jpg";
 import kartikbhushan from "../../photos/kartikbhushan.jpg";
 import Aravindh020 from "../../photos/Aravindh020.jpeg"
@@ -282,7 +283,23 @@ const data = [
         "twitter": "https://twitter.com/chrisft25",
         "portfolio": "https://chrisfuentes.me"
 	},
-	{
+  {
+        "longitude":  76.299881,
+        "latitude": 9.981636 ,
+        "batch": 2020,
+        "photo": Abhinavtb,
+        "region": "Asia",
+        "skills": ["Web Dev", "AI/ML"],
+        "name": "Abhinav T B",
+        "bio": "Tech explorer | passionate developer | loves to automate things | problem solving | CSE undergrad @CUSAT ",
+        "url": "https://dsc.community.dev/cochin-university-of-science-and-technology/",
+        "chapterName": "Cochin University of Science and Technology",
+        "github": "https://github.com/abhinav-TB",
+        "linkedin": "https://linkedin.com/in/abhinav-t-b-226172190/",
+        "twitter": "https://twitter.com/abhiGamez",
+        "portfolio": "https://portfolio.abhigamez.co/"
+   },
+	 {
         "longitude": 72.946000,
         "latitude": 20.513500,
         "batch": 2020,
