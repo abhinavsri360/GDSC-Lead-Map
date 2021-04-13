@@ -12,8 +12,8 @@ In order to get yourself on the map, add your details in `src/components/json/wo
 
 ```JavaScript
 {
-        "longitude": 77.3653,
         "latitude": 28.5192,
+        "longitude": 77.3653,
         "batch": 2020,
         "photo": abhinavsri360,
         "region": "Asia",
