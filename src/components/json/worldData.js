@@ -28,6 +28,7 @@ import shreyasmalewar from "../../photos/shreyasmalewar.jpg";
 import Jacob from "../../photos/Jacob.jpg";
 import ashwinraj from "../../photos/ashwinraj.jpg";
 import suyashsonawane from "../../photos/suyashsonawane.jpg"
+import harshKumarKhatri from "../../photos/harshKumarKhatri.jpg"
 
 const data = [
 
@@ -488,7 +489,23 @@ const data = [
 		"linkedin": "https://linkedin.com/in/rajashwin",
 		"twitter": "https://twitter.com/ThisIsAshwinRaj",
 		"portfolio": "http://ashwinraj-in.github.io/"
-	}	
+	},
+	{
+        	"longitude": 75.831720,
+		"latitude": 25.151100,
+		"batch": 2020,
+		"photo": harshKumarKhatri,
+		"region": "Asia",
+		"skills": ["Flutter", "Cloud", "Backend-Dev", "Web Dev"],
+		"name": "Harsh Kumar Khatri",
+		"bio": "Learning skills apart from knowledge.",
+		"url": "https://dsc.community.dev/career-point-university/",
+		"chapterName": "Career Point University, Kota",
+		"github": "https://github.com/harshkumarkhatri",
+		"linkedin": "https://www.linkedin.com/in/harshkumarkhatri/",
+		"twitter": "https://twitter.com/HarshKhatri24",
+		"portfolio": "http://bit.ly/iamharsh"
+	}
 ];
 
 export default data;
