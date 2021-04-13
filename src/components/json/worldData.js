@@ -302,8 +302,8 @@ const data = [
         "portfolio": "https://jemikpatel.me"
 	},
   {
-        "longitude": 18.541527,
-        "latitude": 73.728036,
+        "longitude": 73.728036,
+        "latitude": 18.541527,
         "batch": 2020,
         "photo": kartikbhushan,
         "region": "Asia",
