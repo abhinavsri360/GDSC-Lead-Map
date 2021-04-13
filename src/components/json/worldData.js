@@ -497,8 +497,8 @@ const data = [
 		portfolio: "https://suyashsonawane.me/",
 	},
 	{
-		longitude: 9.2023,
-		latitude: 76.63243,
+		longitude: 76.63243,
+		latitude: 9.2023,
 		batch: 2020,
 		photo: ashwinraj,
 		region: "Asia",
