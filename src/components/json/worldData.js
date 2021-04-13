@@ -473,22 +473,22 @@ const data = [
 	"twitter": "https://twitter.com/SuyashYSonawane",
 	"portfolio": "https://suyashsonawane.me/"
   },
-  {
-        "longitude": 9.202300,
-        "latitude": 76.632430,
-        "batch": 2020,
-        "photo": ashwinraj-in,
-        "region": "Asia",
-        "skills": ["AI/ML", "Cloud", "IoT", "Web Dev"],
-        "name": "Ashwin Raj",
-        "bio": "Do cool things, that matter!",
-        "url": "https://dsc.community.dev/university-college-of-engineering-kariavattom/",
-        "chapterName": "University College of Engineering, Kariavattom",
-        "github": "https://github.com/ashwinraj-in",
-        "linkedin": "https://linkedin.com/in/rajashwin",
-        "twitter": "https://twitter.com/ThisIsAshwinRaj",
-        "portfolio": "http://ashwinraj-in.github.io/"
-  }	
+	{
+        	"longitude": 9.202300,
+		"latitude": 76.632430,
+		"batch": 2020,
+		"photo": ashwinraj-in,
+		"region": "Asia",
+		"skills": ["AI/ML", "Cloud", "IoT", "Web Dev"],
+		"name": "Ashwin Raj",
+		"bio": "Do cool things, that matter!",
+		"url": "https://dsc.community.dev/university-college-of-engineering-kariavattom/",
+		"chapterName": "University College of Engineering, Kariavattom",
+		"github": "https://github.com/ashwinraj-in",
+		"linkedin": "https://linkedin.com/in/rajashwin",
+		"twitter": "https://twitter.com/ThisIsAshwinRaj",
+		"portfolio": "http://ashwinraj-in.github.io/"
+	}	
 ];
 
 export default data;
