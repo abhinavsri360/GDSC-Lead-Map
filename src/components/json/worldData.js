@@ -30,6 +30,7 @@ import ashwinraj from "../../photos/ashwinraj.jpg";
 import suyashsonawane from "../../photos/suyashsonawane.jpg"
 import harshKumarKhatri from "../../photos/harshKumarKhatri.jpg"
 import AnmolKaur from "../../photos/AnmolKaur.png"
+import venkyJayasurya from "../../photos/venkyjayasurya.jpg"
 
 const data = [
 
@@ -523,7 +524,22 @@ const data = [
       "linkedin": "https://in.linkedin.com/in/anmol-kaur-04ba1b190/",
       "twitter": "https://twitter.com/_AnmolKaur_",
       
-    }
+    },
+	{
+		longitude: 78.3236,
+		latitude: 17.3457,
+		batch: 2020,
+		photo: venkyJayasurya,
+		region: "Asia",
+		skills: ["Web Dev", "UI/UX", "Cloud"],
+		name: "Venkateshwara Rao Jayasurya",
+		bio: "Loves to Code and Design!",
+		url:"https://dsc.community.dev/vidya-jyothi-institute-of-technology/",
+		chapterName: "Vidya Jyothi Institute of Technology, Hyderabad",
+		github: "https://github.com/venkyjayasurya",
+		linkedin: "https://www.linkedin.com/in/venky-jayasurya/",
+		twitter: "https://twitter.com/venky_jayasurya/",
+	}
 
 ];
 
