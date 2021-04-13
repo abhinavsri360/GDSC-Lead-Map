@@ -34,8 +34,8 @@ import praddy2009 from "../../photos/praddy2009.jpg"
 const data = [
 
 	{
-		longitude: 25.432424740605963,
-		latitude:  25.432424740605963,
+		longitude:  81.85615759777016,
+		latitude:  25.4324480740094,
 		batch: 2020,
 		photo: praddy2009,
 		region: "Asia",
