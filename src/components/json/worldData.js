@@ -32,7 +32,7 @@ import harshKumarKhatri from "../../photos/harshKumarKhatri.jpg"
 import praddy2009 from "../../photos/praddy2009.jpg"
 import AnmolKaur from "../../photos/AnmolKaur.png"
 import venkyJayasurya from "../../photos/venkyjayasurya.jpg"
-
+import sakshigrover from "../../photos/sakshigrover.jpeg"
 const data = [
 	{
 		longitude: 77.3653,
@@ -571,7 +571,22 @@ const data = [
     linkedin: "https://linkedin.com/in/praddyum",
     twitter: "https://twitter.com/Praddyum1",
     portfolio: "https://praddy2009.github.io/portfolio/"
-	}
+	},
+ {
+        "longitude": 72.8305,
+        "latitude": 19.0865,
+        "batch": 2020,
+        "photo": sakshigrover,
+        "region": "Asia",
+        "skills": ["App Dev", "Web Dev", "UI/UX", "Cloud"],
+        "name": "Sakshi Grover",
+        "bio": "An artist stuck inside a coder's body!",
+        "url": "https://dsc.community.dev/usha-mittal-institute-of-technology/",
+        "chapterName": "Usha Mittal Institute of Technology",
+        "github": "https://github.com/sakshigrover-1998",
+        "linkedin": "https://linkedin.com/in/sakshi-grover-sndtwu",
+        "twitter": "https://twitter.com/groversakshi14"
+ }
 ];
 
 export default data;
