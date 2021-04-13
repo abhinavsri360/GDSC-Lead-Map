@@ -414,19 +414,19 @@ const data = [
         "twitter": "https://twitter.com/Abhishe51428266",
         "portfolio": "https://portfolio.abhisheksrivastava.me/"
   },
-  {     "longitude": 73.874352, 
-        "latitude": 18.528900, 
-        "batch": 2020, 
-        "photo": sunanda, 
-        "region": "Asia", 
-        "skills": ["AI/ML", "Web Dev"], 
-        "name": "Sunanda Somwase", 
-        "bio": "Always looking for opportunities!", 
-        "url": "https://dsc.community.dev/pune-vidyarthi-grihas-college-of-engineering-and-technology-pune/", 
-        "chapterName": "Pune Vidyarthi Griha's College of Engineering and Technology, Pune", 
-        "github": "https://github.com/SunandaS76", 
-        "linkedin": "https://www.linkedin.com/in/sunandasomwase/", 
-        "twitter": "https://twitter.com/SSomwase", 
+  {     "longitude": 73.874352,
+        "latitude": 18.528900,
+        "batch": 2020,
+        "photo": sunanda,
+        "region": "Asia",
+        "skills": ["AI/ML", "Web Dev"],
+        "name": "Sunanda Somwase",
+        "bio": "Always looking for opportunities!",
+        "url": "https://dsc.community.dev/pune-vidyarthi-grihas-college-of-engineering-and-technology-pune/",
+        "chapterName": "Pune Vidyarthi Griha's College of Engineering and Technology, Pune",
+        "github": "https://github.com/SunandaS76",
+        "linkedin": "https://www.linkedin.com/in/sunandasomwase/",
+        "twitter": "https://twitter.com/SSomwase",
   },
   {
         "longitude": 76.902603,
@@ -522,7 +522,7 @@ const data = [
       "github": "https://github.com/anmolkaur18",
       "linkedin": "https://in.linkedin.com/in/anmol-kaur-04ba1b190/",
       "twitter": "https://twitter.com/_AnmolKaur_",
-      
+
     }
 
 ];
