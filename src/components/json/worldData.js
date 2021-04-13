@@ -463,8 +463,8 @@ const data = [
 		portfolio: "http://www.jacobabraham.me/",
 	},
 	{
-		longitude: 21.105388500457135,
-		latitude: 79.00346884403419,
+		longitude: 79.00346884403419,
+		latitude: 21.105388500457135,
 		batch: 2020,
 		photo: shreyasmalewar,
 		region: "Asia",
