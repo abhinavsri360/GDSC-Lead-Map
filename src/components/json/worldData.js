@@ -32,6 +32,7 @@ import harshKumarKhatri from "../../photos/harshKumarKhatri.jpg"
 import praddy2009 from "../../photos/praddy2009.jpg"
 import AnmolKaur from "../../photos/AnmolKaur.png"
 import venkyJayasurya from "../../photos/venkyjayasurya.jpg"
+import pvsharshith from "../../photos/pvsharshith.jpg";
 
 const data = [
 	{
@@ -571,6 +572,21 @@ const data = [
     linkedin: "https://linkedin.com/in/praddyum",
     twitter: "https://twitter.com/Praddyum1",
     portfolio: "https://praddy2009.github.io/portfolio/"
+	},
+	{
+    longitude:  78.391310,
+    latitude:  17.493120,
+    batch: 2020,
+    photo: pvsharshith,
+    region: "Asia",
+    skills: ["App Dev", "Web Dev"],
+    name: "Harshith Pvs",
+    bio: "Explorer. Techie. Open Source Enthusiast. Community Person!",
+    url: "https://dsc.community.dev/jntuh-college-of-engineering-hyderabad/",
+    chapterName: "JNTUH College of Engineering Hyderabad",
+    github: "https://github.com/pvsharshith",
+    linkedin: "https://www.linkedin.com/in/venkata-sai-harshith-penugonda-35aa8b160/",
+    twitter: "https://twitter.com/VenkataSaiHars2"
 	}
 ];
 
