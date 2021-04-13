@@ -39,9 +39,9 @@ const data = [
 		batch: 2020,
 		photo: praddy2009,
 		region: "Asia",
-		skills: ["Ethical Hacking", "XR", "Web Dev"],
+		skills: ["Cybersecurity", "XR", "Web Dev"],
 		name: "Praddyum Verma",
-		bio: "Everything Ethical Hacking and Tech",
+		bio: "Let's talk security and Tech",
 		url:
 			"https://dsc.community.dev/kalinga-institute-of-industrial-technology-bhubaneswar/",
 		chapterName: "Kalinga Institute of Industrial Technology",
