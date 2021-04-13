@@ -39,7 +39,7 @@ const data = [
 		batch: 2020,
 		photo: praddy2009,
 		region: "Asia",
-		skills: ["Ethical Hacking", "Augmented Reality", "Salesforce", "FrontEnd"],
+		skills: ["Ethical Hacking", "Augmented Reality", "Salesforce", "Web Dev"],
 		name: "Praddyum Verma",
 		bio: "Everything Ethical Hacking and Tech",
 		url:
