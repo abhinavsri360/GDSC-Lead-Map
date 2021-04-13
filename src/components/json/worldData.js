@@ -26,6 +26,7 @@ import RyuuKenshi from "../../photos/RyuuKenshi.jpg"
 import sunanda from "../../photos/sunanda.jpg"
 import shreyasmalewar from "../../photos/shreyasmalewar.jpg";
 import Jacob from "../../photos/Jacob.jpg";
+import ashwinraj from "../../photos/ashwinraj.jpg";
 import suyashsonawane from "../../photos/suyashsonawane.jpg"
 
 const data = [
@@ -471,7 +472,23 @@ const data = [
 	"linkedin": "https://www.linkedin.com/in/suyash-sonawane-44661417b/",
 	"twitter": "https://twitter.com/SuyashYSonawane",
 	"portfolio": "https://suyashsonawane.me/"
-  }
+  },
+	{
+        	"longitude": 9.202300,
+		"latitude": 76.632430,
+		"batch": 2020,
+		"photo": ashwinraj,
+		"region": "Asia",
+		"skills": ["AI/ML", "Cloud", "IoT", "Web Dev"],
+		"name": "Ashwin Raj",
+		"bio": "Do cool things, that matter!",
+		"url": "https://dsc.community.dev/university-college-of-engineering-kariavattom/",
+		"chapterName": "University College of Engineering, Kariavattom",
+		"github": "https://github.com/ashwinraj-in",
+		"linkedin": "https://linkedin.com/in/rajashwin",
+		"twitter": "https://twitter.com/ThisIsAshwinRaj",
+		"portfolio": "http://ashwinraj-in.github.io/"
+	}	
 ];
 
 export default data;
