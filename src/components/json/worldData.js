@@ -641,20 +641,20 @@ const data = [
     twitter: "https://twitter.com/groversakshi14",
   },
   {
-		longitude: 80.886337,
-		latitude: 26.846300,
-		batch: 2020,
-		photo: Vasundharashukla,
-		region: "Asia",
-		skills: ["XR", "Web Dev", "Cloud", "AI/ML"],
-		name: "Vasundhara Shukla",
-		bio: "Certainly the software geek who is into dancing!",
-		url:"https://dsc.community.dev/the-lnm-institute-of-information-technology/",
-		chapterName: "The LNM Institute of Information Technology, Jaipur",
-		github: "https://github.com/Vasundharashukla",
-		linkedin: "https://www.linkedin.com/in/vasundhara-shukla/",
-		twitter: "https://twitter.com/VasundharaShuk9",
-	}
+	longitude: 80.886337,
+	latitude: 26.846300,
+	batch: 2020,
+	photo: Vasundharashukla,
+	region: "Asia",
+	skills: ["XR", "Web Dev", "Cloud", "AI/ML"],
+	name: "Vasundhara Shukla",
+	bio: "Certainly the software geek who is into dancing!",
+	url:"https://dsc.community.dev/the-lnm-institute-of-information-technology/",
+	chapterName: "The LNM Institute of Information Technology, Jaipur",
+	github: "https://github.com/Vasundharashukla",
+	linkedin: "https://www.linkedin.com/in/vasundhara-shukla/",
+	twitter: "https://twitter.com/VasundharaShuk9",
+  }
 ];
 
 export default data;
