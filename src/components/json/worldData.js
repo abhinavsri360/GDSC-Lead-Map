@@ -35,7 +35,7 @@ import venkyJayasurya from "../../photos/venkyjayasurya.jpg";
 import pvsharshith from "../../photos/pvsharshith.jpg";
 import akashshrivastava from "../../photos/akashshrivastava.jpg";
 import sakshigrover from "../../photos/sakshigrover.jpeg";
-import PragatiVerma from "../../photos/PragatiVerma.png";
+import PragatiVerma from "../../photos/PragatiVerma.jpg";
 
 const data = [
   {
