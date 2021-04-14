@@ -35,6 +35,7 @@ import venkyJayasurya from "../../photos/venkyjayasurya.jpg"
 import pvsharshith from "../../photos/pvsharshith.jpg";
 import akashshrivastava from "../../photos/akashshrivastava.jpg"
 import sakshigrover from "../../photos/sakshigrover.jpeg"
+import Vasundharashukla from "../../photos/Vasundharashukla.jpg";
 
 const data = [
 	{
@@ -563,9 +564,9 @@ const data = [
 		longitude: 80.886337,
 		latitude: 26.846300,
 		batch: 2020,
-		photo: abhinavsri360,
+		photo: Vasundharashukla,
 		region: "Asia",
-		skills: ["Kubernetes", "Web Dev", "GO", "ML"],
+		skills: ["XR", "Web Dev", "Cloud", "ML"],
 		name: "Vasundhara Shukla",
 		bio: "Certainly the software geek who is into dancing!",
 		url:"https://dsc.community.dev/the-lnm-institute-of-information-technology/",
