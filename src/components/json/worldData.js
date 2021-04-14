@@ -566,7 +566,7 @@ const data = [
 		batch: 2020,
 		photo: Vasundharashukla,
 		region: "Asia",
-		skills: ["XR", "Web Dev", "Cloud", "ML"],
+		skills: ["XR", "Web Dev", "Cloud", "AI/ML"],
 		name: "Vasundhara Shukla",
 		bio: "Certainly the software geek who is into dancing!",
 		url:"https://dsc.community.dev/the-lnm-institute-of-information-technology/",
