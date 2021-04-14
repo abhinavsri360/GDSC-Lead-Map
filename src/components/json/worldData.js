@@ -33,8 +33,9 @@ import praddy2009 from "../../photos/praddy2009.jpg";
 import AnmolKaur from "../../photos/AnmolKaur.png";
 import venkyJayasurya from "../../photos/venkyjayasurya.jpg";
 import pvsharshith from "../../photos/pvsharshith.jpg";
-import akashshrivastava from "../../photos/akashshrivastava.jpg";
-import sakshigrover from "../../photos/sakshigrover.jpeg";
+import akashshrivastava from "../../photos/akashshrivastava.jpg"
+import sakshigrover from "../../photos/sakshigrover.jpeg"
+import Vasundharashukla from "../../photos/Vasundharashukla.jpg";
 import PragatiVerma from "../../photos/PragatiVerma.jpg";
 
 const data = [
@@ -639,6 +640,21 @@ const data = [
     linkedin: "https://linkedin.com/in/sakshi-grover-sndtwu",
     twitter: "https://twitter.com/groversakshi14",
   },
+  {
+		longitude: 80.886337,
+		latitude: 26.846300,
+		batch: 2020,
+		photo: Vasundharashukla,
+		region: "Asia",
+		skills: ["XR", "Web Dev", "Cloud", "AI/ML"],
+		name: "Vasundhara Shukla",
+		bio: "Certainly the software geek who is into dancing!",
+		url:"https://dsc.community.dev/the-lnm-institute-of-information-technology/",
+		chapterName: "The LNM Institute of Information Technology, Jaipur",
+		github: "https://github.com/Vasundharashukla",
+		linkedin: "https://www.linkedin.com/in/vasundhara-shukla/",
+		twitter: "https://twitter.com/VasundharaShuk9",
+	}
 ];
 
 export default data;
