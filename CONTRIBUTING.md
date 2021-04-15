@@ -39,7 +39,6 @@ import abhinavsri360 from "../../photos/abhinavsri360.jpg";
 ### Notes for adding yourself to the map
 
 - Don't forget to add your `jpg` photo with a resolution of `400px*400px` in `src/photos/` with the file name as your GitHub username and import it. Use a tool such as [this](https://resizeimage.net) to achieve the same.
-- Please feel free to use https://resizeimage.net/ to get your image to the required resolution with the `jpg` format in one go!
 - For url use the `https://dsc.community.dev` chapter URL.
 - Use only the below mentioned skills in the skills array.
 
