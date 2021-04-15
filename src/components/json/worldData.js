@@ -11,7 +11,7 @@ import advaithunnikrishnan from "../../photos/advaithunnikrishnan.jpg";
 import AsishRaju from "../../photos/AsishRaju.jpg";
 import Aineshphanithi from "../../photos/Aineshphanithi.jpg";
 import chrisft25 from "../../photos/chrisft25.jpg";
-import subrat from "../../photos/subrat.jpg";
+import subratkishoredutta from "../../photos/subratkishoredutta.jpg";
 const data = [
 	{
 		longitude: 77.3653,
