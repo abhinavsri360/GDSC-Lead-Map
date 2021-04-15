@@ -69,7 +69,7 @@ const data = [
     region: "Asia",
     skills: ["App Dev", "UI/UX", "Cloud"],
     name: "Aditya Birangal",
-    bio: "Lover of Technology !",
+    bio: "Lover of Technology!",
     url:
       "https://dsc.community.dev/mit-academy-of-engineering/",
     chapterName: "MIT Academy of Engineering, Pune",
