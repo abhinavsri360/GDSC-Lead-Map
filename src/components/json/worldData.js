@@ -11,7 +11,7 @@ import advaithunnikrishnan from "../../photos/advaithunnikrishnan.jpg";
 import AsishRaju from "../../photos/AsishRaju.jpg";
 import Aineshphanithi from "../../photos/Aineshphanithi.jpg";
 import chrisft25 from "../../photos/chrisft25.jpg";
-
+import subrat from "../../photos/subrat.jpg";
 const data = [
 	{
 		longitude: 77.3653,
@@ -29,6 +29,21 @@ const data = [
 		linkedin: "https://linkedin.com/in/abhinavsri360",
 		twitter: "https://twitter.com/abhinavsri360",
 		portfolio: "https://abhinavsri360.netlify.app",
+	},
+	{
+		longitude: 91.666740,
+		latitude: 26.154620,
+		batch: 2020,
+		photo: subrat,
+		region: "Asia",
+		skills: ["DL","ML"],
+		name: "Subrat Kishore Dutta",
+		bio: "AI research enthusiast",
+		url:
+			"https://dsc.community.dev/assam-engineering-college-jalukbari/",
+		chapterName: "Jaypee Institute of Information Technology, Sec - 128",
+		github: "https://github.com/subratkishoredutta",
+		linkedin: "https://www.linkedin.com/in/subrat-kishore-dutta-70a9a316b/",
 	},
 	{
 		longitude: 83.2184815,
