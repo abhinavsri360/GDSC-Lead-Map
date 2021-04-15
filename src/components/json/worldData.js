@@ -37,8 +37,8 @@ import akashshrivastava from "../../photos/akashshrivastava.jpg"
 import sakshigrover from "../../photos/sakshigrover.jpeg"
 import Vasundharashukla from "../../photos/Vasundharashukla.jpg";
 import PragatiVerma from "../../photos/PragatiVerma.jpg";
+import palak from "../../photos/pal-16.jpg";
 import AkshaySharma008 from "../../photos/AkshaySharma008.jpg";
-
 
 const data = [
   {
@@ -672,6 +672,21 @@ const data = [
 		github: "https://github.com/Vasundharashukla",
 		linkedin: "https://www.linkedin.com/in/vasundhara-shukla/",
 		twitter: "https://twitter.com/VasundharaShuk9",
+	},
+	{
+		longitude: 72.837761,
+		latitude: 19.224100,
+		batch: 2020,
+		photo: palak,
+		region: "Asia",
+		skills: ["App Dev", "Web Dev", "Cloud", "AI/ML"],
+		name: "Palak Mantry",
+		bio: "Morgan Stanley Intern'21 | Interested in Problem Solving and Full Stack Development",
+		url: "https://dsc.community.dev/veermata-jijabai-technological-institute/",
+		chapterName: "Veermata Jijabai Technological Institute",
+		github: "https://github.com/pal-16",
+		linkedin: "https://linkedin.com/in/palak-mantry",
+		twitter: "https://twitter.com/MantryPalak",
 	}
 ];
 
