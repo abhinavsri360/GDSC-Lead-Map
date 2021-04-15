@@ -97,7 +97,7 @@ const data = [
         "region": "Asia",
         "skills": ["Web Dev", "Cloud"],
         "name": "Akshay Sharma",
-        "bio": "I am a Software Developer who is passionate about building amazing softwares and applications to help people across the world.",
+        "bio": "I write code to build Useful stuff which helps people.",
         "url": "https://dsc.community.dev/army-institute-of-technology/",
         "chapterName": "Army Institute of Technology, Pune",
         "github": "https://github.com/AkshaySharma008",
