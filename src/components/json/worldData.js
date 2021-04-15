@@ -101,7 +101,7 @@ const data = [
     "url": "https://dsc.community.dev/army-institute-of-technology/",
     "chapterName": "Army Institute of Technology, Pune",
     "github": "https://github.com/AkshaySharma008",
-    "linkedin": "https://www.linkedin.com/in/akshaysharma008/",
+    "linkedin": "https://linkedin.com/in/akshaysharma008",
     "twitter": "https://twitter.com/akshay8844",
     "portfolio": "https://akshaysharma.co.in"
   },
