@@ -38,6 +38,7 @@ import sakshigrover from "../../photos/sakshigrover.jpeg"
 import Vasundharashukla from "../../photos/Vasundharashukla.jpg";
 import PragatiVerma from "../../photos/PragatiVerma.jpg";
 import palak from "../../photos/pal-16.jpg";
+import AkshaySharma008 from "../../photos/AkshaySharma008.jpg";
 
 const data = [
   {
@@ -87,6 +88,22 @@ const data = [
     github: "https://github.com/srilaasya",
     linkedin: "https://linkedin.com/in/sri-laasya",
     twitter: "https://twitter.com/n_sri_laasya",
+  },
+  {
+    "latitude": 26.293501,
+    "longitude": 78.133331,
+    "batch": 2020,
+    "photo": AkshaySharma008,
+    "region": "Asia",
+    "skills": ["Web Dev", "Cloud"],
+    "name": "Akshay Sharma",
+    "bio": "I write code to build Useful stuff which helps people.",
+    "url": "https://dsc.community.dev/army-institute-of-technology/",
+    "chapterName": "Army Institute of Technology, Pune",
+    "github": "https://github.com/AkshaySharma008",
+    "linkedin": "https://linkedin.com/in/akshaysharma008",
+    "twitter": "https://twitter.com/akshay8844",
+    "portfolio": "https://akshaysharma.co.in"
   },
   {
     longitude: 77.6746238,
