@@ -11,6 +11,7 @@ import advaithunnikrishnan from "../../photos/advaithunnikrishnan.jpg";
 import AsishRaju from "../../photos/AsishRaju.jpg";
 import Aineshphanithi from "../../photos/Aineshphanithi.jpg";
 import chrisft25 from "../../photos/chrisft25.jpg";
+import subratkishoredutta from "../../photos/subratkishoredutta.jpg";
 import Abhinavtb from "../../photos/Abhinavtb.jpeg";
 import jemikp from "../../photos/jemikp.jpg";
 import kartikbhushan from "../../photos/kartikbhushan.jpg";
@@ -708,6 +709,21 @@ const data = [
 		github: "https://github.com/pal-16",
 		linkedin: "https://linkedin.com/in/palak-mantry",
 		twitter: "https://twitter.com/MantryPalak",
+	},
+  {
+		longitude: 91.666740,
+		latitude: 26.154620,
+		batch: 2020,
+		photo: subratkishoredutta,
+		region: "Asia",
+		skills: ["AI/ML"],
+		name: "Subrat Kishore Dutta",
+		bio: "AI research enthusiast",
+		url:
+			"https://dsc.community.dev/assam-engineering-college-jalukbari/",
+		chapterName: "Assam Engineering College",
+		github: "https://github.com/subratkishoredutta",
+		linkedin: "https://linkedin.com/in/subrat-kishore-dutta-70a9a316b",
 	}
 ];
 
