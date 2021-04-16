@@ -36,7 +36,7 @@ const data = [
 		batch: 2020,
 		photo: subratkishoredutta,
 		region: "Asia",
-		skills: ["DL","ML"],
+		skills: ["AI/ML"],
 		name: "Subrat Kishore Dutta",
 		bio: "AI research enthusiast",
 		url:
