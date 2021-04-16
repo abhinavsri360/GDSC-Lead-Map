@@ -39,6 +39,8 @@ import Vasundharashukla from "../../photos/Vasundharashukla.jpg";
 import PragatiVerma from "../../photos/PragatiVerma.jpg";
 import palak from "../../photos/pal-16.jpg";
 import AkshaySharma008 from "../../photos/AkshaySharma008.jpg";
+import AdityaBirangal from "../../photos/AdityaBirangal.jpg";
+
 
 const data = [
   {
@@ -58,6 +60,25 @@ const data = [
     twitter: "https://twitter.com/abhinavsri360",
     portfolio: "https://abhinavsri360.netlify.app",
   },
+
+  {
+    longitude: 73.856743,
+    latitude: 18.520430,
+    batch: 2020,
+    photo: AdityaBirangal,
+    region: "Asia",
+    skills: ["App Dev", "UI/UX", "Cloud"],
+    name: "Aditya Birangal",
+    bio: "Lover of Technology!",
+    url:
+      "https://dsc.community.dev/mit-academy-of-engineering/",
+    chapterName: "MIT Academy of Engineering, Pune",
+    github: "https://github.com/AdityaBirangal",
+    linkedin: "https://linkedin.com/in/AdityaBirangal",
+    twitter: "https://twitter.com/AdityaBirangal",
+    portfolio: "https://birangal.com",
+  },
+
   {
     longitude: 77.391029,
     latitude: 28.535517,
