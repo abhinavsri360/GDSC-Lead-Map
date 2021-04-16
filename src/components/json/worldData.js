@@ -41,7 +41,7 @@ const data = [
 		bio: "AI research enthusiast",
 		url:
 			"https://dsc.community.dev/assam-engineering-college-jalukbari/",
-		chapterName: "Jaypee Institute of Information Technology, Sec - 128",
+		chapterName: "Assam Engineering College",
 		github: "https://github.com/subratkishoredutta",
 		linkedin: "https://linkedin.com/in/subrat-kishore-dutta-70a9a316b",
 	},
