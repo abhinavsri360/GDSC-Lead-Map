@@ -43,7 +43,7 @@ const data = [
 			"https://dsc.community.dev/assam-engineering-college-jalukbari/",
 		chapterName: "Jaypee Institute of Information Technology, Sec - 128",
 		github: "https://github.com/subratkishoredutta",
-		linkedin: "https://www.linkedin.com/in/subrat-kishore-dutta-70a9a316b/",
+		linkedin: "https://linkedin.com/in/subrat-kishore-dutta-70a9a316b",
 	},
 	{
 		longitude: 83.2184815,
