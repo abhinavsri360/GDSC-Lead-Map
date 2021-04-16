@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "./static/js/main.e3916f59.chunk.js",
-    "main.js.map": "./static/js/main.e3916f59.chunk.js.map",
+    "main.js": "./static/js/main.2f7a4047.chunk.js",
+    "main.js.map": "./static/js/main.2f7a4047.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.48134616.js",
     "runtime-main.js.map": "./static/js/runtime-main.48134616.js.map",
     "static/css/2.4c97ca4f.chunk.css": "./static/css/2.4c97ca4f.chunk.css",
@@ -49,6 +49,7 @@
     "static/media/sakshigrover.4bb780e8.jpeg": "./static/media/sakshigrover.4bb780e8.jpeg",
     "static/media/shawavisek35.67f8f99a.png": "./static/media/shawavisek35.67f8f99a.png",
     "static/media/shreyasmalewar.abfc4300.jpg": "./static/media/shreyasmalewar.abfc4300.jpg",
+    "static/media/subratkishoredutta.183be3d4.jpg": "./static/media/subratkishoredutta.183be3d4.jpg",
     "static/media/sunanda.8e6c8371.jpg": "./static/media/sunanda.8e6c8371.jpg",
     "static/media/suyashsonawane.75be7eca.jpg": "./static/media/suyashsonawane.75be7eca.jpg",
     "static/media/venkyjayasurya.3a67068b.jpg": "./static/media/venkyjayasurya.3a67068b.jpg"
@@ -57,6 +58,6 @@
     "static/js/runtime-main.48134616.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.f02df6bf.chunk.js",
-    "static/js/main.e3916f59.chunk.js"
+    "static/js/main.2f7a4047.chunk.js"
   ]
 }
