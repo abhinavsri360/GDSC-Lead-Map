@@ -14,7 +14,7 @@ class searchedLeads extends Component {
             leadsearch.map((item) => {
                 return (
                 <Grid item xs={12} md={3} style={{ padding: '1%' }} key={item.url}>
-                    <Card style={{ alignItems: 'center' }}>
+                    <Card style={{ alignItems: 'center', height: '100%' }}>
                         <CardImg style={{ height: '125px', width: '125px', borderRadius: '50%' }} top src={item.photo} alt="Card image cap" />
                         <CardBody>
                             <CardTitle tag="h5">{item.name}</CardTitle>
@@ -96,7 +96,7 @@ class searchedLeads extends Component {
         )
         return (
             <>
-                <MapContainer style={{ height: '75vh' }} center={[28.5355161, 77.3910265]} zoom={5} scrollWheelZoom={false}>
+                <MapContainer style={{ height: '75vh' }} center={[20.5937, 78.9629]} zoom={5} scrollWheelZoom={false}>
                     <TileLayer
                         attribution='&copy; <a href="https://osm.org/copyright">OpenStreetMap</a> contributors'
                         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"

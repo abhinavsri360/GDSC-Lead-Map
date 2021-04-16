@@ -53,8 +53,7 @@ const data = [
     skills: ["App Dev", "Web Dev", "UI/UX", "Cloud"],
     name: "Abhinav Srivastava",
     bio: "I write something colorful on something very dark.",
-    url:
-      "https://dsc.community.dev/jaypee-institute-of-information-technology-sec-128",
+    url: "https://dsc.community.dev/jaypee-institute-of-information-technology-sec-128",
     chapterName: "Jaypee Institute of Information Technology, Sec - 128",
     github: "https://github.com/abhinavsri360",
     linkedin: "https://linkedin.com/in/abhinavsri360",
@@ -71,8 +70,7 @@ const data = [
     skills: ["App Dev", "UI/UX", "Cloud"],
     name: "Aditya Birangal",
     bio: "Lover of Technology!",
-    url:
-      "https://dsc.community.dev/mit-academy-of-engineering/",
+    url: "https://dsc.community.dev/mit-academy-of-engineering/",
     chapterName: "MIT Academy of Engineering, Pune",
     github: "https://github.com/AdityaBirangal",
     linkedin: "https://linkedin.com/in/AdityaBirangal",

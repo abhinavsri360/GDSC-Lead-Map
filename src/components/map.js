@@ -117,7 +117,7 @@ class map extends Component {
 						</select>
 					</Grid>
 				</Grid>
-				<SearchedLeads data={this.state.world} />
+				<SearchedLeads data={this.state.world.sort((a,b)=>(a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0))} />
 			</>
 		);
 	}
