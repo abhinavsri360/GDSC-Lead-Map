@@ -34,7 +34,7 @@ const data = [
 		longitude: 91.666740,
 		latitude: 26.154620,
 		batch: 2020,
-		photo: subrat,
+		photo: subratkishoredutta,
 		region: "Asia",
 		skills: ["DL","ML"],
 		name: "Subrat Kishore Dutta",
