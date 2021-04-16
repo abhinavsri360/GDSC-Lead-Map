@@ -3,7 +3,7 @@
 
 <h1 align="center">Lead Map</h1>
 
-[![HitCount](https://hits.dwyl.com/abhinavsri360/GDSC-Lead-Map.svg)](https://hits.dwyl.com/abhinavsri360/GDSC-Lead-Map)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabhinavsri360%2FGDSC-Lead-Map&count_bg=%23275BA1&title_bg=%23555555&icon=bitcoin.svg&icon_color=%23E7E7E7&title=repo-hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![GitHub license](https://img.shields.io/github/license/abhinavsri360/GDSC-Lead-Map)
 ![GitHub contributors](https://img.shields.io/github/contributors/abhinavsri360/GDSC-Lead-Map)
 ![Repo issues](https://img.shields.io/github/issues/abhinavsri360/GDSC-Lead-Map)

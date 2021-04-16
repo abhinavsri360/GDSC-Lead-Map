@@ -87,6 +87,9 @@ class map extends Component {
 							<option value="Cloud">Cloud</option>
 							<option value="UI/UX">UI/UX</option>
 							<option value="Web Dev">Web Dev</option>
+							<option value="IoT">IoT</option>
+							<option value="XR">XR</option>
+							<option value="Cybersecurity">Cybersecurity</option>
 						</select>
 					</Grid>
 					<Grid item xs={12} md={2} style={{padding: "5px"}}>
