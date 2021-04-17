@@ -30,7 +30,7 @@ import ashwinraj from "../../photos/ashwinraj.jpg";
 import suyashsonawane from "../../photos/suyashsonawane.jpg"
 import harshKumarKhatri from "../../photos/harshKumarKhatri.jpg"
 import AnmolKaur from "../../photos/AnmolKaur.png"
-import akshita2k from "../../photos/akshita2k.png";
+import akshita2k from "../../photos/akshita2k.jpg";
 
 const data = [
 
@@ -526,12 +526,12 @@ const data = [
       
     }
 	{
-        "latitude": 28.5192,
-        "longitude": 77.3653,
+        "latitude": 13.079790,
+        "longitude": 77.620540,
         "batch": 2020,
         "photo": akshita2k,
         "region": "Asia",
-        "skills": ["App Dev", "Web Dev", "ML", "AI", "Data Analysis", "Cloud"],
+        "skills": ["App Dev", "Web Dev", "AI/ML", "Cloud"],
         "name": "Akshita Sharma",
         "bio": "I enjoy learning and exploring new vistas of Technology while also sharing the knowledge among my peers!.",
         "url": "https://dsc.community.dev/jaypee-institute-of-information-technology-sec-128",
