@@ -5,8 +5,23 @@ import GithubCorner from "react-github-corner";
 //Components
 import Map from "./components/map";
 import Jumbotron from "./components/jumbotron";
+import Darkmode from 'darkmode-js'
+const options = {
+	bottom: '5px', // default: '32px'
+	right: 'unset', // default: '32px'
+	left: '5px', // default: 'unset'
+	time: '0.5s', // default: '0.3s'
+	mixColor: '#fff', // default: '#fff'
+	backgroundColor: '#fff',  // default: '#fff'
+	buttonColorDark: '#100f2c',  // default: '#100f2c'
+	buttonColorLight: '#fff', // default: '#fff'
+	saveInCookies: true, // default: true,
+	label: '🌓', // default: ''
+	autoMatchOsTheme: true // default: true
+}
 
 function App() {
+	new Darkmode(options).showWidget();
 	return (
 		<>
 			<div className="landing-page d-flex justify-content-center ">

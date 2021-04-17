@@ -1,6 +1,7 @@
 import React from "react";
 import {Jumbotron, Button} from "reactstrap";
 import GitHubButton from "react-github-btn";
+import Grid from '@material-ui/core/Grid';
 
 const jumbotron = (props) => {
 	return (
@@ -35,67 +36,84 @@ const jumbotron = (props) => {
 						Learn More!
 					</Button>
 				</p>
-				<iframe
-					src="https://ghbtns.com/github-btn.html?user=abhinavsri360&repo=GDSC-Lead-Map&type=star&count=true&size=large"
-					frameBorder="0"
-					scrolling="0"
-					width="170"
-					height="30"
-					title="GitHub"
-				></iframe>
-				<iframe
-					src="https://ghbtns.com/github-btn.html?user=abhinavsri360&repo=GDSC-Lead-Map&type=watch&count=true&size=large&v=2"
-					frameBorder="0"
-					scrolling="0"
-					width="170"
-					height="30"
-					title="GitHub"
-				></iframe>
-				<iframe
-					src="https://ghbtns.com/github-btn.html?user=abhinavsri360&repo=GDSC-Lead-Map&type=fork&count=true&size=large"
-					frameBorder="0"
-					scrolling="0"
-					width="170"
-					height="30"
-					title="GitHub"
-				></iframe>
-				<br />
-				<GitHubButton
-					href="https://github.com/abhinavsri360"
-					data-color-scheme="no-preference: light; light: light; dark: dark;"
-					data-size="large"
-					data-show-count="true"
-					aria-label="Follow @abhinavsri360 on GitHub"
-				>
-					Follow @abhinavsri360
-				</GitHubButton>
-				<GitHubButton
-					href="https://github.com/srilaasya"
-					data-color-scheme="no-preference: light; light: light; dark: dark;"
-					data-size="large"
-					data-show-count="true"
-					aria-label="Follow @srilaasya on GitHub"
-				>
-					Follow @srilaasya
-				</GitHubButton>
-				<GitHubButton
-					href="https://github.com/AravindVNair99"
-					data-color-scheme="no-preference: light; light: light; dark: dark;"
-					data-size="large"
-					data-show-count="true"
-					aria-label="Follow @AravindVNair99 on GitHub"
-				>
-					Follow @AravindVNair99
-				</GitHubButton>
-				<GitHubButton
-					href="https://github.com/helios027"
-					data-color-scheme="no-preference: light; light: light; dark: dark;"
-					data-size="large"
-					data-show-count="true"
-					aria-label="Follow @helios027 on GitHub"
-				>
-					Follow @helios027
-				</GitHubButton>
+				<Grid container direction='row'>
+					<Grid item>
+						<iframe
+							src="https://ghbtns.com/github-btn.html?user=abhinavsri360&repo=GDSC-Lead-Map&type=star&count=true&size=large"
+							frameBorder="0"
+							scrolling="0"
+							width="170"
+							height="30"
+							title="GitHub"
+						></iframe>
+					</Grid>
+					<Grid item>
+						<iframe
+							src="https://ghbtns.com/github-btn.html?user=abhinavsri360&repo=GDSC-Lead-Map&type=watch&count=true&size=large&v=2"
+							frameBorder="0"
+							scrolling="0"
+							width="170"
+							height="30"
+							title="GitHub"
+						></iframe>
+					</Grid>
+					<Grid item>
+						<iframe
+							src="https://ghbtns.com/github-btn.html?user=abhinavsri360&repo=GDSC-Lead-Map&type=fork&count=true&size=large"
+							frameBorder="0"
+							scrolling="0"
+							width="170"
+							height="30"
+							title="GitHub"
+						></iframe>
+					</Grid>
+				</Grid>
+				<Grid container direction='row' spacing={1}>
+					<Grid item>
+						<GitHubButton
+							href="https://github.com/abhinavsri360"
+							data-color-scheme="no-preference: light; light: light; dark: dark;"
+							data-size="large"
+							data-show-count="true"
+							aria-label="Follow @abhinavsri360 on GitHub"
+						>
+						Follow @abhinavsri360
+						</GitHubButton>
+					</Grid>
+					<Grid item>
+						<GitHubButton
+							href="https://github.com/srilaasya"
+							data-color-scheme="no-preference: light; light: light; dark: dark;"
+							data-size="large"
+							data-show-count="true"
+							aria-label="Follow @srilaasya on GitHub"
+						>
+						Follow @srilaasya
+						</GitHubButton>
+					</Grid>
+					<Grid item>
+						<GitHubButton
+							href="https://github.com/AravindVNair99"
+							data-color-scheme="no-preference: light; light: light; dark: dark;"
+							data-size="large"
+							data-show-count="true"
+							aria-label="Follow @AravindVNair99 on GitHub"
+						>
+						Follow @AravindVNair99
+						</GitHubButton>
+					</Grid>
+					<Grid item>
+						<GitHubButton
+							href="https://github.com/helios027"
+							data-color-scheme="no-preference: light; light: light; dark: dark;"
+							data-size="large"
+							data-show-count="true"
+							aria-label="Follow @helios027 on GitHub"
+						>
+						Follow @helios027
+						</GitHubButton>
+					</Grid>
+				</Grid>
 			</Jumbotron>
 		</div>
 	);

@@ -20,29 +20,31 @@ class searchedLeads extends Component {
                             <CardTitle tag="h5">{item.name}</CardTitle>
                             <CardSubtitle tag="h6" className="mb-2 text-muted">{item.chapterName}</CardSubtitle>
                             <CardText>{item.bio}</CardText>
-                            <Grid style={{ padding: '5%' }} container direction="row">
-                                <Grid item xs={3}>
-                                    {item.github ? (
+                            <Grid style={{ alignItems: 'center' }} justify='center' container direction="row">
+                                {item.github ? (
+                                    <Grid item xs={2}>
                                         <GitHubIcon style={{ cursor: "pointer" }} onClick={(e) => { e.preventDefault(); window.open(item.github, "_blank").focus();}} />
-                                    ) : <></>}
-                                </Grid>
-                                <Grid item xs={3}>
-                                    {item.linkedin ? (
+                                    </Grid>
+                                ): <></>}
+                                {item.linkedin ? (
+                                    <Grid item xs={2}>
                                         <LinkedInIcon style={{ cursor: "pointer" }} onClick={(e) => { e.preventDefault(); window.open(item.linkedin, "_blank").focus(); }} />
-                                    ) : <></>}
-                                </Grid>
-                                <Grid item xs={3}>
-                                    {item.twitter ? (
-                                        <TwitterIcon style={{ cursor: "pointer" }} onClick={(e) => { e.preventDefault(); window.open(item.twitter, "_blank").focus();}} />
-                                    ) : <></>}
-                                </Grid>
-                                <Grid item xs={3}>
-                                    {item.portfolio ? (
-                                        <LinkIcon style={{ cursor: "pointer" }} onClick={(e) => { e.preventDefault(); window.open(item.portfolio, "_blank").focus();}} />
-                                    ) : <></>}
+                                    </Grid>
+                                ) : <></>}
+                                {item.twitter ? (
+                                    <Grid item xs={2}>
+                                        <TwitterIcon style={{ cursor: "pointer" }} onClick={(e) => { e.preventDefault(); window.open(item.twitter, "_blank").focus(); }} />
+                                    </Grid>
+                                ) : <></>}
+                                {item.portfolio ? (
+                                    <Grid item xs={2}>
+                                        <LinkIcon style={{ cursor: "pointer" }} onClick={(e) => { e.preventDefault(); window.open(item.portfolio, "_blank").focus(); }} />
+                                    </Grid>
+                                ) : <></>}
+                                <Grid item xs={2}>
+                                    <Button style={{ background: 'transparent', color: 'inherit' }} onClick={(e) => { e.preventDefault(); window.open(item.url, "_blank").focus(); }}>&lt;&gt;</Button>
                                 </Grid>
                             </Grid>
-                            <Button onClick={(e) => { e.preventDefault(); window.open(item.url, "_blank").focus();}}>Chapter Link</Button>
                         </CardBody>
                     </Card>
                 </Grid>
@@ -64,29 +66,31 @@ class searchedLeads extends Component {
                             <CardTitle tag="h5">{item.name}</CardTitle>
                             <CardSubtitle tag="h6" className="mb-2 text-muted">{item.chapterName}</CardSubtitle>
                             <CardText>{item.bio}</CardText>
-                            <Grid style={{ padding: '5%' }} container direction="row">
-                                <Grid item xs={3}>
-                                    {item.github ? (
+                            <Grid style={{ alignItems: 'center' }} justify='center' container direction="row">
+                                {item.github ? (
+                                    <Grid item xs={2}>
                                         <GitHubIcon style={{ cursor: "pointer" }} onClick={(e) => { e.preventDefault(); window.open(item.github, "_blank").focus();}} />
-                                    ) : <></>}
-                                </Grid>
-                                <Grid item xs={3}>
-                                    {item.linkedin ? (
+                                    </Grid>
+                                ): <></>}
+                                {item.linkedin ? (
+                                    <Grid item xs={2}>
                                         <LinkedInIcon style={{ cursor: "pointer" }} onClick={(e) => { e.preventDefault(); window.open(item.linkedin, "_blank").focus(); }} />
-                                    ) : <></>}
-                                </Grid>
-                                <Grid item xs={3}>
-                                    {item.twitter ? (
+                                    </Grid>
+                                ) : <></>}
+                                {item.twitter ? (
+                                    <Grid item xs={2}>
                                         <TwitterIcon style={{ cursor: "pointer" }} onClick={(e) => { e.preventDefault(); window.open(item.twitter, "_blank").focus(); }} />
-                                    ) : <></>}
-                                </Grid>
-                                <Grid item xs={3}>
-                                    {item.portfolio ? (
+                                    </Grid>
+                                ) : <></>}
+                                {item.portfolio ? (
+                                    <Grid item xs={2}>
                                         <LinkIcon style={{ cursor: "pointer" }} onClick={(e) => { e.preventDefault(); window.open(item.portfolio, "_blank").focus(); }} />
-                                    ) : <></>}
+                                    </Grid>
+                                ) : <></>}
+                                <Grid item xs={2}>
+                                    <Button style={{ background: 'transparent' }} onClick={(e) => { e.preventDefault(); window.open(item.url, "_blank").focus(); }}>&lt;&gt;</Button>
                                 </Grid>
                             </Grid>
-                            <Button onClick={(e) => { e.preventDefault(); window.open(item.url, "_blank").focus(); }}>Chapter Link</Button>
                         </CardBody>
                     </Card>
                 </Popup>
