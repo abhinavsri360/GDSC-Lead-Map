@@ -524,22 +524,22 @@ const data = [
       "linkedin": "https://in.linkedin.com/in/anmol-kaur-04ba1b190/",
       "twitter": "https://twitter.com/_AnmolKaur_",
       
-    }
+    },
 	{
-        "longitude": 77.620540,
-	"latitude": 13.079790,
-        "batch": 2020,
-        "photo": akshita2k,
-        "region": "Asia",
-        "skills": ["App Dev", "Web Dev", "AI/ML", "Cloud"],
-        "name": "Akshita Sharma",
-        "bio": "I enjoy learning and exploring new vistas of Technology while also sharing the knowledge among my peers!.",
-        "url": "https://dsc.community.dev/jaypee-institute-of-information-technology-sec-128",
-        "chapterName": "Dayananda Sagar Academy of Technology and Management",
-        "github": "https://github.com/akshita2k",
-        "linkedin": "https://www.linkedin.com/in/akshita-sharma-15a703111",
-        "instagram": "https://www.instagram.com/akshi_4446",
-        "portfolio": "https://akshita2k.github.io"
+        longitude: 77.620540,
+	latitude: 13.079790,
+        batch: 2020,
+        photo: akshita2k,
+        region: "Asia",
+        skills: ["App Dev", "Web Dev", "AI/ML", "Cloud"],
+        name: "Akshita Sharma",
+        bio: "I enjoy learning and exploring new vistas of Technology while also sharing the knowledge among my peers!.",
+        url: "https://dsc.community.dev/dayananda-sagar-academy-of-technology-and-management/",
+        chapterName: "Dayananda Sagar Academy of Technology and Management",
+        github: "https://github.com/akshita2k",
+        linkedin: "https://www.linkedin.com/in/akshita-sharma-15a703111",
+        instagram: "https://www.instagram.com/akshi_4446",
+        portfolio: "https://akshita2k.github.io"
 }
 
 ];
