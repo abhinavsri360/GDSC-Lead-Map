@@ -336,8 +336,8 @@ const data = [
         "portfolio": "http://aravindh020.github.io/"
 },
 {
-	"longitude": 77.620540,
-	"latitude": 13.079790,
+	"longitude": 76.958896,
+	"latitude": 11.000897,
 	"batch": 2020,
 	"photo": NaveenK,
 	"region": "Asia",
@@ -526,8 +526,8 @@ const data = [
       
     }
 	{
-        "latitude": 13.079790,
         "longitude": 77.620540,
+	"latitude": 13.079790,
         "batch": 2020,
         "photo": akshita2k,
         "region": "Asia",
