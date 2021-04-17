@@ -1,11 +1,11 @@
-name: CI/CD
+name: Build & Deploy
 
 on:
   push:
     branches: [ main ]
 
 jobs:
-  build:
+  build-deploy:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@main
