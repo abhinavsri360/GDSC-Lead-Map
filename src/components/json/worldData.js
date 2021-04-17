@@ -41,6 +41,7 @@ import PragatiVerma from "../../photos/PragatiVerma.jpg";
 import palak from "../../photos/pal-16.jpg";
 import AkshaySharma008 from "../../photos/AkshaySharma008.jpg";
 import AdityaBirangal from "../../photos/AdityaBirangal.jpg";
+import ikoala21 from "../../photos/ikoala21.jpg";
 
 
 const data = [
@@ -722,7 +723,22 @@ const data = [
 		chapterName: "Assam Engineering College",
 		github: "https://github.com/subratkishoredutta",
 		linkedin: "https://linkedin.com/in/subrat-kishore-dutta-70a9a316b",
-	}
+	},
+{
+    longitude: 83.2184815,
+    latitude: 17.6868159,
+    batch: 2020,
+    photo: ikoala21,
+    region: "Asia",
+    skills: ["AI/ML", "Web Dev"],
+    name: "Manasa Kalaga",
+    bio: "I mount my soul at /dev/null",
+    url: "https://dsc.community.dev/gvp-college-of-engineering/",
+    chapterName: "GVP College of Engineering",
+    github: "https://github.com/ikoala21",
+    linkedin: "https://www.linkedin.com/in/manasa-kalaga/",
+    twitter: "https://twitter.com/ikoala21",
+}
 ];
 
 export default data;
