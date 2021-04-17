@@ -30,6 +30,7 @@ import ashwinraj from "../../photos/ashwinraj.jpg";
 import suyashsonawane from "../../photos/suyashsonawane.jpg"
 import harshKumarKhatri from "../../photos/harshKumarKhatri.jpg"
 import AnmolKaur from "../../photos/AnmolKaur.png"
+import akshita2k from "../../photos/akshita2k.png";
 
 const data = [
 
@@ -335,8 +336,8 @@ const data = [
         "portfolio": "http://aravindh020.github.io/"
 },
 {
-	"longitude": 76.958896,
-	"latitude": 11.000897,
+	"longitude": 77.620540,
+	"latitude": 13.079790,
 	"batch": 2020,
 	"photo": NaveenK,
 	"region": "Asia",
@@ -524,6 +525,22 @@ const data = [
       "twitter": "https://twitter.com/_AnmolKaur_",
       
     }
+	{
+        "latitude": 28.5192,
+        "longitude": 77.3653,
+        "batch": 2020,
+        "photo": akshita2k,
+        "region": "Asia",
+        "skills": ["App Dev", "Web Dev", "ML", "AI", "Data Analysis", "Cloud"],
+        "name": "Akshita Sharma",
+        "bio": "I enjoy learning and exploring new vistas of Technology while also sharing the knowledge among my peers!.",
+        "url": "https://dsc.community.dev/jaypee-institute-of-information-technology-sec-128",
+        "chapterName": "Dayananda Sagar Academy of Technology and Management",
+        "github": "https://github.com/akshita2k",
+        "linkedin": "https://www.linkedin.com/in/akshita-sharma-15a703111",
+        "instagram": "https://www.instagram.com/akshi_4446",
+        "portfolio": "https://akshita2k.github.io"
+}
 
 ];
 
