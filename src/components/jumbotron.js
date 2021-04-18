@@ -119,6 +119,7 @@ const jumbotron = (props) => {
           item
           style={{
             color: "black",
+            cursorType: "default",
             borderRadius: 4,
             padding: 5,
             paddingLeft: 7,
