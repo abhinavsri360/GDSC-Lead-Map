@@ -43,7 +43,7 @@ import AkshaySharma008 from "../../photos/AkshaySharma008.jpg";
 import AdityaBirangal from "../../photos/AdityaBirangal.jpg";
 import ikoala21 from "../../photos/ikoala21.jpg";
 import sangeetajha from "../../photos/SangeetaJha.jpg";
-
+import akshita2k from "../../photos/akshita2k.jpg";
 
 const data = [
   {
@@ -710,6 +710,22 @@ const data = [
 		linkedin: "https://linkedin.com/in/palak-mantry",
 		twitter: "https://twitter.com/MantryPalak",
 	},
+	{
+    longitude: 77.620540,
+    latitude: 13.079790,
+    batch: 2020,
+    photo: akshita2k,
+    region: "Asia",
+    skills: ["App Dev", "Web Dev", "AI/ML", "Cloud"],
+    name: "Akshita Sharma",
+    bio: "I enjoy learning and exploring new vistas of Technology while also sharing the knowledge among my peers!",
+    url: "https://dsc.community.dev/dayananda-sagar-academy-of-technology-and-management/",
+    chapterName: "Dayananda Sagar Academy of Technology and Management",
+    github: "https://github.com/akshita2k",
+    linkedin: "https://linkedin.com/in/akshita-sharma-15a703111",
+    instagram: "https://instagram.com/akshi_4446",
+    portfolio: "https://akshita2k.github.io"
+  },
   {
 		longitude: 91.666740,
 		latitude: 26.154620,
