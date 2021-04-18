@@ -21,18 +21,6 @@ object-assign
  * @license BSD-2-Clause
  */
 
-/*! ./darkmode */
-
-/*! no static exports found */
-
-/*!**********************!*\
-        !*** ./src/index.js ***!
-        \**********************/
-
-/*!*************************!*\
-        !*** ./src/darkmode.js ***!
-        \*************************/
-
 /**
  * A better abstraction over CSS.
  *
