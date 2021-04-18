@@ -42,7 +42,7 @@ import palak from "../../photos/pal-16.jpg";
 import AkshaySharma008 from "../../photos/AkshaySharma008.jpg";
 import AdityaBirangal from "../../photos/AdityaBirangal.jpg";
 import ikoala21 from "../../photos/ikoala21.jpg";
-import sangeetajha from "../../photos/SangeetaJha.png";
+import sangeetajha from "../../photos/SangeetaJha.jpg";
 
 
 const data = [
