@@ -7,7 +7,7 @@ import data from "./json/worldData";
 const jumbotron = (props) => {
   return (
     <div>
-      <Jumbotron>
+      <Jumbotron className='dark-jmode'>
         <h1 className="display-3">GDSC Lead Map &lt;&gt;</h1>
         <p className="lead">
           Google Developer Student Club Leads are passionate leaders at their
@@ -119,7 +119,7 @@ const jumbotron = (props) => {
           item
           style={{
             color: "black",
-            cursorType: "default",
+            cursorType: "pointer",
             borderRadius: 4,
             padding: 5,
             paddingLeft: 7,

@@ -84,6 +84,7 @@ class map extends Component {
 		return (
 			<>
 				<Grid
+					className='darkNav'
 					container
 					direction="row"
 					style={{padding: "1%", backgroundColor: "#1769aa"}}
@@ -102,7 +103,6 @@ class map extends Component {
 						<select
 							style={{
 								width: "100%",
-								color: "#1769aa",
 								backgroundColor: "white",
 								padding: "3px",
 							}}
@@ -119,7 +119,6 @@ class map extends Component {
 						<select
 							style={{
 								width: "100%",
-								color: "#1769aa",
 								backgroundColor: "white",
 								padding: "3px",
 							}}
@@ -142,7 +141,6 @@ class map extends Component {
 						<select
 							style={{
 								width: "100%",
-								color: "#1769aa",
 								backgroundColor: "white",
 								padding: "3px",
 							}}

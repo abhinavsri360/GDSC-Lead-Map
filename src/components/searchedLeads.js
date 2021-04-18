@@ -14,7 +14,7 @@ class searchedLeads extends Component {
             leadsearch.map((item) => {
                 return (
                 <Grid item xs={12} md={3} style={{ padding: '1%' }} key={item.url}>
-                    <Card style={{ alignItems: 'center', height: '100%' }}>
+                    <Card className='dark-mode' style={{ alignItems: 'center', height: '100%' }}>
                         <CardImg style={{ height: '125px', width: '125px', borderRadius: '50%' }} top src={item.photo} alt="Card image cap" />
                         <CardBody>
                             <CardTitle tag="h5">{item.name}</CardTitle>
@@ -42,7 +42,7 @@ class searchedLeads extends Component {
                                     </Grid>
                                 ) : <></>}
                                 <Grid item xs={2}>
-                                    <Button style={{ background: 'transparent', color: 'inherit' }} onClick={(e) => { e.preventDefault(); window.open(item.url, "_blank").focus(); }}>&lt;&gt;</Button>
+                                    <Button style={{ background: 'transparent', color: 'inherit', borderColor: '#e3e3e3' }} onClick={(e) => { e.preventDefault(); window.open(item.url, "_blank").focus(); }}>&lt;&gt;</Button>
                                 </Grid>
                             </Grid>
                         </CardBody>
@@ -60,7 +60,7 @@ class searchedLeads extends Component {
             return (
             <Marker key={item.url} position={temp}>
                 <Popup>
-                    <Card style={{ alignItems: 'center' }}>
+                    <Card className='dark-mode' style={{ alignItems: 'center' }}>
                         <CardImg style={{ height: '125px', width: '125px', borderRadius: '50%' }} top src={item.photo} alt="Card image cap" />
                         <CardBody>
                             <CardTitle tag="h5">{item.name}</CardTitle>
