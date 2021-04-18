@@ -537,7 +537,7 @@ const data = [
         url: "https://dsc.community.dev/dayananda-sagar-academy-of-technology-and-management/",
         chapterName: "Dayananda Sagar Academy of Technology and Management",
         github: "https://github.com/akshita2k",
-        linkedin: "https://www.linkedin.com/in/akshita-sharma-15a703111",
+        linkedin: "https://linkedin.com/in/akshita-sharma-15a703111",
         instagram: "https://www.instagram.com/akshi_4446",
         portfolio: "https://akshita2k.github.io"
 }
