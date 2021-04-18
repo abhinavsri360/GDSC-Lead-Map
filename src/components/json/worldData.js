@@ -533,7 +533,7 @@ const data = [
         region: "Asia",
         skills: ["App Dev", "Web Dev", "AI/ML", "Cloud"],
         name: "Akshita Sharma",
-        bio: "I enjoy learning and exploring new vistas of Technology while also sharing the knowledge among my peers!.",
+        bio: "I enjoy learning and exploring new vistas of Technology while also sharing the knowledge among my peers!",
         url: "https://dsc.community.dev/dayananda-sagar-academy-of-technology-and-management/",
         chapterName: "Dayananda Sagar Academy of Technology and Management",
         github: "https://github.com/akshita2k",
