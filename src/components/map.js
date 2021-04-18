@@ -90,6 +90,7 @@ class map extends Component {
 				>
 					<Grid item xs={12} md={2} style={{padding: "5px"}}>
 						<input
+							autoComplete="off"
 							placeholder="Search for a Lead"
 							style={{width: "100%", padding: "3px"}}
 							name="search"
