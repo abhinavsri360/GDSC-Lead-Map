@@ -42,6 +42,7 @@ import palak from "../../photos/pal-16.jpg";
 import AkshaySharma008 from "../../photos/AkshaySharma008.jpg";
 import AdityaBirangal from "../../photos/AdityaBirangal.jpg";
 import ikoala21 from "../../photos/ikoala21.jpg";
+import sangeetajha from "../../photos/SangeetaJha.jpg";
 import akshita2k from "../../photos/akshita2k.jpg";
 
 const data = [
@@ -754,6 +755,22 @@ const data = [
     github: "https://github.com/ikoala21",
     linkedin: "https://www.linkedin.com/in/manasa-kalaga/",
     twitter: "https://twitter.com/ikoala21",
+},
+	{
+        "latitude": 28.666450,
+        "longitude": 77.231390,
+        "batch": 2020,
+        "photo": sangeetajha,
+        "region": "Asia",
+        "skills": ["Web Dev", "UI/UX", "Cloud"],
+        "name": "Sangeeta Jha",
+        "bio": "Always open for opportunities and love exploring new technologies",
+        "url": "https://dsc.community.dev/indira-gandhi-delhi-technical-university-for-women/",
+        "chapterName": "Indira Gandhi Delhi Technical University for Women",
+        "github": "https://github.com/nehasangeetajha",
+        "linkedin": "https://www.linkedin.com/in/sangeeta-jha-765232142/",
+        "twitter": "https://twitter.com/nehasangeetajha",
+        "portfolio": "http://sangeeta-jha.web.app/"
 }
 ];
 
