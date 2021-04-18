@@ -35,14 +35,15 @@ Import the image at the top of the file using:
 import abhinavsri360 from "../../photos/abhinavsri360.jpg";
 ```
 
+
 ### Notes for adding yourself to the map
 
-- Don't forget to add your `jpg` photo with resolution of `400px*400px` in `src/photos/` with the file name as your GitHub username and import it.
+- Don't forget to add your `jpg` photo with a resolution of `400px*400px` in `src/photos/` with the file name as your GitHub username and import it. Use a tool such as [this](https://resizeimage.net) to achieve the same.
 - For url use the `https://dsc.community.dev` chapter URL.
 - Use only the below mentioned skills in the skills array.
 
-| AI/ML | App Dev | Cloud | UI/UX | Web Dev | IoT |
-| ----- | ------- | ----- | ----- | ------- | --- |
+| AI/ML | App Dev | Cloud | UI/UX | Web Dev | IoT | Cybersecurity | XR | 
+| ----- | ------- | ----- | ----- | ------- | --- | ------------- | -- |
 
 ## Other PRs
 

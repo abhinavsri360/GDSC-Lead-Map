@@ -29,6 +29,51 @@ class map extends Component {
 		});
 	}
 
+	handleregion(e) {
+		if(parseInt(e.target.value) === 0){
+			this.setState({
+				[e.target.name]: e.target.value,
+				world: data
+			})
+			return
+		}
+		var fil = data.filter((ele) => ele.region === e.target.value)
+		this.setState({
+			[e.target.name]: e.target.value,
+			world: fil
+		})
+	}
+
+	handlebatch(e) {
+		if(parseInt(e.target.value) === 0){
+			this.setState({
+				[e.target.name]: e.target.value,
+				world: data
+			})
+			return
+		}
+		var fil = data.filter((ele) => ele.batch === parseInt(e.target.value))
+		this.setState({
+			[e.target.name]: e.target.value,
+			world: fil
+		})
+	}
+
+	handleskills(e) {
+		if(parseInt(e.target.value) === 0){
+			this.setState({
+				[e.target.name]: e.target.value,
+				world: data
+			})
+			return
+		}
+		var fil = data.filter((ele) => ele.skills.find(arr => arr === e.target.value))
+		this.setState({
+			[e.target.name]: e.target.value,
+			world: fil
+		})
+	}
+
 	componentDidMount() {
 		this.setState({
 			world: data,
@@ -61,10 +106,10 @@ class map extends Component {
 								padding: "3px",
 							}}
 							name="batch"
-							onChange={(e) => this.handlechange(e)}
+							onChange={(e) => this.handlebatch(e)}
 							value={this.state.batch}
 						>
-							<option value="">Batch</option>
+							<option value={0}>Batch</option>
 							<option value={2019}>2019</option>
 							<option value={2020}>2020</option>
 						</select>
@@ -78,16 +123,18 @@ class map extends Component {
 								padding: "3px",
 							}}
 							name="skills"
-							onChange={(e) => this.handlechange(e)}
+							onChange={(e) => this.handleskills(e)}
 							value={this.state.skills}
 						>
-							<option value="">Area of Expertise</option>
+							<option value={0}>Area of Expertise</option>
 							<option value="AI/ML">AI/ML</option>
 							<option value="App Dev">App Dev</option>
 							<option value="Cloud">Cloud</option>
 							<option value="UI/UX">UI/UX</option>
 							<option value="Web Dev">Web Dev</option>
 							<option value="IoT">IoT</option>
+							<option value="XR">XR</option>
+							<option value="Cybersecurity">Cybersecurity</option>
 						</select>
 					</Grid>
 					<Grid item xs={12} md={2} style={{padding: "5px"}}>
@@ -99,10 +146,10 @@ class map extends Component {
 								padding: "3px",
 							}}
 							name="region"
-							onChange={(e) => this.handlechange(e)}
+							onChange={(e) => this.handleregion(e)}
 							value={this.state.region}
 						>
-							<option value="">Region</option>
+							<option value={0}>Region</option>
 							<option value="Africa(Sub-Saharan)">
 								Africa(Sub-Saharan)
 							</option>
@@ -115,7 +162,7 @@ class map extends Component {
 						</select>
 					</Grid>
 				</Grid>
-				<SearchedLeads data={this.state.world} />
+				<SearchedLeads data={this.state.world.sort((a,b)=>(a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0))} />
 			</>
 		);
 	}
