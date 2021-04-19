@@ -44,6 +44,8 @@ import AdityaBirangal from "../../photos/AdityaBirangal.jpg";
 import ikoala21 from "../../photos/ikoala21.jpg";
 import sangeetajha from "../../photos/SangeetaJha.jpg";
 import akshita2k from "../../photos/akshita2k.jpg";
+import AkashM from "../../photos/AkashM.jpg";
+
 
 const data = [
   {
@@ -771,7 +773,23 @@ const data = [
         "linkedin": "https://www.linkedin.com/in/sangeeta-jha-765232142/",
         "twitter": "https://twitter.com/nehasangeetajha",
         "portfolio": "http://sangeeta-jha.web.app/"
-}
+  },
+	{
+        "latitude": 12.873014,
+        "longitude": 80.221892,
+        "batch": 2020,
+        "photo": AkashM,
+        "region": "Asia",
+        "skills": ["Web Dev", "UI/UX", "Cybersecurity"],
+        "name": "Akash M",
+        "bio": "Yet another developer",
+        "url": "https://dsc.community.dev/sathyabama-institute-of-science-technology/",
+        "chapterName": "Sathyabama Institute of Science and Technology",
+        "github": "https://github.com/AkashM398",
+        "linkedin": "https://www.linkedin.com/in/akashm398",
+        "twitter": "https://twitter.com/akashm398",
+        "portfolio": "https://akashbuild.tech/"
+  },
 ];
 
 export default data;
