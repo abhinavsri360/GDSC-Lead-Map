@@ -88,7 +88,7 @@ class searchedLeads extends Component {
                                     </Grid>
                                 ) : <></>}
                                 <Grid item xs={2}>
-                                    <Button style={{ background: 'transparent' }} onClick={(e) => { e.preventDefault(); window.open(item.url, "_blank").focus(); }}>&lt;&gt;</Button>
+                                    <Button style={{ background: 'transparent', color: 'inherit', borderColor: '#e3e3e3' }} onClick={(e) => { e.preventDefault(); window.open(item.url, "_blank").focus(); }}>&lt;&gt;</Button>
                                 </Grid>
                             </Grid>
                         </CardBody>
