@@ -783,7 +783,7 @@ const data = [
         "name": "Taha Rehah",
         "bio": "Explorer,Open Source Enthusiast, Community Person, Tensorflow Developer!",
         "url": "https://dsc.community.dev/higher-institute-of-applied-science-and-technology/",
-        "chapterName": "Higher Institute of Applied Sciences and Technology of Sousse - ISSATSo",
+        "chapterName": "Higher Institute of Applied Science and Technology of Sousse",
         "github": "https://github.com/taharh",
         "linkedin": "https://linkedin.com/in/taha-rehah",
         "twitter": "https://twitter.com/TahaRehah"
