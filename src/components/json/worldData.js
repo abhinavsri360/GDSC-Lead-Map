@@ -46,6 +46,7 @@ import sangeetajha from "../../photos/SangeetaJha.jpg";
 import akshita2k from "../../photos/akshita2k.jpg";
 import taharh from "../../photos/taharh.jpg";
 import AkashM from "../../photos/AkashM.jpg";
+import sanjeev from "../../photos/sanjeev.jpg";
 
 const data = [
   {
@@ -804,6 +805,22 @@ const data = [
         "linkedin": "https://www.linkedin.com/in/akashm398",
         "twitter": "https://twitter.com/akashm398",
         "portfolio": "https://akashbuild.tech/"
+  }, 
+  {
+        "latitude": 28.890270,
+        "longitude": 76.582573,
+        "batch": 2019,
+        "photo": sanjeev,
+        "region": "Asia",
+        "skills": ["App Dev"],
+        "name": "Sanjeev Sharma",
+        "bio": "Passionate Mobile Applications Developer",
+        "url": "https://dsc.community.dev/university-institute-of-engineering-and-technology-maharshi-dayanand-university-rohtak/",
+        "chapterName": "University Institute of Engineering and Technology, Maharshi Dayanand University, Rohtak",
+        "github": "https://github.com/codersanjeev",
+        "linkedin": "https://www.linkedin.com/in/codersanjeev",
+        "twitter": "https://twitter.com/codersanjeev",
+        "portfolio": "http://codersanjeev.github.io/"
   }
 ];
 
