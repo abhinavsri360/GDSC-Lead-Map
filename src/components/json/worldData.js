@@ -44,8 +44,8 @@ import AdityaBirangal from "../../photos/AdityaBirangal.jpg";
 import ikoala21 from "../../photos/ikoala21.jpg";
 import sangeetajha from "../../photos/SangeetaJha.jpg";
 import akshita2k from "../../photos/akshita2k.jpg";
+import taharh from "../../photos/taharh.jpg";
 import AkashM from "../../photos/AkashM.jpg";
-
 
 const data = [
   {
@@ -773,6 +773,21 @@ const data = [
         "linkedin": "https://www.linkedin.com/in/sangeeta-jha-765232142/",
         "twitter": "https://twitter.com/nehasangeetajha",
         "portfolio": "http://sangeeta-jha.web.app/"
+},
+	{
+        "latitude": 35.811914,
+        "longitude": 10.638553,
+        "batch": 2020,
+        "photo": taharh,
+        "region": "North Africa",
+        "skills": ["AI/ML","App Dev", "Cloud"],
+        "name": "Taha Rehah",
+        "bio": "Explorer,Open Source Enthusiast, Community Person, Tensorflow Developer!",
+        "url": "https://dsc.community.dev/higher-institute-of-applied-science-and-technology/",
+        "chapterName": "Higher Institute of Applied Science and Technology of Sousse",
+        "github": "https://github.com/taharh",
+        "linkedin": "https://linkedin.com/in/taha-rehah",
+        "twitter": "https://twitter.com/TahaRehah"
   },
 	{
         "latitude": 12.873014,
@@ -789,7 +804,7 @@ const data = [
         "linkedin": "https://www.linkedin.com/in/akashm398",
         "twitter": "https://twitter.com/akashm398",
         "portfolio": "https://akashbuild.tech/"
-  },
+  }
 ];
 
 export default data;
