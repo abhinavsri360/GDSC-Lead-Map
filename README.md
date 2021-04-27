@@ -12,8 +12,7 @@
 
 GDSC-Lead-Map displays the leads of all batches on a map, filters are present such as skills, and region to find and connect with leads in case of any need, or speaker sessions or if you want to connect with any of the leads at any time for any sort of help.
 
-Website is deployed here: https://gdscleadmap.netlify.app/
-and can be found here as well: https://www.gdscleads.team/
+Website is deployed here: https://www.gdscleads.team/
 
 ## :star: Place yourself on Map
 
