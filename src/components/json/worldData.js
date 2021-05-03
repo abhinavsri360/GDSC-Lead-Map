@@ -47,6 +47,7 @@ import akshita2k from "../../photos/akshita2k.jpg";
 import taharh from "../../photos/taharh.jpg";
 import AkashM from "../../photos/AkashM.jpg";
 import sanjeev from "../../photos/sanjeev.jpg";
+import arrayappy from "../../photos/arrayappy.jpg";
 
 const data = [
   {
@@ -821,6 +822,22 @@ const data = [
         "linkedin": "https://www.linkedin.com/in/codersanjeev",
         "twitter": "https://twitter.com/codersanjeev",
         "portfolio": "http://codersanjeev.github.io/"
+  },
+  {
+        "latitude": 18.287691,
+        "longitude": 83.826492,
+        "batch": 2020,
+        "photo": arrayappy,
+        "region": "Asia",
+        "skills": ["Cloud", "Web Dev", "App Dev", "AI/ML"],
+        "name": "Appala Naidu Gadu",
+        "bio": "Born to contribute.",
+        "url": "https://dsc.community.dev/rajiv-gandhi-university-of-knowledge-and-technologies-srikakulam",
+        "chapterName": "Rajiv Gandhi University of Knowledge and Technologies, Srikakulam",
+        "github": "https://github.com/arrayappy",
+        "linkedin": "https://linkedin.com/in/arrayappy",
+        "twitter": "https://twitter.com/arrayappy",
+        "portfolio": "https://arrayappy.github.io"
   }
 ];
 
