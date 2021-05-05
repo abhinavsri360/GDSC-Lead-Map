@@ -98,7 +98,7 @@ const data = [
 			"https://dsc.community.dev/jss-academy-of-technical-education-noida/",
 		chapterName: "JSS Academy of Technical Education, Noida",
 		github: "https://github.com/PragatiVerma18",
-		linkedin: "https://www.linkedin.com/in/pragativerma18/",
+		linkedin: "https://linkedin.com/in/pragativerma18/",
 		twitter: "https://twitter.com/pragati_verma18",
 		portfolio: "http://pragativerma18.github.io/Resume"
 	},
@@ -178,7 +178,7 @@ const data = [
 		url: "https://dsc.community.dev/bannari-amman-institute-of-technology/",
 		chapterName: "Bannari Amman Institute of Technology, Sathyamangalam",
 		github: "https://github.com/todcru",
-		linkedin: "https://www.linkedin.com/in/aswin-kumar-m-83081b171/",
+		linkedin: "https://linkedin.com/in/aswin-kumar-m-83081b171/",
 		twitter: "https://twitter.com/thisaswin"
 	},
 	{
@@ -227,7 +227,7 @@ const data = [
 		github: "https://github.com/call-me-bk",
 		linkedin: "https://linkedin.com/in/iamKarthikBK",
 		twitter: "https://twitter.com/iamKarthikBK",
-		portfolio: "https://www.nohello.com"
+		portfolio: "https://nohello.com"
 	},
 	{
 		longitude: 21.640339625980996,
@@ -292,7 +292,7 @@ const data = [
 		url: "https://dsc.community.dev/cvr-college-of-engineering",
 		chapterName: "CVR College of Engineering",
 		github: "https://github.com/Aineshphanithi",
-		linkedin: "https://www.linkedin.com/in/ainesh-phanithi/",
+		linkedin: "https://linkedin.com/in/ainesh-phanithi/",
 		twitter: "https://twitter.com/"
 	},
 	{
@@ -325,7 +325,7 @@ const data = [
 		url: "https://dsc.community.dev/jiet-group-of-institutions/",
 		chapterName: "JIET Group of Institutions",
 		github: "https://github.com/KunalGehlot/",
-		linkedin: "https://www.linkedin.com/in/gehlotk/",
+		linkedin: "https://linkedin.com/in/gehlotk/",
 		twitter: "https://twitter.com/zackcodesai"
 	},
 	{
@@ -392,7 +392,7 @@ const data = [
 		url: "https://dsc.community.dev/symbiosis-institute-of-technology/",
 		chapterName: "Symbiosis Institute of Technology",
 		github: "https://github.com/kartikbhushan",
-		linkedin: "https://www.linkedin.com/in/kartik-bhushan-977a0716b/",
+		linkedin: "https://linkedin.com/in/kartik-bhushan-977a0716b/",
 		twitter: "https://twitter.com/Kartik_Bush",
 		portfolio: "https://kartikbhushan.github.io/Portfolio-Gatsby/"
 	},
@@ -425,7 +425,7 @@ const data = [
 		url: "https://dsc.community.dev/sri-krishna-college-of-technology/",
 		chapterName: "Sri Krishna College of Technology, Coimbatore",
 		github: "https://github.com/NaveenKarunanidhi",
-		linkedin: "https://www.linkedin.com/in/naveen-k-14b397170",
+		linkedin: "https://linkedin.com/in/naveen-k-14b397170",
 		twitter: "https://twitter.com/Naveenk4226"
 	},
 	{
@@ -493,7 +493,7 @@ const data = [
 			"https://dsc.community.dev/vellore-institute-of-technology-bhopal/",
 		chapterName: "Vellore Institute of Technology Bhopal",
 		github: "https://github.com/abhishek2x",
-		linkedin: "https://www.linkedin.com/in/abhishek-srivastava-49482a190/",
+		linkedin: "https://linkedin.com/in/abhishek-srivastava-49482a190/",
 		twitter: "https://twitter.com/Abhishe51428266",
 		portfolio: "https://portfolio.abhisheksrivastava.me/"
 	},
@@ -511,7 +511,7 @@ const data = [
 		chapterName:
 			"Pune Vidyarthi Griha's College of Engineering and Technology, Pune",
 		github: "https://github.com/SunandaS76",
-		linkedin: "https://www.linkedin.com/in/sunandasomwase/",
+		linkedin: "https://linkedin.com/in/sunandasomwase/",
 		twitter: "https://twitter.com/SSomwase"
 	},
 	{
@@ -527,9 +527,9 @@ const data = [
 		url: "https://dsc.community.dev/college-of-engineering-trivandrum/",
 		chapterName: "College of Engineering Trivandrum",
 		github: "https://github.com/jacob13400",
-		linkedin: "https://www.linkedin.com/in/jacob-abraham-3b4b05190/",
+		linkedin: "https://linkedin.com/in/jacob-abraham-3b4b05190/",
 		twitter: "https://twitter.com/Jake_is_live",
-		portfolio: "http://www.jacobabraham.me/"
+		portfolio: "http://jacobabraham.me/"
 	},
 	{
 		longitude: 79.00346884403419,
@@ -544,7 +544,7 @@ const data = [
 		url: "https://dsc.community.dev/gh-raisoni-college-of-engineering/",
 		chapterName: "G H Raisoni College of Engineering",
 		github: "http://github.com/shreyasmalewar",
-		linkedin: "https://www.linkedin.com/in/shreyasmalewar/",
+		linkedin: "https://linkedin.com/in/shreyasmalewar/",
 		twitter: "https://twitter.com/ShreyasMalewar"
 	},
 	{
@@ -561,7 +561,7 @@ const data = [
 			"https://dsc.community.dev/pimpri-chinchwad-college-of-engineering/",
 		chapterName: "Pimpri Chinchwad College Of Engineering",
 		github: "https://github.com/suyashsonawane",
-		linkedin: "https://www.linkedin.com/in/suyash-sonawane-44661417b/",
+		linkedin: "https://linkedin.com/in/suyash-sonawane-44661417b/",
 		twitter: "https://twitter.com/SuyashYSonawane",
 		portfolio: "https://suyashsonawane.me/"
 	},
@@ -594,7 +594,7 @@ const data = [
 		url: "https://dsc.community.dev/career-point-university/",
 		chapterName: "Career Point University, Kota",
 		github: "https://github.com/harshkumarkhatri",
-		linkedin: "https://www.linkedin.com/in/harshkumarkhatri/",
+		linkedin: "https://linkedin.com/in/harshkumarkhatri/",
 		twitter: "https://twitter.com/HarshKhatri24",
 		portfolio: "http://bit.ly/iamharsh"
 	},
@@ -625,7 +625,7 @@ const data = [
 		url: "https://dsc.community.dev/vidya-jyothi-institute-of-technology/",
 		chapterName: "Vidya Jyothi Institute of Technology, Hyderabad",
 		github: "https://github.com/venkyjayasurya",
-		linkedin: "https://www.linkedin.com/in/venky-jayasurya/",
+		linkedin: "https://linkedin.com/in/venky-jayasurya/",
 		twitter: "https://twitter.com/venky_jayasurya/"
 	},
 	{
@@ -642,7 +642,7 @@ const data = [
 		chapterName: "JNTUH College of Engineering Hyderabad",
 		github: "https://github.com/pvsharshith",
 		linkedin:
-			"https://www.linkedin.com/in/venkata-sai-harshith-penugonda-35aa8b160/",
+			"https://linkedin.com/in/venkata-sai-harshith-penugonda-35aa8b160/",
 		twitter: "https://twitter.com/VenkataSaiHars2"
 	},
 	{
@@ -674,7 +674,7 @@ const data = [
 		url: "https://dsc.community.dev/dy-patil-college-of-engineering/",
 		chapterName: "D.Y. Patil College of Engineering, Pune",
 		github: "https://github.com/Akash1362000",
-		linkedin: "https://www.linkedin.com/in/akash136/",
+		linkedin: "https://linkedin.com/in/akash136/",
 		twitter: "https://twitter.com/shrivastava136",
 		portfolio: "https://akash1362000.github.io/"
 	},
@@ -706,7 +706,7 @@ const data = [
 			"https://dsc.community.dev/the-lnm-institute-of-information-technology/",
 		chapterName: "The LNM Institute of Information Technology, Jaipur",
 		github: "https://github.com/Vasundharashukla",
-		linkedin: "https://www.linkedin.com/in/vasundhara-shukla/",
+		linkedin: "https://linkedin.com/in/vasundhara-shukla/",
 		twitter: "https://twitter.com/VasundharaShuk9"
 	},
 	{
@@ -770,7 +770,7 @@ const data = [
 		url: "https://dsc.community.dev/gvp-college-of-engineering/",
 		chapterName: "GVP College of Engineering",
 		github: "https://github.com/ikoala21",
-		linkedin: "https://www.linkedin.com/in/manasa-kalaga/",
+		linkedin: "https://linkedin.com/in/manasa-kalaga/",
 		twitter: "https://twitter.com/ikoala21"
 	},
 	{
@@ -787,7 +787,7 @@ const data = [
 			"https://dsc.community.dev/indira-gandhi-delhi-technical-university-for-women/",
 		chapterName: "Indira Gandhi Delhi Technical University for Women",
 		github: "https://github.com/nehasangeetajha",
-		linkedin: "https://www.linkedin.com/in/sangeeta-jha-765232142/",
+		linkedin: "https://linkedin.com/in/sangeeta-jha-765232142/",
 		twitter: "https://twitter.com/nehasangeetajha",
 		portfolio: "http://sangeeta-jha.web.app/"
 	},
@@ -822,7 +822,7 @@ const data = [
 			"https://dsc.community.dev/sathyabama-institute-of-science-technology/",
 		chapterName: "Sathyabama Institute of Science and Technology",
 		github: "https://github.com/AkashM398",
-		linkedin: "https://www.linkedin.com/in/akashm398",
+		linkedin: "https://linkedin.com/in/akashm398",
 		twitter: "https://twitter.com/akashm398",
 		portfolio: "https://akashbuild.tech/"
 	},
@@ -840,7 +840,7 @@ const data = [
 		chapterName:
 			"University Institute of Engineering and Technology, Maharshi Dayanand University, Rohtak",
 		github: "https://github.com/codersanjeev",
-		linkedin: "https://www.linkedin.com/in/codersanjeev",
+		linkedin: "https://linkedin.com/in/codersanjeev",
 		twitter: "https://twitter.com/codersanjeev",
 		portfolio: "http://codersanjeev.github.io/"
 	},
