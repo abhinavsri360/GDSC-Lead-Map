@@ -14,7 +14,7 @@ class map extends Component {
 			region: "",
 			skills: "",
 			batch: "",
-			world: [],
+			world: []
 		};
 	}
 
@@ -25,58 +25,60 @@ class map extends Component {
 				JSON.stringify(lead)
 					.toLowerCase()
 					.includes(e.target.value.toLowerCase())
-			),
+			)
 		});
 	}
 
 	handleregion(e) {
-		if(parseInt(e.target.value) === 0){
+		if (parseInt(e.target.value) === 0) {
 			this.setState({
 				[e.target.name]: e.target.value,
 				world: data
-			})
-			return
+			});
+			return;
 		}
-		var fil = data.filter((ele) => ele.region === e.target.value)
+		var fil = data.filter((ele) => ele.region === e.target.value);
 		this.setState({
 			[e.target.name]: e.target.value,
 			world: fil
-		})
+		});
 	}
 
 	handlebatch(e) {
-		if(parseInt(e.target.value) === 0){
+		if (parseInt(e.target.value) === 0) {
 			this.setState({
 				[e.target.name]: e.target.value,
 				world: data
-			})
-			return
+			});
+			return;
 		}
-		var fil = data.filter((ele) => ele.batch === parseInt(e.target.value))
+		var fil = data.filter((ele) => ele.batch === parseInt(e.target.value));
 		this.setState({
 			[e.target.name]: e.target.value,
 			world: fil
-		})
+		});
 	}
 
 	handleskills(e) {
-		if(parseInt(e.target.value) === 0){
+		if (parseInt(e.target.value) === 0) {
 			this.setState({
 				[e.target.name]: e.target.value,
 				world: data
-			})
-			return
+			});
+			return;
 		}
-		var fil = data.filter((ele) => ele.skills.find(arr => arr === e.target.value))
+		var fil = data.filter((ele) =>
+			ele.skills.find((arr) => arr === e.target.value)
+		);
 		this.setState({
 			[e.target.name]: e.target.value,
 			world: fil
-		})
+		});
 	}
 
 	componentDidMount() {
 		this.setState({
-			world: data,
+			world: data
 		});
 	}
 
@@ -84,7 +86,7 @@ class map extends Component {
 		return (
 			<>
 				<Grid
-					className='darkNav'
+					className="darkNav"
 					container
 					direction="row"
 					style={{padding: "1%", backgroundColor: "#1769aa"}}
@@ -104,7 +106,7 @@ class map extends Component {
 							style={{
 								width: "100%",
 								backgroundColor: "white",
-								padding: "3px",
+								padding: "3px"
 							}}
 							name="batch"
 							onChange={(e) => this.handlebatch(e)}
@@ -120,7 +122,7 @@ class map extends Component {
 							style={{
 								width: "100%",
 								backgroundColor: "white",
-								padding: "3px",
+								padding: "3px"
 							}}
 							name="skills"
 							onChange={(e) => this.handleskills(e)}
@@ -142,7 +144,7 @@ class map extends Component {
 							style={{
 								width: "100%",
 								backgroundColor: "white",
-								padding: "3px",
+								padding: "3px"
 							}}
 							name="region"
 							onChange={(e) => this.handleregion(e)}
@@ -161,7 +163,11 @@ class map extends Component {
 						</select>
 					</Grid>
 				</Grid>
-				<SearchedLeads data={this.state.world.sort((a,b)=>(a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0))} />
+				<SearchedLeads
+					data={this.state.world.sort((a, b) =>
+						a.name > b.name ? 1 : b.name > a.name ? -1 : 0
+					)}
+				/>
 			</>
 		);
 	}
