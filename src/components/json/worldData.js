@@ -100,7 +100,7 @@ const data = [
 		github: "https://github.com/PragatiVerma18",
 		linkedin: "https://linkedin.com/in/pragativerma18/",
 		twitter: "https://twitter.com/pragati_verma18",
-		portfolio: "http://pragativerma18.github.io/Resume"
+		portfolio: "https://pragativerma18.github.io/Resume"
 	},
 	{
 		longitude: 83.2184815,
@@ -164,7 +164,7 @@ const data = [
 		github: "https://github.com/ryuukenshi",
 		linkedin: "https://linkedin.com/in/ryuukenshi",
 		twitter: "https://twitter.com/ryuukenshi",
-		portfolio: "http://ryuukenshi.github.io/"
+		portfolio: "https://ryuukenshi.github.io/"
 	},
 	{
 		longitude: 77.03527,
@@ -411,7 +411,7 @@ const data = [
 		github: "https://github.com/Aravindh020/",
 		linkedin: "https://linkedin.com/in/Aravindh020/",
 		twitter: "https://twitter.com/Aravindh020/",
-		portfolio: "http://aravindh020.github.io/"
+		portfolio: "https://aravindh020.github.io/"
 	},
 	{
 		longitude: 76.958896,
@@ -529,7 +529,7 @@ const data = [
 		github: "https://github.com/jacob13400",
 		linkedin: "https://linkedin.com/in/jacob-abraham-3b4b05190/",
 		twitter: "https://twitter.com/Jake_is_live",
-		portfolio: "http://jacobabraham.me/"
+		portfolio: "https://jacobabraham.me/"
 	},
 	{
 		longitude: 79.00346884403419,
@@ -543,7 +543,7 @@ const data = [
 			"I like to Code and Connect. I'm an Artist, Author and an Engineer.",
 		url: "https://dsc.community.dev/gh-raisoni-college-of-engineering/",
 		chapterName: "G H Raisoni College of Engineering",
-		github: "http://github.com/shreyasmalewar",
+		github: "https://github.com/shreyasmalewar",
 		linkedin: "https://linkedin.com/in/shreyasmalewar/",
 		twitter: "https://twitter.com/ShreyasMalewar"
 	},
@@ -580,7 +580,7 @@ const data = [
 		github: "https://github.com/ashwinraj-in",
 		linkedin: "https://linkedin.com/in/rajashwin",
 		twitter: "https://twitter.com/ThisIsAshwinRaj",
-		portfolio: "http://ashwinraj-in.github.io/"
+		portfolio: "https://ashwinraj-in.github.io/"
 	},
 	{
 		longitude: 75.83172,
@@ -596,7 +596,7 @@ const data = [
 		github: "https://github.com/harshkumarkhatri",
 		linkedin: "https://linkedin.com/in/harshkumarkhatri/",
 		twitter: "https://twitter.com/HarshKhatri24",
-		portfolio: "http://bit.ly/iamharsh"
+		portfolio: "https://bit.ly/iamharsh"
 	},
 	{
 		longitude: 77.24566,
@@ -789,7 +789,7 @@ const data = [
 		github: "https://github.com/nehasangeetajha",
 		linkedin: "https://linkedin.com/in/sangeeta-jha-765232142/",
 		twitter: "https://twitter.com/nehasangeetajha",
-		portfolio: "http://sangeeta-jha.web.app/"
+		portfolio: "https://sangeeta-jha.web.app/"
 	},
 	{
 		latitude: 35.811914,
@@ -842,7 +842,7 @@ const data = [
 		github: "https://github.com/codersanjeev",
 		linkedin: "https://linkedin.com/in/codersanjeev",
 		twitter: "https://twitter.com/codersanjeev",
-		portfolio: "http://codersanjeev.github.io/"
+		portfolio: "https://codersanjeev.github.io/"
 	},
 	{
 		latitude: 18.287691,
