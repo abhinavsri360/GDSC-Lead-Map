@@ -2,11 +2,11 @@
 
 ## Adding yourself to the map
 
-**IMPORTANT: Please do not include any package files such as `package.json` or `package-lock.json` or `yarn-lock.json` in the Pull Request.**
+**IMPORTANT: Please do not modify dependency files such as `package.json` or `package-lock.json` or `yarn-lock.json`. Doing `npm i` or `yarn install` is not required for adding yourself**
 
-Find your latitude, longitude using this: https://www.latlong.net/convert-address-to-lat-long.html
+Find your latitude, longitude using this: <https://www.latlong.net/convert-address-to-lat-long.html>
 
-Verify the latitude and longitude using this: https://www.latlong.net/Show-Latitude-Longitude.html
+Verify the latitude and longitude using this: <https://www.latlong.net/Show-Latitude-Longitude.html>
 
 In order to get yourself on the map, add your details in `src/components/json/worldData.js` by duplicating one of the existing entries such as:
 
@@ -35,15 +35,14 @@ Import the image at the top of the file using:
 import abhinavsri360 from "../../photos/abhinavsri360.jpg";
 ```
 
-
 ### Notes for adding yourself to the map
 
 - Don't forget to add your `jpg` photo with a resolution of `400px*400px` in `src/photos/` with the file name as your GitHub username and import it. Use a tool such as [this](https://resizeimage.net) to achieve the same.
 - For url use the `https://dsc.community.dev` chapter URL.
 - Use only the below mentioned skills in the skills array.
 
-| AI/ML | App Dev | Cloud | UI/UX | Web Dev | IoT | Cybersecurity | XR | 
-| ----- | ------- | ----- | ----- | ------- | --- | ------------- | -- |
+| AI/ML | App Dev | Cloud | UI/UX | Web Dev | IoT | Cybersecurity | XR  |
+| ----- | ------- | ----- | ----- | ------- | --- | ------------- | --- |
 
 ## Other PRs
 

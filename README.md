@@ -12,7 +12,7 @@
 
 GDSC-Lead-Map displays the leads of all batches on a map, filters are present such as skills, and region to find and connect with leads in case of any need, or speaker sessions or if you want to connect with any of the leads at any time for any sort of help.
 
-Website is deployed here: https://www.gdscleads.team/
+Website is deployed here: <https://www.gdscleads.team/>
 
 ## :star: Place yourself on Map
 
@@ -33,11 +33,11 @@ This is an open-source project, feel free to enhance the same by your valuable c
 
 ## :star: Setup
 
-In order to setup the project, follow the steps:
+In order to setup the project locally, follow the steps:
 
 1. [Fork on GitHub](https://github.com/abhinavsri360/GDSC-Lead-Map/fork)
 2. Clone the forked repository.
-3. `npm install` or `yarn install` to install the dependencies involved in the project.
+3. `npm i` or `yarn install` to install the dependencies involved in the project.
 4. `npm start` or `yarn start` to run the project in development mode.
 5. The setup is done! Happy coding!
 
