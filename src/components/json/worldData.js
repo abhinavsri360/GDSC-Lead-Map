@@ -528,8 +528,7 @@ const data = [
 		chapterName: "College of Engineering Trivandrum",
 		github: "https://github.com/jacob13400",
 		linkedin: "https://linkedin.com/in/jacob-abraham-3b4b05190/",
-		twitter: "https://twitter.com/Jake_is_live",
-		portfolio: "https://jacobabraham.me/"
+		twitter: "https://twitter.com/Jake_is_live"
 	},
 	{
 		longitude: 79.00346884403419,
