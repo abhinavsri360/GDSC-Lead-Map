@@ -2,7 +2,7 @@
 
 ## Adding yourself to the map
 
-**IMPORTANT: Please do not modify dependency files such as `package.json` or `package-lock.json` or `yarn-lock.json`. Doing `npm i` or `yarn install` is not required for adding yourself**
+**IMPORTANT: Please do not modify dependency files such as `package.json` or `package-lock.json` or `yarn-lock.json`. Doing `npm i` or `yarn install` is not required for adding yourself.**
 
 Find your latitude, longitude using this: <https://www.latlong.net/convert-address-to-lat-long.html>
 
