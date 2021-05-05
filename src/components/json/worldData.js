@@ -140,7 +140,7 @@ const data = [
 		batch: 2020,
 		photo: AravindVNair99,
 		region: "Asia",
-		skills: ["Web Dev", "Cloud"],
+		skills: ["Web Dev", "Cloud", "Cybersecurity"],
 		name: "Aravind V. Nair",
 		bio:
 			"Full-stack Web Developer, Cloud Computing and Cybersecurity Enthusiast",
