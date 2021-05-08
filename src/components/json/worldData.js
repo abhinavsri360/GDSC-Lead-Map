@@ -48,6 +48,7 @@ import taharh from "../../photos/taharh.jpg";
 import AkashM from "../../photos/AkashM.jpg";
 import sanjeev from "../../photos/sanjeev.jpg";
 import arrayappy from "../../photos/arrayappy.jpg";
+import Manjunath from "../../photos/Manjunath.jpg";
 
 const data = [
 	{
@@ -244,6 +245,21 @@ const data = [
 		github: "https://github.com/MuhammadHassanRazaa",
 		linkedin: "https://linkedin.com/in/sshthassanraza",
 		twitter: "https://twitter.com/sshthassanraza"
+	},
+	{
+        latitude: 13.039039,
+        longitude: 77.493095,
+        batch: 2020,
+        photo: Manjunath,
+        region: "Asia",
+        "skills": ["AI/ML", "App Dev", "Web Dev", "Cloud"],
+        "name": "Manjunath",
+        "bio": "In a journey of making a dent in the field of Science and Technology",
+        url: "https://dsc.community.dev/atria-institute-of-technology",
+        chapterName: "Atria Institute of Technology",
+        github: "https://github.com/Manjuphoenix",
+        linkedin: "https://linkedin.com/in/manjunath-d",
+        twitter: "https://twitter.com/manjumic"
 	},
 	{
 		longitude: 76.990746,
