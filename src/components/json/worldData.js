@@ -246,6 +246,21 @@ const data = [
 		twitter: "https://twitter.com/sshthassanraza"
 	},
 	{
+        "latitude": 13.039039,
+        "longitude": 77.493095,
+        "batch": 2020,
+        "photo": Manjunath,
+        "region": "Asia",
+        "skills": ["App Dev", "Web Dev", "Devops", "Cloud", "ML"],
+        "name": "Manjunath",
+        "bio": "In a journey of making a dent in the field of Science and Technology",
+        "url": "https://https://dsc.community.dev/atria-institute-of-technology/",
+        "chapterName": "Atria Institute of Technology",
+        "github": "https://github.com/Manjuphoenix",
+        "linkedin": "https://linkedin.com/in/manjunath-d",
+        "twitter": "https://twitter.com/manjumic"
+	}
+	{
 		longitude: 76.990746,
 		latitude: 8.549941,
 		batch: 2020,
