@@ -251,7 +251,7 @@ const data = [
         longitude: 77.493095,
         batch: 2020,
         photo: Manjunath,
-        "region": "Asia",
+        region: "Asia",
         "skills": ["AI/ML", "App Dev", "Web Dev", "Cloud"],
         "name": "Manjunath",
         "bio": "In a journey of making a dent in the field of Science and Technology",
