@@ -250,7 +250,7 @@ const data = [
         latitude: 13.039039,
         longitude: 77.493095,
         batch: 2020,
-        "photo": Manjunath,
+        photo: Manjunath,
         "region": "Asia",
         "skills": ["AI/ML", "App Dev", "Web Dev", "Cloud"],
         "name": "Manjunath",
