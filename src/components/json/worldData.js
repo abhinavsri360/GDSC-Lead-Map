@@ -247,7 +247,7 @@ const data = [
 		twitter: "https://twitter.com/sshthassanraza"
 	},
 	{
-        "latitude": 13.039039,
+        latitude: 13.039039,
         "longitude": 77.493095,
         "batch": 2020,
         "photo": Manjunath,
