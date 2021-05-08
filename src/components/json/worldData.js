@@ -260,7 +260,7 @@ const data = [
         "github": "https://github.com/Manjuphoenix",
         "linkedin": "https://linkedin.com/in/manjunath-d",
         "twitter": "https://twitter.com/manjumic"
-	}
+	},
 	{
 		longitude: 76.990746,
 		latitude: 8.549941,
