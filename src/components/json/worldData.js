@@ -48,6 +48,7 @@ import taharh from "../../photos/taharh.jpg";
 import AkashM from "../../photos/AkashM.jpg";
 import sanjeev from "../../photos/sanjeev.jpg";
 import arrayappy from "../../photos/arrayappy.jpg";
+import Manjunath from "../../photos/Manjunath.jpeg";
 
 const data = [
 	{
