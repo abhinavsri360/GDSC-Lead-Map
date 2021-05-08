@@ -256,7 +256,7 @@ const data = [
         "name": "Manjunath",
         "bio": "In a journey of making a dent in the field of Science and Technology",
         url: "https://dsc.community.dev/atria-institute-of-technology",
-        "chapterName": "Atria Institute of Technology",
+        chapterName: "Atria Institute of Technology",
         "github": "https://github.com/Manjuphoenix",
         "linkedin": "https://linkedin.com/in/manjunath-d",
         "twitter": "https://twitter.com/manjumic"
