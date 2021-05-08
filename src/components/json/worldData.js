@@ -252,7 +252,7 @@ const data = [
         "batch": 2020,
         "photo": Manjunath,
         "region": "Asia",
-        "skills": ["App Dev", "Web Dev", "Devops", "Cloud", "ML"],
+        "skills": ["AI/ML", App Dev", "Web Dev", "Devops", "Cloud"],
         "name": "Manjunath",
         "bio": "In a journey of making a dent in the field of Science and Technology",
         "url": "https://https://dsc.community.dev/atria-institute-of-technology/",
