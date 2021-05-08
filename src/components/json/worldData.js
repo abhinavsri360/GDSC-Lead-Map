@@ -258,7 +258,7 @@ const data = [
         url: "https://dsc.community.dev/atria-institute-of-technology",
         chapterName: "Atria Institute of Technology",
         github: "https://github.com/Manjuphoenix",
-        "linkedin": "https://linkedin.com/in/manjunath-d",
+        linkedin: "https://linkedin.com/in/manjunath-d",
         "twitter": "https://twitter.com/manjumic"
 	},
 	{
