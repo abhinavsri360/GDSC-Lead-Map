@@ -259,7 +259,7 @@ const data = [
         chapterName: "Atria Institute of Technology",
         github: "https://github.com/Manjuphoenix",
         linkedin: "https://linkedin.com/in/manjunath-d",
-        "twitter": "https://twitter.com/manjumic"
+        twitter: "https://twitter.com/manjumic"
 	},
 	{
 		longitude: 76.990746,
