@@ -49,6 +49,7 @@ import AkashM from "../../photos/AkashM.jpg";
 import sanjeev from "../../photos/sanjeev.jpg";
 import arrayappy from "../../photos/arrayappy.jpg";
 import Manjunath from "../../photos/Manjunath.jpg";
+import aitik from "../../photos/itick.jpg";
 
 const data = [
 	{
@@ -876,6 +877,22 @@ const data = [
 		linkedin: "https://linkedin.com/in/arrayappy",
 		twitter: "https://twitter.com/arrayappy",
 		portfolio: "https://arrayappy.github.io"
+	},
+	{
+		longitude: 83.90430, 
+		latitude: 21.49849,
+		batch: 2020,
+		photo: aitik,
+		region: "Asia",
+		skills: ["AI/ML", "Web Dev", "App Dev"],
+		name: "Aitik Dandapat",
+		bio: "Respect Existance or Expect Resistance",
+		url:
+			"https://dsc.community.dev/veer-surendra-sai-university-of-technology/",
+		chapterName: "Veer Surendra Sai University of Technology, Burla",
+		github: "https://github.com/i-tick",
+		linkedin: "https://www.linkedin.com/in/aitik-dandapat-b03395184",
+		twitter: "https://twitter.com/AitikDandapat"
 	}
 ];
 
