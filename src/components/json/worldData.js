@@ -49,6 +49,7 @@ import AkashM from "../../photos/AkashM.jpg";
 import sanjeev from "../../photos/sanjeev.jpg";
 import arrayappy from "../../photos/arrayappy.jpg";
 import Manjunath from "../../photos/Manjunath.jpg";
+import kartikderasari from "../../photos/kartikderasari.jpg";
 
 const data = [
 	{
@@ -876,7 +877,24 @@ const data = [
 		linkedin: "https://linkedin.com/in/arrayappy",
 		twitter: "https://twitter.com/arrayappy",
 		portfolio: "https://arrayappy.github.io"
-	}
+	},
+	{
+		"latitude": 23.022505,
+		"longitude": 72.571365,
+		"batch": 2020,
+		"photo": kartikderasari,
+		"region": "Asia",
+		"skills": ["Web Dev", "UI/UX", "Cloud"],
+		"name": "Kartik Derasari",
+		"bio": "Learning, Building and Elevating! 🚀",
+		"url": "https://dsc.community.dev/silver-oak-university/",
+		"chapterName": "Silver Oak University",
+		"github": "https://github.com/kartikderasari",
+		"linkedin": "https://www.linkedin.com/in/kartikderasari/",
+		"twitter": "https://twitter.com/kartik_derasari",
+		"portfolio": "https://kartikderasari.github.io"
+}
+
 ];
 
 export default data;
