@@ -50,6 +50,7 @@ import sanjeev from "../../photos/sanjeev.jpg";
 import arrayappy from "../../photos/arrayappy.jpg";
 import Manjunath from "../../photos/Manjunath.jpg";
 import kartikderasari from "../../photos/kartikderasari.jpg";
+import ankitaugale23 from "../../photos/ankitaugale23.jpg";
 
 const data = [
 	{
@@ -893,6 +894,22 @@ const data = [
 		"linkedin": "https://www.linkedin.com/in/kartikderasari/",
 		"twitter": "https://twitter.com/kartik_derasari",
 		"portfolio": "https://kartikderasari.github.io"
+},
+	{
+		"latitude": 18.568860,
+		"longitude": 73.919550,
+		"batch": 2020,
+		"photo": ankitaugale23,
+		"region": "Asia",
+		"skills": ["Web Dev", "UI/UX"],
+		"name": "Ankita Ugale",
+		"bio": "I love writing code besides being sarcastic! ",
+		"url": "https://dsc.community.dev/aissms-college-of-engineering-pune/",
+		"chapterName": "AISSMS College of engineering, Pune",
+		"github": "https://github.com/ankitaugale23",
+		"linkedin": "https://www.linkedin.com/in/ankita-ugale-333b21199/",
+		"twitter": "https://twitter.com/ugale_ankita",
+		
 }
 
 ];
