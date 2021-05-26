@@ -51,6 +51,7 @@ import arrayappy from "../../photos/arrayappy.jpg";
 import Manjunath from "../../photos/Manjunath.jpg";
 import kartikderasari from "../../photos/kartikderasari.jpg";
 import ankitaugale23 from "../../photos/ankitaugale23.jpg";
+import aemiej from "../../photos/aemiej.jpg";
 
 const data = [
 	{
@@ -895,7 +896,7 @@ const data = [
 		"twitter": "https://twitter.com/kartik_derasari",
 		"portfolio": "https://kartikderasari.github.io"
 },
-	{
+{
 		"latitude": 18.568860,
 		"longitude": 73.919550,
 		"batch": 2020,
@@ -910,8 +911,22 @@ const data = [
 		"linkedin": "https://www.linkedin.com/in/ankita-ugale-333b21199/",
 		"twitter": "https://twitter.com/ugale_ankita",
 		
+},
+{
+		"latitude": 21.162620,
+		"longitude": 72.783270,
+		"batch": 2020,
+		"photo": aemiej,
+		"region": "Asia",
+		"skills": ["Web Dev", "UI/UX", "App Dev", "Cloud"],
+		"name": "Aemie Jariwala",
+		"bio": "I love to work obviously and I love to judge beautiful desserts",
+		"url": "https://dsc.community.dev/sardar-vallabhbhai-national-institute-of-technology/",
+		"chapterName": "Sardar Vallabhbhai National Institute of Technology, Surat",
+		"github": "https://github.com/AemieJ",
+		"linkedin": "https://www.linkedin.com/in/aemie-jariwala-36a682179/",
+		"portfolio": "https://aemiej.netlify.app/"
 }
-
 ];
 
 export default data;
