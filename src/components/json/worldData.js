@@ -52,6 +52,7 @@ import Manjunath from "../../photos/Manjunath.jpg";
 import kartikderasari from "../../photos/kartikderasari.jpg";
 import ankitaugale23 from "../../photos/ankitaugale23.jpg";
 import aemiej from "../../photos/aemiej.jpg";
+import eswar2001 from "../../photos/eswar2001.jpg";
 
 const data = [
 	{
@@ -926,6 +927,22 @@ const data = [
 		"github": "https://github.com/AemieJ",
 		"linkedin": "https://www.linkedin.com/in/aemie-jariwala-36a682179/",
 		"portfolio": "https://aemiej.netlify.app/"
+},
+{
+        "latitude": 17.693710,
+        "longitude": 83.162140,
+        "batch": 2020,
+        "photo": eswar2001,
+        "region": "Asia",
+        "skills": ["App Dev", "Web Dev", "Cybersecurity", "Cloud"],
+        "name": "Eswar Abisheak Tadiparthi",
+        "bio": "Learn , Tinker & Teach",
+        "url": "https://dsc.community.dev/vignans-institute-of-information-technology/",
+        "chapterName": "Vignan's Institute Of Information Technology,Vizag",
+        "github": "https://github.com/eswar2001",
+        "linkedin": "https://linkedin.com/in/eswar2001",
+        "twitter": "https://twitter.com/_eswar2001",
+        "portfolio": "https://eswar.dev"
 }
 ];
 
