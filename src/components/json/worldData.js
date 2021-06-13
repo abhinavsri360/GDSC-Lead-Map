@@ -53,6 +53,7 @@ import kartikderasari from "../../photos/kartikderasari.jpg";
 import ankitaugale23 from "../../photos/ankitaugale23.jpg";
 import aemiej from "../../photos/aemiej.jpg";
 import eswar2001 from "../../photos/eswar2001.jpg";
+import zainul from "../../photos/zainul.jpg";
 
 const data = [
 	{
@@ -251,19 +252,19 @@ const data = [
 		twitter: "https://twitter.com/sshthassanraza"
 	},
 	{
-        latitude: 13.039039,
-        longitude: 77.493095,
-        batch: 2020,
-        photo: Manjunath,
-        region: "Asia",
-        "skills": ["AI/ML", "App Dev", "Web Dev", "Cloud"],
-        "name": "Manjunath",
-        "bio": "In a journey of making a dent in the field of Science and Technology",
-        url: "https://dsc.community.dev/atria-institute-of-technology",
-        chapterName: "Atria Institute of Technology",
-        github: "https://github.com/Manjuphoenix",
-        linkedin: "https://linkedin.com/in/manjunath-d",
-        twitter: "https://twitter.com/manjumic"
+		latitude: 13.039039,
+		longitude: 77.493095,
+		batch: 2020,
+		photo: Manjunath,
+		region: "Asia",
+		"skills": ["AI/ML", "App Dev", "Web Dev", "Cloud"],
+		"name": "Manjunath",
+		"bio": "In a journey of making a dent in the field of Science and Technology",
+		url: "https://dsc.community.dev/atria-institute-of-technology",
+		chapterName: "Atria Institute of Technology",
+		github: "https://github.com/Manjuphoenix",
+		linkedin: "https://linkedin.com/in/manjunath-d",
+		twitter: "https://twitter.com/manjumic"
 	},
 	{
 		longitude: 76.990746,
@@ -896,8 +897,8 @@ const data = [
 		"linkedin": "https://www.linkedin.com/in/kartikderasari/",
 		"twitter": "https://twitter.com/kartik_derasari",
 		"portfolio": "https://kartikderasari.github.io"
-},
-{
+	},
+	{
 		"latitude": 18.568860,
 		"longitude": 73.919550,
 		"batch": 2020,
@@ -911,9 +912,9 @@ const data = [
 		"github": "https://github.com/ankitaugale23",
 		"linkedin": "https://www.linkedin.com/in/ankita-ugale-333b21199/",
 		"twitter": "https://twitter.com/ugale_ankita",
-		
-},
-{
+
+	},
+	{
 		"latitude": 21.162620,
 		"longitude": 72.783270,
 		"batch": 2020,
@@ -927,23 +928,39 @@ const data = [
 		"github": "https://github.com/AemieJ",
 		"linkedin": "https://www.linkedin.com/in/aemie-jariwala-36a682179/",
 		"portfolio": "https://aemiej.netlify.app/"
-},
-{
-        "latitude": 17.693710,
-        "longitude": 83.162140,
-        "batch": 2020,
-        "photo": eswar2001,
-        "region": "Asia",
-        "skills": ["App Dev", "Web Dev", "Cybersecurity", "Cloud"],
-        "name": "Eswar Abisheak Tadiparthi",
-        "bio": "Learn , Tinker & Teach",
-        "url": "https://dsc.community.dev/vignans-institute-of-information-technology/",
-        "chapterName": "Vignan's Institute Of Information Technology,Vizag",
-        "github": "https://github.com/eswar2001",
-        "linkedin": "https://linkedin.com/in/eswar2001",
-        "twitter": "https://twitter.com/_eswar2001",
-        "portfolio": "https://eswar.dev"
-}
+	},
+	{
+		"latitude": 17.693710,
+		"longitude": 83.162140,
+		"batch": 2020,
+		"photo": eswar2001,
+		"region": "Asia",
+		"skills": ["App Dev", "Web Dev", "Cybersecurity", "Cloud"],
+		"name": "Eswar Abisheak Tadiparthi",
+		"bio": "Learn , Tinker & Teach",
+		"url": "https://dsc.community.dev/vignans-institute-of-information-technology/",
+		"chapterName": "Vignan's Institute Of Information Technology,Vizag",
+		"github": "https://github.com/eswar2001",
+		"linkedin": "https://linkedin.com/in/eswar2001",
+		"twitter": "https://twitter.com/_eswar2001",
+		"portfolio": "https://eswar.dev"
+	},
+	{
+		"latitude": 1.3521,
+		"longitude": 103.8198,
+		"batch": 2020,
+		"photo": zainul,
+		"region": "Asia",
+		"skills": ["Python", "Web Dev", "Cloud", "Creative"],
+		"name": "Zainul Ariffin",
+		"bio": "Ex-Firefighter, Fellow Nerd",
+		"url": "https://dsc.community.dev/singapore-institute-of-technology/",
+		"chapterName": "Singapore Institute of Technology",
+		"github": "https://github.com/zainul1996",
+		"linkedin": "https://linkedin.com/in/zainul1996",
+		"twitter": "https://twitter.com/ZainulCain",
+		"portfolio": "https://zainul.me"
+	}
 ];
 
 export default data;
