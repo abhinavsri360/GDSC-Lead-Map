@@ -951,7 +951,7 @@ const data = [
 		"batch": 2020,
 		"photo": zainul,
 		"region": "Asia",
-		"skills": ["Python", "Web Dev", "Cloud", "Creative"],
+		"skills": ["IoT", "Web Dev", "Cloud", "UI/UX"],
 		"name": "Zainul Ariffin",
 		"bio": "Ex-Firefighter, Fellow Nerd",
 		"url": "https://dsc.community.dev/singapore-institute-of-technology/",
