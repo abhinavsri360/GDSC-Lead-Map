@@ -889,7 +889,7 @@ const data = [
         "batch": 2018,
         "photo": ghulamrasuldev,
         "region": "Asia",
-        "skills": ["App Dev", "Flutter Technology", "2D Animations"],
+        "skills": ["App Dev", "AI/ML", "UI/UX"],
         "name": "Ghulam Rasool",
         "bio": "Be your own kind of a sunshine.",
         "url": "https://dsc.community.dev/comsats-university-lahore/",
