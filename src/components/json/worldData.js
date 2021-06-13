@@ -22,6 +22,7 @@ import adi10hero from "../../photos/adi10hero.jpg";
 import ghpranav from "../../photos/ghpranav.jpg";
 import dewanshrawat15 from "../../photos/dewanshrawat15.jpg";
 import AdithyaAnilkumar from "../../photos/AdithyaAnilkumar.jpg";
+import ghulamrasuldev from "../../photos/ghulamrasuldev.jpg";
 import abhishek2x from "../../photos/abhishek2x.jpg";
 import RyuuKenshi from "../../photos/RyuuKenshi.jpg";
 import sunanda from "../../photos/sunanda.jpg";
@@ -880,6 +881,23 @@ const data = [
 		linkedin: "https://linkedin.com/in/arrayappy",
 		twitter: "https://twitter.com/arrayappy",
 		portfolio: "https://arrayappy.github.io"
+	},
+	
+	{
+        "latitude": 31.253112,
+        "longitude": 74.1336562,
+        "batch": 2018,
+        "photo": ghulamrasuldev,
+        "region": "Asia",
+        "skills": ["App Dev", "Flutter Technology", "2D Animations"],
+        "name": "Ghulam Rasool",
+        "bio": "Be your own kind of a sunshine.",
+        "url": "https://dsc.community.dev/comsats-university-lahore/",
+        "chapterName": "COMSATS University Lahore",
+        "github": "https://github.com/ghulamrasuldev",
+        "linkedin": "https://linkedin.com/in/ghulamrasuldev",
+        "twitter": "https://twitter.com/ghulamrasuldev",
+        "portfolio": "https://ghulamrasuldev.netlify.app"
 	},
 	{
 		"latitude": 23.022505,
