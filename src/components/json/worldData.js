@@ -55,6 +55,7 @@ import ankitaugale23 from "../../photos/ankitaugale23.jpg";
 import aemiej from "../../photos/aemiej.jpg";
 import eswar2001 from "../../photos/eswar2001.jpg";
 import zainul from "../../photos/zainul.jpg";
+import Vedant from "../../photos/Vedant.jpg";
 
 const data = [
 	{
@@ -978,6 +979,22 @@ const data = [
 		"linkedin": "https://linkedin.com/in/zainul1996",
 		"twitter": "https://twitter.com/ZainulCain",
 		"portfolio": "https://zainul.me"
+	},
+	{
+		"latitude": 23.129870,
+		"longitude": 79.878854,
+		"batch": 2020,
+		"photo": Vedant,
+		"region": "Asia",
+		"skills": ["Web Dev", "App Dev", "Cloud"],
+		"name": "Vedant Singh",
+		"bio": "A curious guy who loves to learn",
+		"url": "https://dsc.community.dev/gyan-ganga-group-of-institutions/",
+		"chapterName": "Gyan Ganga Group of Institutions",
+		"github": "https://github.com/V3dant",
+		"linkedin": "https://www.linkedin.com/in/v3dant/",
+		"twitter": "https://twitter.com/vedantsingh5495",
+		"portfolio": "https://v3dant.github.io/Portfolio/main.html"
 	}
 ];
 
