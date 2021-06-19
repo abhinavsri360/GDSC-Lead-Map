@@ -47,4 +47,8 @@ Thanks to everyone who has helped in accumulating a legacy GDSC Lead Map!
 
 <a href="https://github.com/abhinavsri360/GDSC-Lead-Map/graphs/contributors"><img src="https://contributors-img.firebaseapp.com/image?repo=AbhinavSri360/GDSC-Lead-Map" alt="Image of contributors"></a>
 
+## :star: Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/abhinavsri360/GDSC-Lead-Map.svg)](https://starchart.cc/abhinavsri360/GDSC-Lead-Map)
+
 <img width="17%" src="https://forthebadge.com/images/badges/it-works-why.svg"> <img width="14%" src="https://forthebadge.com/images/badges/uses-brains.svg"> <img width="24%" src="https://forthebadge.com/images/badges/contains-17-coffee-cups.svg">
