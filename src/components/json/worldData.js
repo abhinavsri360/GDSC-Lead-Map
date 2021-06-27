@@ -56,6 +56,7 @@ import aemiej from "../../photos/aemiej.jpg";
 import eswar2001 from "../../photos/eswar2001.jpg";
 import zainul from "../../photos/zainul.jpg";
 import Vedant from "../../photos/Vedant.jpg";
+import yashrajkakkad from "../../photos/yashrajkakkad.jpg";
 
 const data = [
 	{
@@ -995,7 +996,22 @@ const data = [
 		"linkedin": "https://www.linkedin.com/in/v3dant/",
 		"twitter": "https://twitter.com/vedantsingh5495",
 		"portfolio": "https://v3dant.github.io/Portfolio/main.html"
-	}
-];
+	},
+	{
+        "latitude": 23.035891,
+        "longitude": 72.548393,
+        "batch": 2020,
+        "photo": yashrajkakkad,
+        "region": "Asia",
+        "skills": ["Web Dev", "AI/ML"],
+        "name": "Yashraj Kakkad",
+        "bio": "I seem to know something about a few things.",
+        "url": "https://dsc.community.dev/ahmedabad-university/",
+        "chapterName": "Ahmedabad University",
+        "github": "https://github.com/yashrajkakkad",
+        "linkedin": "https://linkedin.com/in/yashrajk",
+        "twitter": "https://twitter.com/KakkadYashraj",
+        "portfolio": "https://yashrajkakkad.me"
+}];
 
 export default data;
