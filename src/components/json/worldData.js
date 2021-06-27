@@ -1012,6 +1012,7 @@ const data = [
         "linkedin": "https://linkedin.com/in/yashrajk",
         "twitter": "https://twitter.com/KakkadYashraj",
         "portfolio": "https://yashrajkakkad.me"
-}];
+	}
+];
 
 export default data;
