@@ -57,6 +57,7 @@ import eswar2001 from "../../photos/eswar2001.jpg";
 import zainul from "../../photos/zainul.jpg";
 import Vedant from "../../photos/Vedant.jpg";
 import yashrajkakkad from "../../photos/yashrajkakkad.jpg";
+import aitik from "../../photos/aitik.jpg";
 
 const data = [
 	{
@@ -885,7 +886,7 @@ const data = [
 		twitter: "https://twitter.com/arrayappy",
 		portfolio: "https://arrayappy.github.io"
 	},
-	
+
 	{
         "latitude": 31.253112,
         "longitude": 74.1336562,
@@ -1012,6 +1013,22 @@ const data = [
         "linkedin": "https://linkedin.com/in/yashrajk",
         "twitter": "https://twitter.com/KakkadYashraj",
         "portfolio": "https://yashrajkakkad.me"
+	},
+	{
+		latitude: 21.49849,
+		longitude: 83.90430,
+		batch: 2020,
+		photo: aitik,
+		region: "Asia",
+		skills: ["AI/ML", "Web Dev", "App Dev"],
+		name: "Aitik Dandapat",
+		bio: "Respect Existance or Expect Resistance",
+		url:
+			"https://dsc.community.dev/veer-surendra-sai-university-of-technology/",
+		chapterName: "Veer Surendra Sai University of Technology, Burla",
+		github: "https://github.com/i-tick",
+		linkedin: "https://linkedin.com/in/aitik-dandapat-b03395184",
+		twitter: "https://twitter.com/AitikDandapat"
 	}
 ];
 
