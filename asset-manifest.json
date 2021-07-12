@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "./static/js/main.cdba9ee2.chunk.js",
-    "main.js.map": "./static/js/main.cdba9ee2.chunk.js.map",
+    "main.js": "./static/js/main.08fbb0e7.chunk.js",
+    "main.js.map": "./static/js/main.08fbb0e7.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.6f484f4f.js",
     "runtime-main.js.map": "./static/js/runtime-main.6f484f4f.js.map",
     "static/css/2.4c97ca4f.chunk.css": "./static/css/2.4c97ca4f.chunk.css",
@@ -37,6 +37,7 @@
     "static/media/adi10hero.ba15ca4e.jpg": "./static/media/adi10hero.ba15ca4e.jpg",
     "static/media/advaithunnikrishnan.664da338.jpg": "./static/media/advaithunnikrishnan.664da338.jpg",
     "static/media/aemiej.94622ad9.jpg": "./static/media/aemiej.94622ad9.jpg",
+    "static/media/aitik.10a8f7fb.jpg": "./static/media/aitik.10a8f7fb.jpg",
     "static/media/akashshrivastava.60909da1.jpg": "./static/media/akashshrivastava.60909da1.jpg",
     "static/media/akshita2k.b2979ebf.jpg": "./static/media/akshita2k.b2979ebf.jpg",
     "static/media/ankitaugale23.228e46bb.jpg": "./static/media/ankitaugale23.228e46bb.jpg",
@@ -74,6 +75,6 @@
     "static/js/runtime-main.6f484f4f.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.37ece750.chunk.js",
-    "static/js/main.cdba9ee2.chunk.js"
+    "static/js/main.08fbb0e7.chunk.js"
   ]
 }
