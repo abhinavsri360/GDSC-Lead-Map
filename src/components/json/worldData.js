@@ -58,6 +58,7 @@ import zainul from "../../photos/zainul.jpg";
 import Vedant from "../../photos/Vedant.jpg";
 import yashrajkakkad from "../../photos/yashrajkakkad.jpg";
 import aitik from "../../photos/aitik.jpg";
+import jestinroy3 from "../../photos/jestinroy3.jpg";
 
 const data = [
 	{
@@ -77,6 +78,23 @@ const data = [
 		twitter: "https://twitter.com/abhinavsri360",
 		portfolio: "https://abhinavsri360.netlify.app"
 	},
+	{
+        "latitude": 28.610950,
+        "longitude": 77.335740,
+        "batch": 2020,
+        "photo": jestinroy3,
+        "region": "Asia",
+        "skills": ["Web Dev","AI/ML","IOT"],
+        "name": "Jestin Roy",
+        "bio": "I am a Software Engineer in the making, knows a bit about making better solutions to complex problems.",
+        "url": "https://dsc.community.dev/mar-athanasius-college-of-engineering/",
+        "chapterName": "Mar Athanasius College of Engineering",
+        "github": "https://github.com/mr-jestin-roy",
+        "linkedin": "https://www.linkedin.com/in/jestinroy3/",
+        "twitter": "https://twitter.com/thejestinroy",
+        "portfolio": "https://jestinroy3.netlify.app/"
+	},
+
 
 	{
 		longitude: 73.856743,
