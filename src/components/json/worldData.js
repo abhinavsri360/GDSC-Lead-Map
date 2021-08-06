@@ -58,6 +58,7 @@ import zainul from "../../photos/zainul.jpg";
 import Vedant from "../../photos/Vedant.jpg";
 import yashrajkakkad from "../../photos/yashrajkakkad.jpg";
 import aitik from "../../photos/aitik.jpg";
+import SanjayDevTech from "../../photos/SanjayDevTech.jpg";
 
 const data = [
 	{
@@ -1029,6 +1030,22 @@ const data = [
 		github: "https://github.com/i-tick",
 		linkedin: "https://linkedin.com/in/aitik-dandapat-b03395184",
 		twitter: "https://twitter.com/AitikDandapat"
+	},
+	{
+        "latitude": 11.1023573,
+        "longitude": 76.965733,
+        "batch": 2021,
+        "photo": SanjayDevTech,
+        "region": "Asia",
+        "skills": ["App Dev", "Web Dev", "AI/ML", "Cloud"],
+        "name": "Sanjay S",
+        "bio": "Be the better version of yourself",
+        "url": "https://gdsc.community.dev/sri-ramakrishna-engineering-college/",
+        "chapterName": "Sri Ramakrishna Engineering College",
+        "github": "https://github.com/SanjayDevTech",
+        "linkedin": "https://linkedin.com/in/sanjaydevtech",
+        "twitter": "https://twitter.com/SanjayDevTech",
+        "portfolio": "https://sanjaydevtech.github.io/"
 	}
 ];
 
