@@ -115,6 +115,7 @@ class map extends Component {
 							<option value={0}>Batch</option>
 							<option value={2019}>2019</option>
 							<option value={2020}>2020</option>
+							<option value={2021}>2021</option>
 						</select>
 					</Grid>
 					<Grid item xs={12} md={2} style={{padding: "5px"}}>
