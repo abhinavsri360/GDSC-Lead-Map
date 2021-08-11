@@ -59,6 +59,7 @@ import Vedant from "../../photos/Vedant.jpg";
 import yashrajkakkad from "../../photos/yashrajkakkad.jpg";
 import aitik from "../../photos/aitik.jpg";
 import SanjayDevTech from "../../photos/SanjayDevTech.jpg";
+import James7881 from "../../photos/James7881.jpg";
 
 const data = [
 	{
@@ -1046,7 +1047,22 @@ const data = [
         "linkedin": "https://linkedin.com/in/sanjaydevtech",
         "twitter": "https://twitter.com/SanjayDevTech",
         "portfolio": "https://sanjaydevtech.github.io/"
-	}
+	},
+	
+     {
+        latitude: 26.8467,
+        longitude: 80.9462,
+        batch: 2021,
+        photo: James7881,
+        region: "Asia",
+        skills: ["App Dev", "Web Dev", "UI/UX"],
+        name: "Jamsher Shekh",
+        bio: "I write code to build Application to provide better User Experrience .",
+        url: "https://gdsc.community.dev/babu-banarasi-das-national-institute-of-technology-management/",
+        chapterName: "Babu Banrasi Das National Institute of Technology and Management",
+        github: "https://github.com/James7881",
+        linkedin: "https://www.linkedin.com/in/jamsher-shekh/",
+	},
 ];
 
 export default data;
