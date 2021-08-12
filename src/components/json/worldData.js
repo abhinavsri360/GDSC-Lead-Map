@@ -59,7 +59,7 @@ import Vedant from "../../photos/Vedant.jpg";
 import yashrajkakkad from "../../photos/yashrajkakkad.jpg";
 import aitik from "../../photos/aitik.jpg";
 import SanjayDevTech from "../../photos/SanjayDevTech.jpg";
-import gohiljay from "../../photos/gohil-jay.jpg";
+import gohil-jay from "../../photos/gohil-jay.jpg";
 
 const data = [
 	{
