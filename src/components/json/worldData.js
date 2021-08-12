@@ -1052,7 +1052,7 @@ const data = [
         "latitude": 23.215635,
         "longitude": 72.636940,
         "batch": 2021,
-        "photo": gohiljay,
+        "photo": gohil-jay,
         "region": "Asia",
         "skills": ["Web Dev", "AI/ML", "Cloud", "UI/UX"],
         "name": "Jay Gohil",
