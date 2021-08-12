@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "./static/js/main.1f744955.chunk.js",
-    "main.js.map": "./static/js/main.1f744955.chunk.js.map",
+    "main.js": "./static/js/main.c2e62a97.chunk.js",
+    "main.js.map": "./static/js/main.c2e62a97.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.5deab395.js",
     "runtime-main.js.map": "./static/js/runtime-main.5deab395.js.map",
     "static/css/2.081f420c.chunk.css": "./static/css/2.081f420c.chunk.css",
@@ -49,6 +49,7 @@
     "static/media/eswar2001.631ade8a.jpg": "./static/media/eswar2001.631ade8a.jpg",
     "static/media/ghpranav.7bf59c41.jpg": "./static/media/ghpranav.7bf59c41.jpg",
     "static/media/ghulamrasuldev.8cf3627e.jpg": "./static/media/ghulamrasuldev.8cf3627e.jpg",
+    "static/media/gohil-jay.163fc7b4.jpg": "./static/media/gohil-jay.163fc7b4.jpg",
     "static/media/harshKumarKhatri.2ae383c1.jpg": "./static/media/harshKumarKhatri.2ae383c1.jpg",
     "static/media/helios027.c655b35d.jpg": "./static/media/helios027.c655b35d.jpg",
     "static/media/ikoala21.80a91a66.jpg": "./static/media/ikoala21.80a91a66.jpg",
@@ -76,6 +77,6 @@
     "static/js/runtime-main.5deab395.js",
     "static/css/2.081f420c.chunk.css",
     "static/js/2.faae917a.chunk.js",
-    "static/js/main.1f744955.chunk.js"
+    "static/js/main.c2e62a97.chunk.js"
   ]
 }
