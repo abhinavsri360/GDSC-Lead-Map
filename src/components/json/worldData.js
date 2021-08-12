@@ -1048,7 +1048,6 @@ const data = [
         "twitter": "https://twitter.com/SanjayDevTech",
         "portfolio": "https://sanjaydevtech.github.io/"
 	},
-	
      {
         latitude: 26.8467,
         longitude: 80.9462,
