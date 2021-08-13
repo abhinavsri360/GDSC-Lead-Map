@@ -1,4 +1,5 @@
 //import pictures
+import LoopGlitch26 from "../../photos/LoopGlitch26.jpg";
 import abhinavsri360 from "../../photos/abhinavsri360.jpg";
 import AravindVNair99 from "../../photos/AravindVNair99.jpg";
 import srilaasya from "../../photos/srilaasya.jpg";
@@ -63,6 +64,21 @@ import James7881 from "../../photos/James7881.jpg";
 import gohiljay from "../../photos/gohil-jay.jpg";
 
 const data = [
+	{
+        "latitude": 20.278940,
+        "longitude": 85.731682,
+        "batch": 2021,
+        "photo": LoopGlitch26,
+        "region": "Asia",
+        "skills": ["App Dev", "Web Dev", "AI/ML", "Cloud", "Quantum Computing"],
+        "name": "Bravish Ghosh",
+        "bio": "I love SteinsGate",
+        "url": "https://gdsc.community.dev/institute-of-technical-education-research/",
+        "chapterName": "Institute of Technical Education & Research, Siksha 'O' Anusandhan University",
+        "github": "https://github.com/LoopGlitch26",
+        "linkedin": "https://www.linkedin.com/in/bravish-ghosh/"
+	},
+
 	{
 		longitude: 77.3653,
 		latitude: 28.5192,
