@@ -60,6 +60,7 @@ import yashrajkakkad from "../../photos/yashrajkakkad.jpg";
 import aitik from "../../photos/aitik.jpg";
 import SanjayDevTech from "../../photos/SanjayDevTech.jpg";
 import James7881 from "../../photos/James7881.jpg";
+import gohiljay from "../../photos/gohil-jay.jpg";
 
 const data = [
 	{
@@ -79,7 +80,6 @@ const data = [
 		twitter: "https://twitter.com/abhinavsri360",
 		portfolio: "https://abhinavsri360.netlify.app"
 	},
-
 	{
 		longitude: 73.856743,
 		latitude: 18.52043,
@@ -888,7 +888,6 @@ const data = [
 		twitter: "https://twitter.com/arrayappy",
 		portfolio: "https://arrayappy.github.io"
 	},
-
 	{
         "latitude": 31.253112,
         "longitude": 74.1336562,
@@ -1062,6 +1061,22 @@ const data = [
         github: "https://github.com/James7881",
         linkedin: "https://www.linkedin.com/in/jamsher-shekh/",
 	},
+	{
+        "latitude": 23.215635,
+        "longitude": 72.636940,
+        "batch": 2021,
+        "photo": gohiljay,
+        "region": "Asia",
+        "skills": ["Web Dev", "AI/ML", "Cloud", "UI/UX"],
+        "name": "Jay Gohil",
+        "bio": "I am amalgam of an engineer skilled in Python, Data Science, Machine Learning, Web Development, Software Development and Cloud Computing; while being a Certified Six Sigma Executive (CSSE) with ardour and experience in Management, Finance, Business and Public Speaking.",
+        "url": "https://gdsc.community.dev/pandit-deendayal-petroleum-university/",
+        "chapterName": "Pandit Deendayal Energy University",
+        "github": "https://github.com/gohil-jay",
+        "linkedin": "https://www.linkedin.com/in/jay--gohil/",
+        "twitter": "",
+        "portfolio": "https://jay-gohil.me/"
+	}
 ];
 
 export default data;
