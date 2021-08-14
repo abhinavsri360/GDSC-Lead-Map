@@ -1,4 +1,4 @@
-<p align="center"><img width="20%" src = "gdsc-logo.gif" styles></p>
+<p align="center"><img width="20%" src = "gdsc-logo.gif"></p>
 <p align="center"><img width ="45%" src="gdsc.png"></p>
 
 <h1 align="center">Lead Map</h1>
