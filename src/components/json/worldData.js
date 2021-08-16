@@ -62,6 +62,7 @@ import aitik from "../../photos/aitik.jpg";
 import SanjayDevTech from "../../photos/SanjayDevTech.jpg";
 import James7881 from "../../photos/James7881.jpg";
 import gohiljay from "../../photos/gohil-jay.jpg";
+import diksha from "../../photos/FireQueen-3010.jpg"
 
 const data = [
 	
@@ -79,7 +80,21 @@ const data = [
 		github: "https://github.com/LoopGlitch26",
 		linkedin: "https://www.linkedin.com/in/bravish-ghosh/",
 	},
-	
+
+	{
+		longitude: 83.218483,
+		latitude: 17.686815,
+		batch: 2021,
+		photo: diksha,
+		region: "Asia",
+		skills: ["Web Dev", "AI/ML", "UI/UX"],
+		name: "Diksha Patro B",
+		bio: "Dev is an ocean, every technology we use is just a drop in this ocean.",
+		url: "https://gdsc.community.dev/dr-lankapalli-bullayya-college-of-engineering/",
+		chapterName: "Dr.Lankapalli Bullayya College of Engineering, Visakhapatnam",
+		github: "https://github.com/FireQueen-3010",
+		linkedin: "https://www.linkedin.com/in/diksha-patro-b-a8907b162/",
+	},
 
 	{
 		longitude: 77.3653,
