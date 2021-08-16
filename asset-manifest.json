@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "./static/js/main.03672170.chunk.js",
-    "main.js.map": "./static/js/main.03672170.chunk.js.map",
+    "main.js": "./static/js/main.db5c18a0.chunk.js",
+    "main.js.map": "./static/js/main.db5c18a0.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.5deab395.js",
     "runtime-main.js.map": "./static/js/runtime-main.5deab395.js.map",
     "static/css/2.081f420c.chunk.css": "./static/css/2.081f420c.chunk.css",
@@ -23,6 +23,7 @@
     "static/media/Aravindh020.b36f3c69.jpg": "./static/media/Aravindh020.b36f3c69.jpg",
     "static/media/AsishRaju.ae980d72.jpg": "./static/media/AsishRaju.ae980d72.jpg",
     "static/media/Aswin.4b6c4b04.jpg": "./static/media/Aswin.4b6c4b04.jpg",
+    "static/media/FireQueen-3010.9fddb4d2.jpg": "./static/media/FireQueen-3010.9fddb4d2.jpg",
     "static/media/Jacob.42d35825.jpg": "./static/media/Jacob.42d35825.jpg",
     "static/media/James7881.36ddc9ba.jpg": "./static/media/James7881.36ddc9ba.jpg",
     "static/media/LoopGlitch26.09da9e50.jpg": "./static/media/LoopGlitch26.09da9e50.jpg",
@@ -79,6 +80,6 @@
     "static/js/runtime-main.5deab395.js",
     "static/css/2.081f420c.chunk.css",
     "static/js/2.faae917a.chunk.js",
-    "static/js/main.03672170.chunk.js"
+    "static/js/main.db5c18a0.chunk.js"
   ]
 }
