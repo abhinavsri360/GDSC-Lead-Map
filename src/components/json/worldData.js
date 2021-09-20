@@ -1,4 +1,5 @@
 //import pictures
+import mriceflame from "../../photos/mriceflame.jpg";
 import LoopGlitch26 from "../../photos/LoopGlitch26.jpg";
 import abhinavsri360 from "../../photos/abhinavsri360.jpg";
 import AravindVNair99 from "../../photos/AravindVNair99.jpg";
@@ -65,7 +66,24 @@ import gohiljay from "../../photos/gohil-jay.jpg";
 import diksha from "../../photos/FireQueen-3010.jpg"
 
 const data = [
-	
+
+	{
+		longitude: 74.288929,
+		latitude: 31.478049,
+		batch: 2021,
+		photo: mriceflame,
+		region: "Asia",
+		skills: ["Web Dev", "AI/ML", "Cloud", "Cybersecurity"],
+		name: "Farhan Ashraf",
+		bio: "A passionate guy, breaking streotypes",
+		url: "https://gdsc.community.dev/bahria-university-lahore/",
+		chapterName: "Bahria University , Lahore Campus",
+		github: "https://github.com/mriceflame",
+		linkedin: "https://www.linkedin.com/in/s4a/",
+		twitter: "https://twitter.com/mriceflame",
+		portfolio: "https://mriceflame.co"
+	},
+
 	{
 		longitude: 85.824539,
 		latitude: 20.296059,
