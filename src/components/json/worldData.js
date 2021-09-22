@@ -64,6 +64,7 @@ import SanjayDevTech from "../../photos/SanjayDevTech.jpg";
 import James7881 from "../../photos/James7881.jpg";
 import gohiljay from "../../photos/gohil-jay.jpg";
 import diksha from "../../photos/FireQueen-3010.jpg";
+import MuhideenMujeeb from "../../photos/MuhideenMujeeb.jpg";
 import Tamunokorite from "../../photos/TamunokoriteBriggs.jpg";
 
 const data = [
@@ -1129,7 +1130,23 @@ const data = [
         "twitter": "",
         "portfolio": "https://jay-gohil.me/"
 	},
-	{
+  {
+        "latitude": 9.655593,
+        "longitude": 6.528576,
+        "batch": 2021,
+        "photo": MuhideenMujeeb,
+        "region": "Africa",
+        "skills": ["Web Dev", "App Dev", "Cloud"],
+        "name": "Muhideen Mujeeb Adeoye",
+        "bio": "Tech Enthusiast || Software developer || Flutter Developer || Lover of clean code || Community builder",
+        "url": "https://gdsc.community.dev/federal-university-of-technology-minna/",
+        "chapterName": "Federal university of technology, Minna",
+        "github": "https://github.com/mujhtech",
+        "linkedin": "https://www.linkedin.com/in/muhideen-mujeeb-adeoye-42378a15b/",
+        "twitter": "https://twitter.com/mmujhtech",
+        "portfolio": "https://mujh.tech/",
+  },
+  {
         "latitude": 9.061460,
         "longitude": 7.500640,
         "batch": 2021,
