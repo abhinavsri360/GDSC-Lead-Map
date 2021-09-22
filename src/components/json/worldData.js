@@ -63,7 +63,8 @@ import aitik from "../../photos/aitik.jpg";
 import SanjayDevTech from "../../photos/SanjayDevTech.jpg";
 import James7881 from "../../photos/James7881.jpg";
 import gohiljay from "../../photos/gohil-jay.jpg";
-import diksha from "../../photos/FireQueen-3010.jpg"
+import diksha from "../../photos/FireQueen-3010.jpg";
+import Tamunokorite from "../../photos/TamunokoriteBriggs.jpg";
 
 const data = [
 
@@ -1127,6 +1128,22 @@ const data = [
         "linkedin": "https://www.linkedin.com/in/jay--gohil/",
         "twitter": "",
         "portfolio": "https://jay-gohil.me/"
+	},
+	{
+        "latitude": 9.061460,
+        "longitude": 7.500640,
+        "batch": 2021,
+        "photo": Tamunokorite,
+        "region": "Africa",
+        "skills": ["Web Development", "Technical Writing", "AI/ML"],
+        "name": "Tamunokorite Briggs",
+        "bio": "I'm a web developer who just got into AI/ML. I'm enthusiastic about technology and I love coding and using code to solve problems. I hope to share my passion for technology with as many people as possible.",
+        "url": "https://bit.ly/gdsc-nun",
+        "chapterName": "Nile University of Nigeria",
+        "github": "https://github.com/Tamunokorite",
+        "linkedin": "http://linkedin.com/in/tamunokorite-briggs-731551211",
+        "twitter": "https://twitter.com/BriggsOkorite",
+        "portfolio": "https://tamunokoritebriggs.herokuapp.com"
 	}
 ];
 
