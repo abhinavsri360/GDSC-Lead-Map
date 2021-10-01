@@ -1181,7 +1181,7 @@ const data = [
 		"linkedin": "http://linkedin.com/in/tamunokorite-briggs-731551211",
 		"twitter": "https://twitter.com/BriggsOkorite",
 		"portfolio": "https://tamunokoritebriggs.herokuapp.com"
-	}
+	},
 	{
         "latitude": 26.731417,
         "longitude": 83.437335,
