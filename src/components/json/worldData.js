@@ -67,6 +67,8 @@ import diksha from "../../photos/FireQueen-3010.jpg";
 import MuhideenMujeeb from "../../photos/MuhideenMujeeb.jpg";
 import Tamunokorite from "../../photos/TamunokoriteBriggs.jpg";
 import Sharjeel from "../../photos/sharjeel.jpg";
+import ralphcoder from "../../photos/ralphcoder.jpg";
+
 
 const data = [
 
@@ -1179,7 +1181,24 @@ const data = [
 		"linkedin": "http://linkedin.com/in/tamunokorite-briggs-731551211",
 		"twitter": "https://twitter.com/BriggsOkorite",
 		"portfolio": "https://tamunokoritebriggs.herokuapp.com"
-	}
+	},
+	{
+        "latitude": 26.731417,
+        "longitude": 83.437335,
+        "batch": 2021,
+        "photo": ralphcoder,
+        "region": "Asia",
+        "skills": ["Web Dev", "UI/UX", "App Dev"],
+        "name": "Abhinash Kumar Yadav",
+        "bio": "I have passion for competitive programming and problem-solving. I love to develop and design new and creative stuff.",
+        "url": "https://dsc.community.dev/madan-mohan-malaviya-university-of-technology/",
+        "chapterName": "Madan Mohan Malaviya University Of Technology",
+        "github": "https://github.com/ralphcoder",
+        "linkedin": "https://www.linkedin.com/in/ralphcoder/",
+        "twitter": "https://twitter.com/ralphcoder",
+        "portfolio": "https://ralphcoder.github.io/"
+}
+
 ];
 
 export default data;
