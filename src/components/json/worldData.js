@@ -78,7 +78,7 @@ const data = [
 		batch: 2021,
 		photo: Sharjeel,
 		region: "Asia",
-		skills: ["Web Dev", "React", "NextJS", "UI/UX"],
+		skills: ["Web Dev", "App Dev", "Cloud", "UI/UX"],
 		name: "Sharjeel Yunus",
 		bio: "Open Sourcerer | Imaginator | Web Enthusiast",
 		url: "https://gdsc.community.dev/the-islamia-university-of-bahawalpur/",
