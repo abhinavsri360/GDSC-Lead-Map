@@ -66,7 +66,7 @@ import gohiljay from "../../photos/gohil-jay.jpg";
 import diksha from "../../photos/FireQueen-3010.jpg";
 import MuhideenMujeeb from "../../photos/MuhideenMujeeb.jpg";
 import Tamunokorite from "../../photos/TamunokoriteBriggs.jpg";
-import Sharjeel from "../../photos/Sharjeel.jpg";
+import Sharjeel from "../../photos/sharjeel.jpg";
 
 const data = [
 
@@ -76,7 +76,7 @@ const data = [
 		batch: 2021,
 		photo: Sharjeel,
 		region: "Asia",
-		skills: ["Web Dev", "React", "NextJS", "UI/UX"],
+		skills: ["Web Dev", "App Dev", "Cloud", "UI/UX"],
 		name: "Sharjeel Yunus",
 		bio: "Open Sourcerer | Imaginator | Web Enthusiast",
 		url: "https://gdsc.community.dev/the-islamia-university-of-bahawalpur/",
