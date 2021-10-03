@@ -68,9 +68,25 @@ import MuhideenMujeeb from "../../photos/MuhideenMujeeb.jpg";
 import Tamunokorite from "../../photos/TamunokoriteBriggs.jpg";
 import Sharjeel from "../../photos/sharjeel.jpg";
 import ralphcoder from "../../photos/ralphcoder.jpg";
-
+import karan from "../../photos/Karan.jpg";
 
 const data = [
+{
+	longitude:73.789803,
+	latitude:19.997454,
+	batch:2021,
+	photo:karan,
+	region:"Asia",
+	skills:["Web Dev","Cloud","Cybersecurity","App Dev"],
+	name:"Karan Wagh",
+	bio:"A bug is never just a mistake, it represents something bigger",
+	url:"https://gdsc.community.dev/modern-education-societys-college-of-engineering-pune/",
+	chapterName:"Modern Education Society's College of Engineering, Pune",
+	github:"https://github.com/FlashTech-dev",
+	linkedin:"https://www.linkedin.com/in/karanwagh/",
+	twitter:"https://twitter.com/karannwagh"
+
+},
 
 	{
 		longitude: 29.389980,
