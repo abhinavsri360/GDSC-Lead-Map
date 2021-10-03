@@ -68,7 +68,7 @@ import MuhideenMujeeb from "../../photos/MuhideenMujeeb.jpg";
 import Tamunokorite from "../../photos/TamunokoriteBriggs.jpg";
 import Sharjeel from "../../photos/sharjeel.jpg";
 import ralphcoder from "../../photos/ralphcoder.jpg";
-import karan from "../../photos/karan.jpg";
+import karan from "../../photos/Karan.jpg";
 
 const data = [
 {
