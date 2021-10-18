@@ -69,25 +69,26 @@ import Tamunokorite from "../../photos/TamunokoriteBriggs.jpg";
 import Sharjeel from "../../photos/sharjeel.jpg";
 import ralphcoder from "../../photos/ralphcoder.jpg";
 import karan from "../../photos/Karan.jpg";
+import ishubham21 from "../../photos/ishubham21.jpg"
 import rohitdalvi18 from "../../photos/rohitdalvi18.jpg";
 
 const data = [
-{
-	longitude:73.789803,
-	latitude:19.997454,
-	batch:2021,
-	photo:karan,
-	region:"Asia",
-	skills:["Web Dev","Cloud","Cybersecurity","App Dev"],
-	name:"Karan Wagh",
-	bio:"A bug is never just a mistake, it represents something bigger",
-	url:"https://gdsc.community.dev/modern-education-societys-college-of-engineering-pune/",
-	chapterName:"Modern Education Society's College of Engineering, Pune",
-	github:"https://github.com/FlashTech-dev",
-	linkedin:"https://www.linkedin.com/in/karanwagh/",
-	twitter:"https://twitter.com/karannwagh"
+	{
+		longitude: 73.789803,
+		latitude: 19.997454,
+		batch: 2021,
+		photo: karan,
+		region: "Asia",
+		skills: ["Web Dev", "Cloud", "Cybersecurity", "App Dev"],
+		name: "Karan Wagh",
+		bio: "A bug is never just a mistake, it represents something bigger",
+		url: "https://gdsc.community.dev/modern-education-societys-college-of-engineering-pune/",
+		chapterName: "Modern Education Society's College of Engineering, Pune",
+		github: "https://github.com/FlashTech-dev",
+		linkedin: "https://www.linkedin.com/in/karanwagh/",
+		twitter: "https://twitter.com/karannwagh"
 
-},
+	},
 
 	{
 		longitude: 29.389980,
@@ -1200,21 +1201,37 @@ const data = [
 		"portfolio": "https://tamunokoritebriggs.herokuapp.com"
 	},
 	{
-        "latitude": 26.731417,
-        "longitude": 83.437335,
-        "batch": 2021,
-        "photo": ralphcoder,
-        "region": "Asia",
-        "skills": ["Web Dev", "UI/UX", "App Dev"],
-        "name": "Abhinash Kumar Yadav",
-        "bio": "I have passion for competitive programming and problem-solving. I love to develop and design new and creative stuff.",
-        "url": "https://dsc.community.dev/madan-mohan-malaviya-university-of-technology/",
-        "chapterName": "Madan Mohan Malaviya University Of Technology",
-        "github": "https://github.com/ralphcoder",
-        "linkedin": "https://www.linkedin.com/in/ralphcoder/",
-        "twitter": "https://twitter.com/ralphcoder",
-        "portfolio": "https://ralphcoder.github.io/"
-},
+		"latitude": 26.731417,
+		"longitude": 83.437335,
+		"batch": 2021,
+		"photo": ralphcoder,
+		"region": "Asia",
+		"skills": ["Web Dev", "UI/UX", "App Dev"],
+		"name": "Abhinash Kumar Yadav",
+		"bio": "I have passion for competitive programming and problem-solving. I love to develop and design new and creative stuff.",
+		"url": "https://dsc.community.dev/madan-mohan-malaviya-university-of-technology/",
+		"chapterName": "Madan Mohan Malaviya University Of Technology",
+		"github": "https://github.com/ralphcoder",
+		"linkedin": "https://www.linkedin.com/in/ralphcoder/",
+		"twitter": "https://twitter.com/ralphcoder",
+		"portfolio": "https://ralphcoder.github.io/"
+	},
+	{
+		"latitude": 25.192181,
+		"longitude": 75.850838,
+		"batch": 2023,
+		"photo": ishubham21,
+		"region": "Asia",
+		"skills": ["Web Dev", "UI/UX", "Cloud"],
+		"name": "Shubham Gautam",
+		"bio": "Hey! I am Shubham. I love devops, building web applications, and introvert people.",
+		"url": "https://gdsc.community.dev/rajasthan-technical-university-kota/",
+		"chapterName": "Rajasthan Technical University",
+		"github": "https://github.com/ishubham21",
+		"linkedin": "https://www.linkedin.com/in/ishubham21/",
+		"twitter": "https://twitter.com/ishubham6",
+		"portfolio": "https://shubham-portfolio.vercel.app"
+	},
 {
         "latitude": 18.5169,
         "longitude": 73.835,
@@ -1230,8 +1247,6 @@ const data = [
         "linkedin": "https://www.linkedin.com/in/rohit-dalvi/",
         "twitter": "https://twitter.com/anotherohit"
 }
-
-
 ];
 
 export default data;
