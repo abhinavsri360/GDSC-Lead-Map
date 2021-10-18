@@ -70,6 +70,7 @@ import Sharjeel from "../../photos/sharjeel.jpg";
 import ralphcoder from "../../photos/ralphcoder.jpg";
 import karan from "../../photos/Karan.jpg";
 import ishubham21 from "../../photos/ishubham21.jpg"
+import rohitdalvi18 from "../../photos/rohitdalvi18.jpg";
 
 const data = [
 	{
@@ -1230,8 +1231,22 @@ const data = [
 		"linkedin": "https://www.linkedin.com/in/ishubham21/",
 		"twitter": "https://twitter.com/ishubham6",
 		"portfolio": "https://shubham-portfolio.vercel.app"
-	}
-
+	},
+{
+        "latitude": 18.5169,
+        "longitude": 73.835,
+        "batch": 2021,
+        "photo": rohitdalvi18,
+        "region": "Asia",
+        "skills": ["App Dev", "Web Dev", "UI/UX", "AI/ML"],
+        "name": "Rohit Dalvi",
+        "bio": "Create things that make a difference",
+        "url": "https://gdsc.community.dev/pune-vidyarthi-grihas-college-of-engineering-and-technology-pune/",
+        "chapterName": "Pune Vidyarthi Griha's College of Engineering and Technology - Pune",
+        "github": "https://github.com/rohitdalvi18",
+        "linkedin": "https://www.linkedin.com/in/rohit-dalvi/",
+        "twitter": "https://twitter.com/anotherohit"
+}
 ];
 
 export default data;
