@@ -1247,7 +1247,7 @@ const data = [
         "github": "https://github.com/rohitdalvi18",
         "linkedin": "https://www.linkedin.com/in/rohit-dalvi/",
         "twitter": "https://twitter.com/anotherohit"
-}
+},
 {
 		longitude: 76.635086,
 		latitude: 10.060190,
