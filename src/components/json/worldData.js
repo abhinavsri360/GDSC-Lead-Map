@@ -71,6 +71,7 @@ import ralphcoder from "../../photos/ralphcoder.jpg";
 import karan from "../../photos/Karan.jpg";
 import ishubham21 from "../../photos/ishubham21.jpg"
 import rohitdalvi18 from "../../photos/rohitdalvi18.jpg";
+import jestinroy3 from "../../photos/jestinroy3.jpg";
 
 const data = [
 	{
@@ -1247,6 +1248,22 @@ const data = [
         "linkedin": "https://www.linkedin.com/in/rohit-dalvi/",
         "twitter": "https://twitter.com/anotherohit"
 }
+{
+		longitude: 76.635086,
+		latitude: 10.060190,
+		batch: 2020,
+		photo: jestinroy3,
+		region: "Asia",
+		skills: ["Web Dev", "App Dev", "UI/UX", "Cloud"],
+		name: "Jestin Roy",
+		bio: "while( ! successAchieved() ) workHard();",
+		url:"https://gdsc.community.dev/mar-athanasius-college-of-engineering-kothamangalam/",
+		chapterName: "Mar Athanasius College of Engineering, Kothamangalam",
+		github: "https://github.com/mr-jestin-roy/",
+		linkedin: "https://www.linkedin.com/in/jestinroy3/",
+		twitter: "https://twitter.com/thejestinroy",
+		portfolio: "https://jestinroy3.netlify.app/"
+	},
 ];
 
 export default data;
