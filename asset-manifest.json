@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "./static/js/main.e6e3a02f.chunk.js",
-    "main.js.map": "./static/js/main.e6e3a02f.chunk.js.map",
+    "main.js": "./static/js/main.4ec4c3e8.chunk.js",
+    "main.js.map": "./static/js/main.4ec4c3e8.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.5deab395.js",
     "runtime-main.js.map": "./static/js/runtime-main.5deab395.js.map",
     "static/css/2.081f420c.chunk.css": "./static/css/2.081f420c.chunk.css",
@@ -61,6 +61,7 @@
     "static/media/ikoala21.80a91a66.jpg": "./static/media/ikoala21.80a91a66.jpg",
     "static/media/ishubham21.35376038.jpg": "./static/media/ishubham21.35376038.jpg",
     "static/media/jemikp.63e66d0b.jpg": "./static/media/jemikp.63e66d0b.jpg",
+    "static/media/jestinroy3.f5fcfd9c.jpg": "./static/media/jestinroy3.f5fcfd9c.jpg",
     "static/media/kartikbhushan.087b45dc.jpg": "./static/media/kartikbhushan.087b45dc.jpg",
     "static/media/kartikderasari.02781aee.jpg": "./static/media/kartikderasari.02781aee.jpg",
     "static/media/kunalgehlot.3614f85f.jpg": "./static/media/kunalgehlot.3614f85f.jpg",
@@ -88,6 +89,6 @@
     "static/js/runtime-main.5deab395.js",
     "static/css/2.081f420c.chunk.css",
     "static/js/2.faae917a.chunk.js",
-    "static/js/main.e6e3a02f.chunk.js"
+    "static/js/main.4ec4c3e8.chunk.js"
   ]
 }
