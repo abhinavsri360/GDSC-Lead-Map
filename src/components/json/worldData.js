@@ -5,6 +5,7 @@ import abhinavsri360 from "../../photos/abhinavsri360.jpg";
 import AravindVNair99 from "../../photos/AravindVNair99.jpg";
 import srilaasya from "../../photos/srilaasya.jpg";
 import Aswin from "../../photos/Aswin.jpg";
+import AnubhavMadhav from "../../photos/AnubhavMadhav.jpg"
 import helios027 from "../../photos/helios027.jpg";
 import shawavisek35 from "../../photos/shawavisek35.jpg";
 import karthik from "../../photos/karthik.jpg";
@@ -463,6 +464,22 @@ const data = [
 		linkedin: "https://linkedin.com/in/chrisft25",
 		twitter: "https://twitter.com/chrisft25",
 		portfolio: "https://chrisfuentes.me"
+	},
+	{
+        "latitude": 22.31377,
+        "longitude": 73.12361,
+        "batch": 2021,
+        "photo": AnubhavMadhav,
+        "region": "India",
+        "skills": ["Web Dev", "XR", "App Dev", "UI/UX"],
+        "name": "Anubhav Madhav",
+        "bio": "Explorer!",
+        "url": "https://gdsc.community.dev/indian-institute-of-information-technology-vadodara/",
+        "chapterName": "Indian Institute Of Information Technology, Vadodara",
+        "github": "https://github.com/anubhavmadhav",
+        "linkedin": "https://linkedin.com/in/anubhav-madhav",
+        "twitter": "https://twitter.com/anubhav_madhav",
+        "portfolio": "https://anubhavmadhav.github.io/Anubhav-Madhav"
 	},
 	{
 		longitude: 76.299881,
