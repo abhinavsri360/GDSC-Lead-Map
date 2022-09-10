@@ -73,6 +73,7 @@ import karan from "../../photos/Karan.jpg";
 import ishubham21 from "../../photos/ishubham21.jpg"
 import rohitdalvi18 from "../../photos/rohitdalvi18.jpg";
 import jestinroy3 from "../../photos/jestinroy3.jpg";
+import abhinavsri360 from "../../photos/JuliusKanneh.jpg";
 
 const data = [
 	{
@@ -1280,6 +1281,22 @@ const data = [
 		linkedin: "https://www.linkedin.com/in/jestinroy3/",
 		twitter: "https://twitter.com/thejestinroy",
 		portfolio: "https://jestinroy3.netlify.app/"
+	},
+{
+		longitude: -1.981760,
+		latitude: 30.035740,
+		batch: 2022,
+		photo: JuliusKanneh,
+		region: "Africa",
+		skills: ["Web Dev", "IOT"],
+		name: "Julius Kanneh",
+		bio: "Software Developer Eager to solve problem and make the world a better place for everyone using technology and by being humane",
+		url:"https://gdsc.community.dev/university-of-lay-adventist-of-kigali/",
+		chapterName: "University of Lay Adventist of Kigali",
+		github: "https://github.com/JuliusKanneh/",
+		linkedin: "https://www.linkedin.com/in/julius-aries-kanneh-jr-0b61a71a8/",
+		twitter: "https://twitter.com/AriesKanneh",
+		portfolio: "https://github.com/JuliusKanneh/"
 	},
 ];
 
