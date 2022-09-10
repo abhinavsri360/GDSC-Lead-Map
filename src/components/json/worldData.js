@@ -73,7 +73,7 @@ import karan from "../../photos/Karan.jpg";
 import ishubham21 from "../../photos/ishubham21.jpg"
 import rohitdalvi18 from "../../photos/rohitdalvi18.jpg";
 import jestinroy3 from "../../photos/jestinroy3.jpg";
-import abhinavsri360 from "../../photos/JuliusKanneh.jpg";
+import JuliusKanneh from "../../photos/JuliusKanneh.jpg";
 
 const data = [
 	{
