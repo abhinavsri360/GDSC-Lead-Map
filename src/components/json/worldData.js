@@ -1288,7 +1288,7 @@ const data = [
 		batch: 2022,
 		photo: JuliusKanneh,
 		region: "Africa",
-		skills: ["Web Dev", "IOT"],
+		skills: ["Web Dev", "IoT"],
 		name: "Julius Kanneh",
 		bio: "Software Developer Eager to solve problem and make the world a better place for everyone using technology and by being humane",
 		url:"https://gdsc.community.dev/university-of-lay-adventist-of-kigali/",
