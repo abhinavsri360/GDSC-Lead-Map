@@ -73,6 +73,7 @@ import karan from "../../photos/Karan.jpg";
 import ishubham21 from "../../photos/ishubham21.jpg"
 import rohitdalvi18 from "../../photos/rohitdalvi18.jpg";
 import jestinroy3 from "../../photos/jestinroy3.jpg";
+import ajaysinghpanwar from "../../photos/ajaysinghpanwar.jpg"
 
 const data = [
 	{
@@ -1280,6 +1281,22 @@ const data = [
 		linkedin: "https://www.linkedin.com/in/jestinroy3/",
 		twitter: "https://twitter.com/thejestinroy",
 		portfolio: "https://jestinroy3.netlify.app/"
+	},
+	{
+		longitude: 73.855410,
+		latitude: 18.520760,
+		batch: 2025,
+		photo: ajaysinghpanwar,
+		region: "Asia",
+		skills: ["Web Dev", "AI/ML", "UI/UX", "Cloud"],
+		name: "Ajay singh",
+		bio: "The only lost person I wanted back was myself",
+		url:"https://gdsc.community.dev/army-institute-of-technology-pune/",
+		chapterName: "Army institute of technology",
+		github: "https://github.com/ajaysinghpanwar2002/",
+		linkedin: "https://www.linkedin.com/in/ajay-singh-654117223/",
+		twitter: "https://twitter.com/heyajaysingh/",
+		portfolio: "https://heyajaysingh.netlify.app/"
 	},
 ];
 
